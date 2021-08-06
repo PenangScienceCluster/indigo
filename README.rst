@@ -1,4 +1,4 @@
-Indigo, a cool blue theme for Open edX
+Themes for Open EdX CMS & LMS (WIP)
 ======================================
 
 Indigo is an elegant, customizable theme for `Open edX <https://open.edx.org>`__.
