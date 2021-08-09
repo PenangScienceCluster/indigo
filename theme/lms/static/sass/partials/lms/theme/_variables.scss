@@ -1,17 +1,17 @@
-// Sample red theme to demonstrate SASS overrides
+// Sample green theme to demonstrate SASS overrides
 
 // Theme colors
 //
 // Note: define colors needed by your theme first
 
-// Define the primary red color
-$red: #d9534f;
+// Define the primary green color
+$green: #99d98c;
 
-// Make red the primary color
-$primary: $red;
+// Make green the primary color
+$primary: $green;
 
 // Theme fonts
-$font-family-sans-serif: cursive;
+$font-family-sans-serif: 'Poppins';
 
 // Initialize the Open edX Bootstrap theme
 @import 'edx-bootstrap/sass/open-edx/theme';
