@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,400i,600,700");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,600,700");
 /* @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700"); */
 
@@ -3674,7 +3674,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
     box-sizing: border-box;
     text-align: left;
     line-height: 1.5;
-    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1rem;
     font-weight: 400
 }
@@ -7412,7 +7412,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
     box-sizing: border-box;
     text-align: left;
     line-height: 1.5;
-    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1rem;
     font-weight: 400
 }
@@ -8170,7 +8170,7 @@ body {
 
 h1,h2,.home>header .title>.heading-group p,section.outside-app h1,h3,h4,h5,h6 {
     color: #313131;
-    font: normal 1.2em/1.2em Georgia,Cambria,"Times New Roman",Times,serif;
+    font: normal 1.2em/1.2em 'Montserrat',Cambria,"Times New Roman",Times,serif;
     margin: 0
 }
 
@@ -8183,7 +8183,7 @@ h1 {
 
 h2,.home>header .title>.heading-group p,section.outside-app h1 {
     color: #646464;
-    font: normal 1.2em/1.2em Georgia,Cambria,"Times New Roman",Times,serif;
+    font: normal 1.2em/1.2em 'Montserrat',Cambria,"Times New Roman",Times,serif;
     margin-bottom: 15px;
     -webkit-font-smoothing: antialiased
 }
@@ -8320,7 +8320,7 @@ span.edx {
 
 .static-container ol li,.static-container ul li {
     color: #313131;
-    font: normal 1em/1.4em Georgia,Cambria,"Times New Roman",Times,serif;
+    font: normal 1em/1.4em 'Montserrat',Cambria,"Times New Roman",Times,serif;
     margin: 0
 }
 
@@ -9501,7 +9501,7 @@ form {
 
 label {
     color: #313131;
-    font: italic 300 1rem/1.6rem Georgia,Cambria,"Times New Roman",Times,serif;
+    font: italic 300 1rem/1.6rem 'Montserrat',Cambria,"Times New Roman",Times,serif;
     margin-bottom: 5px;
     text-shadow: 0 1px rgba(255,255,255,0.4);
     -webkit-font-smoothing: antialiased
@@ -9526,7 +9526,7 @@ textarea,input[type="text"],input[type="url"],input[type="email"],input[type="pa
     border-radius: 3px;
     box-shadow: 0 1px 0 0 rgba(255,255,255,0.6),inset 0 0 3px 0 rgba(0,0,0,0.1);
     box-sizing: border-box;
-    font: italic 300 1rem/1.6rem Georgia,Cambria,"Times New Roman",Times,serif;
+    font: italic 300 1rem/1.6rem 'Montserrat',Cambria,"Times New Roman",Times,serif;
     height: 35px;
     padding: 5px 12px;
     vertical-align: top;
@@ -11178,7 +11178,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     box-sizing: border-box;
     box-shadow: 0 1px 0 0 rgba(255,255,255,0.6);
     color: #313131;
-    font-family: "Open Sans",Arial,Helvetica,sans-serif;
+    font-family: "Montserrat",Arial,Helvetica,sans-serif;
     display: inline-block;
     line-height: 1em;
     margin: 1px 5px;
@@ -11755,7 +11755,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .highlighted-courses .courses .course .info .desc section,.find-courses .courses .course .info .desc section {
     color: #313131;
-    font: normal 1em/1.6em Georgia,Cambria,"Times New Roman",Times,serif;
+    font: normal 1em/1.6em 'Montserrat',Cambria,"Times New Roman",Times,serif;
     margin: 0;
     height: 100%;
     overflow: hidden;
@@ -13011,7 +13011,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .home .more-info .news .press-links a {
     line-height: 1.6em;
-    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    font-family: 'Montserrat',Cambria,"Times New Roman",Times,serif;
     font-style: italic;
     margin-left: 10px
 }
@@ -14550,7 +14550,7 @@ a.fade-cover {
     margin: 0 0 20px 0;
     font-weight: 300;
     color: #313131;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 1.55733em
 }
 
@@ -16277,7 +16277,7 @@ a.fade-cover {
 }
 
 .course-info .details {
-    font: normal 1em/1.6em Georgia,Cambria,"Times New Roman",Times,serif
+    font: normal 1em/1.6em 'Montserrat',Cambria,"Times New Roman",Times,serif
 }
 
 @media (min-width: 768px) {
@@ -16341,7 +16341,7 @@ a.fade-cover {
 }
 
 .course-info .details .inner-wrapper .prerequisites ul li,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .prerequisites ul li,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .prerequisites ul li,.course-info .details .inner-wrapper .syllabus ul li,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .syllabus ul li,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .syllabus ul li {
-    font: normal 1em/1.6em Georgia,Cambria,"Times New Roman",Times,serif
+    font: normal 1em/1.6em 'Montserrat',Cambria,"Times New Roman",Times,serif
 }
 
 .course-info .details .inner-wrapper .prerequisites ul ul,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .prerequisites ul ul,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .prerequisites ul ul,.course-info .details .inner-wrapper .syllabus ul ul,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .syllabus ul ul,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .syllabus ul ul {
@@ -16474,7 +16474,7 @@ a.fade-cover {
     box-sizing: border-box;
     color: #fff;
     float: right;
-    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    font-family: 'Montserrat',Cambria,"Times New Roman",Times,serif;
     font-size: 0.9em;
     font-style: italic;
     left: 50%;
@@ -16514,7 +16514,7 @@ a.fade-cover {
 }
 
 .course-info .course-sidebar header h1 {
-    font: 1em Georgia,Cambria,"Times New Roman",Times,serif;
+    font: 1em 'Montserrat',Cambria,"Times New Roman",Times,serif;
     letter-spacing: 0;
     color: #999;
     margin-bottom: 0
@@ -16734,7 +16734,7 @@ a.fade-cover {
 }
 
 .container.jobs .jobs-wrapper .jobs-listing .job li,section.jobs.outside-app .jobs-wrapper .jobs-listing .job li,.view-profile .profile-self .wrapper-profile-field-account-privacy .jobs.u-field-account_privacy .jobs-wrapper .jobs-listing .job li,.view-profile .jobs.wrapper-profile-sections .jobs-wrapper .jobs-listing .job li,.view-profile .jobs.badge-set-display .jobs-wrapper .jobs-listing .job li {
-    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    font-family: 'Montserrat',Cambria,"Times New Roman",Times,serif;
     font-size: 1em;
     line-height: 1.6em;
     color: #3c3c3c;
@@ -16833,7 +16833,7 @@ a.fade-cover {
 
 .mediakit .introduction header h2 .org-name,.mediakit .introduction .home>header .title>.heading-group p .org-name,.mediakit .introduction header section.outside-app h1 .org-name,section.outside-app .mediakit .introduction header h1 .org-name {
     color: #b2b5b9;
-    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    font-family: 'Montserrat',Cambria,"Times New Roman",Times,serif;
     text-transform: none
 }
 
@@ -16999,7 +16999,7 @@ a.fade-cover {
 .container.about>nav a,section.about.outside-app>nav a,.view-profile .profile-self .wrapper-profile-field-account-privacy .about.u-field-account_privacy>nav a,.view-profile .about.wrapper-profile-sections>nav a,.view-profile .about.badge-set-display>nav a {
     border-bottom: 3px solid transparent;
     color: #646464;
-    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    font-family: 'Montserrat',Cambria,"Times New Roman",Times,serif;
     font-style: italic;
     display: inline-block;
     letter-spacing: 1px;
@@ -17310,12 +17310,12 @@ a.fade-cover {
 
 .pressrelease .container li,.pressrelease section.outside-app li,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy li,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy li,.pressrelease .view-profile .wrapper-profile-sections li,.view-profile .pressrelease .wrapper-profile-sections li,.pressrelease .view-profile .badge-set-display li,.view-profile .pressrelease .badge-set-display li {
     color: #313131;
-    font: normal 1em/1.6em Georgia,Cambria,"Times New Roman",Times,serif;
+    font: normal 1em/1.6em 'Montserrat',Cambria,"Times New Roman",Times,serif;
     margin: 0
 }
 
 .pressrelease .container li a,.pressrelease section.outside-app li a,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy li a,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy li a,.pressrelease .view-profile .wrapper-profile-sections li a,.view-profile .pressrelease .wrapper-profile-sections li a,.pressrelease .view-profile .badge-set-display li a,.view-profile .pressrelease .badge-set-display li a {
-    font: 1em Georgia,Cambria,"Times New Roman",Times,serif
+    font: 1em 'Montserrat',Cambria,"Times New Roman",Times,serif
 }
 
 .pressrelease .container li+li,.pressrelease section.outside-app li+li,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy li+li,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy li+li,.pressrelease .view-profile .wrapper-profile-sections li+li,.view-profile .pressrelease .wrapper-profile-sections li+li,.pressrelease .view-profile .badge-set-display li+li,.view-profile .pressrelease .badge-set-display li+li {
@@ -17348,12 +17348,12 @@ a.fade-cover {
 }
 
 .pressrelease .container figure figcaption,.pressrelease section.outside-app figure figcaption,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy figure figcaption,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy figure figcaption,.pressrelease .view-profile .wrapper-profile-sections figure figcaption,.view-profile .pressrelease .wrapper-profile-sections figure figcaption,.pressrelease .view-profile .badge-set-display figure figcaption,.view-profile .pressrelease .badge-set-display figure figcaption {
-    font: normal 0.8em/1em Georgia,Cambria,"Times New Roman",Times,serif;
+    font: normal 0.8em/1em 'Montserrat',Cambria,"Times New Roman",Times,serif;
     padding: 5px
 }
 
 .pressrelease .container figure figcaption a,.pressrelease section.outside-app figure figcaption a,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy figure figcaption a,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy figure figcaption a,.pressrelease .view-profile .wrapper-profile-sections figure figcaption a,.view-profile .pressrelease .wrapper-profile-sections figure figcaption a,.pressrelease .view-profile .badge-set-display figure figcaption a,.view-profile .pressrelease .badge-set-display figure figcaption a {
-    font: normal 1em Georgia,Cambria,"Times New Roman",Times,serif
+    font: normal 1em 'Montserrat',Cambria,"Times New Roman",Times,serif
 }
 
 .pressrelease .container p+h2,.pressrelease section.outside-app p+h2,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy p+h2,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy p+h2,.pressrelease .view-profile .wrapper-profile-sections p+h2,.view-profile .pressrelease .wrapper-profile-sections p+h2,.pressrelease .view-profile .badge-set-display p+h2,.view-profile .pressrelease .badge-set-display p+h2,.pressrelease .container .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease .container p+p,.pressrelease section.outside-app .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease section.outside-app p+p,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy p+p,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy .home>header .title>.heading-group p+p,.home>header .title>.heading-group .view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy p+p,.pressrelease .view-profile .wrapper-profile-sections .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease .view-profile .wrapper-profile-sections p+p,.view-profile .pressrelease .wrapper-profile-sections .home>header .title>.heading-group p+p,.home>header .title>.heading-group .view-profile .pressrelease .wrapper-profile-sections p+p,.pressrelease .view-profile .badge-set-display .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease .view-profile .badge-set-display p+p,.view-profile .pressrelease .badge-set-display .home>header .title>.heading-group p+p,.home>header .title>.heading-group .view-profile .pressrelease .badge-set-display p+p,section.outside-app .pressrelease .container p+h1,.pressrelease section.outside-app p+h1,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy section.outside-app p+h1,section.outside-app .pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy p+h1,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy section.outside-app p+h1,section.outside-app .view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy p+h1,section.outside-app .pressrelease .view-profile .wrapper-profile-sections p+h1,section.outside-app .view-profile .pressrelease .wrapper-profile-sections p+h1,section.outside-app .pressrelease .view-profile .badge-set-display p+h1,section.outside-app .view-profile .pressrelease .badge-set-display p+h1 {
@@ -17416,7 +17416,7 @@ section.outside-app h1 {
 section.outside-app p,section.outside-app ul,section.outside-app form {
     max-width: 600px;
     margin: 0 auto;
-    font: normal 1em/1.6em Georgia,Cambria,"Times New Roman",Times,serif
+    font: normal 1em/1.6em 'Montserrat',Cambria,"Times New Roman",Times,serif
 }
 
 section.outside-app li {
@@ -17487,7 +17487,7 @@ section.outside-app li {
     display: none;
     color: #3c3c3c;
     padding-left: 16px;
-    font-family: Georgia,Cambria,"Times New Roman",Times,serif
+    font-family: 'Montserrat',Cambria,"Times New Roman",Times,serif
 }
 
 .static-container.help section.questions .responses .response .answer li {
@@ -23190,7 +23190,7 @@ body.open-modal {
 }
 
 #api-access-wrapper .api-form-container .api-form input,#api-access-wrapper .api-form-container .api-form textarea {
-    font-family: 'Open Sans';
+    font-family: 'Montserrat';
     font-style: normal;
     width: 300px
 }
@@ -24074,7 +24074,7 @@ body.open-modal {
     border-bottom: 1px solid #c5c6c7;
     box-shadow: 0 0 5px rgba(0,0,0,0.1);
     cursor: pointer;
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 17px;
     left: 0;
     position: absolute;
@@ -24143,7 +24143,7 @@ body.open-modal {
 .content-paywall .certA_1 {
     text-decoration: underline !important;
     color: #0075b4;
-    font: normal normal 400 normal 16px / 25.6px 'Open Sans'
+    font: normal normal 400 normal 16px / 25.6px 'Montserrat'
 }
 
 .content-paywall .certSPAN_1 {
@@ -26690,7 +26690,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     color: #f2f8fb !important;
     cursor: pointer;
     background: #008100 none repeat scroll 0% 0%/auto padding-box border-box !important;
-    font: normal normal 600 normal 15px / normal "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal normal 600 normal 15px / normal "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding: 7px;
     transition: color 0.25s ease-in-out 0s, background 0.25s ease-in-out 0s, box-shadow 0.25s ease-in-out 0s;
     text-decoration: none !important;
