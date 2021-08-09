@@ -28,11 +28,11 @@
 }
 
 .bg-primary {
-    background-color: #d9534f !important
+    background-color: #99d98c !important
 }
 
 a.bg-primary:hover,a.bg-primary:focus,button.bg-primary:hover,button.bg-primary:focus {
-    background-color: #c9302c !important
+    background-color: #76c893 !important
 }
 
 .bg-secondary {
@@ -68,11 +68,11 @@ a.bg-warning:hover,a.bg-warning:focus,button.bg-warning:hover,button.bg-warning:
 }
 
 .bg-danger {
-    background-color: #d9534f !important
+    background-color: #99d98c !important
 }
 
 a.bg-danger:hover,a.bg-danger:focus,button.bg-danger:hover,button.bg-danger:focus {
-    background-color: #c9302c !important
+    background-color: #76c893 !important
 }
 
 .bg-light {
@@ -188,7 +188,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .border-primary {
-    border-color: #d9534f !important
+    border-color: #99d98c !important
 }
 
 .border-secondary {
@@ -208,7 +208,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .border-danger {
-    border-color: #d9534f !important
+    border-color: #99d98c !important
 }
 
 .border-light {
@@ -2735,11 +2735,11 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .text-primary {
-    color: #d9534f !important
+    color: #99d98c !important
 }
 
 a.text-primary:hover,a.text-primary:focus {
-    color: #c9302c !important
+    color: #76c893 !important
 }
 
 .text-secondary {
@@ -2775,11 +2775,11 @@ a.text-warning:hover,a.text-warning:focus {
 }
 
 .text-danger {
-    color: #d9534f !important
+    color: #99d98c !important
 }
 
 a.text-danger:hover,a.text-danger:focus {
-    color: #c9302c !important
+    color: #76c893 !important
 }
 
 .text-light {
@@ -2873,7 +2873,7 @@ a.text-darkest:hover,a.text-darkest:focus {
     z-index: 1060;
     display: block;
     max-width: 276px;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
@@ -3068,7 +3068,7 @@ html {
 }
 
 html,button,input,select,textarea {
-    font-family: cursive;
+    font-family: 'Poppins';
     color: #222
 }
 
@@ -3079,7 +3079,7 @@ body {
 }
 
 a:not(.btn) {
-    color: #d9534f
+    color: #99d98c
 }
 
 a:visited:not(.btn) {
@@ -3499,7 +3499,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-link {
-    color: #d9534f
+    color: #99d98c
 }
 
 .btn-link:hover,.btn-link:focus {
@@ -3557,7 +3557,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .breadcrumbs .nav-item a,.breadcrumbs .nav-item a:visited {
-    color: #d9534f
+    color: #99d98c
 }
 
 .breadcrumbs .nav-item a:hover {
@@ -3609,18 +3609,18 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 .btn-default {
     border-color: transparent;
     background: transparent;
-    color: #d9534f
+    color: #99d98c
 }
 
 .btn-default:hover,.btn-default.is-hovered,.btn-default:focus,.btn-default.is-focused {
-    border-color: #d9534f;
+    border-color: #99d98c;
     background-color: transparent;
-    color: #d9534f
+    color: #99d98c
 }
 
 .btn-default:active,.btn-default.is-pressed,.btn-default.is-active {
-    border-color: #d9534f;
-    color: #d9534f
+    border-color: #99d98c;
+    color: #99d98c
 }
 
 .btn-default:disabled,.btn-default.is-disabled {
@@ -3629,8 +3629,8 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-primary,.btn-brand {
-    border-color: #d9534f;
-    background: #d9534f;
+    border-color: #99d98c;
+    background: #99d98c;
     color: #fcfcfc
 }
 
@@ -3641,8 +3641,8 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-primary:active,.btn-brand:active,.btn-primary.is-pressed,.is-pressed.btn-brand,.btn-primary.is-active,.is-active.btn-brand {
-    border-color: #d9534f;
-    background: #d9534f
+    border-color: #99d98c;
+    background: #99d98c
 }
 
 .btn-primary:disabled,.btn-brand:disabled,.btn-primary.is-disabled,.is-disabled.btn-brand {
@@ -3766,11 +3766,11 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .bg-primary {
-    background-color: #d9534f !important
+    background-color: #99d98c !important
 }
 
 a.bg-primary:hover,a.bg-primary:focus,button.bg-primary:hover,button.bg-primary:focus {
-    background-color: #c9302c !important
+    background-color: #76c893 !important
 }
 
 .bg-secondary {
@@ -3806,11 +3806,11 @@ a.bg-warning:hover,a.bg-warning:focus,button.bg-warning:hover,button.bg-warning:
 }
 
 .bg-danger {
-    background-color: #d9534f !important
+    background-color: #99d98c !important
 }
 
 a.bg-danger:hover,a.bg-danger:focus,button.bg-danger:hover,button.bg-danger:focus {
-    background-color: #c9302c !important
+    background-color: #76c893 !important
 }
 
 .bg-light {
@@ -3926,7 +3926,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .border-primary {
-    border-color: #d9534f !important
+    border-color: #99d98c !important
 }
 
 .border-secondary {
@@ -3946,7 +3946,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .border-danger {
-    border-color: #d9534f !important
+    border-color: #99d98c !important
 }
 
 .border-light {
@@ -6473,11 +6473,11 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .text-primary {
-    color: #d9534f !important
+    color: #99d98c !important
 }
 
 a.text-primary:hover,a.text-primary:focus {
-    color: #c9302c !important
+    color: #76c893 !important
 }
 
 .text-secondary {
@@ -6513,11 +6513,11 @@ a.text-warning:hover,a.text-warning:focus {
 }
 
 .text-danger {
-    color: #d9534f !important
+    color: #99d98c !important
 }
 
 a.text-danger:hover,a.text-danger:focus {
-    color: #c9302c !important
+    color: #76c893 !important
 }
 
 .text-light {
@@ -6611,7 +6611,7 @@ a.text-darkest:hover,a.text-darkest:focus {
     z-index: 1060;
     display: block;
     max-width: 276px;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
@@ -6806,7 +6806,7 @@ html {
 }
 
 html,button,input,select,textarea {
-    font-family: cursive;
+    font-family: 'Poppins';
     color: #222
 }
 
@@ -6817,7 +6817,7 @@ body {
 }
 
 a:not(.btn) {
-    color: #d9534f
+    color: #99d98c
 }
 
 a:visited:not(.btn) {
@@ -7237,7 +7237,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-link {
-    color: #d9534f
+    color: #99d98c
 }
 
 .btn-link:hover,.btn-link:focus {
@@ -7295,7 +7295,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .breadcrumbs .nav-item a,.breadcrumbs .nav-item a:visited {
-    color: #d9534f
+    color: #99d98c
 }
 
 .breadcrumbs .nav-item a:hover {
@@ -7347,18 +7347,18 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 .btn-default {
     border-color: transparent;
     background: transparent;
-    color: #d9534f
+    color: #99d98c
 }
 
 .btn-default:hover,.btn-default.is-hovered,.btn-default:focus,.btn-default.is-focused {
-    border-color: #d9534f;
+    border-color: #99d98c;
     background-color: transparent;
-    color: #d9534f
+    color: #99d98c
 }
 
 .btn-default:active,.btn-default.is-pressed,.btn-default.is-active {
-    border-color: #d9534f;
-    color: #d9534f
+    border-color: #99d98c;
+    color: #99d98c
 }
 
 .btn-default:disabled,.btn-default.is-disabled {
@@ -7367,8 +7367,8 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-primary,.btn-brand {
-    border-color: #d9534f;
-    background: #d9534f;
+    border-color: #99d98c;
+    background: #99d98c;
     color: #fcfcfc
 }
 
@@ -7379,8 +7379,8 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-primary:active,.btn-brand:active,.btn-primary.is-pressed,.is-pressed.btn-brand,.btn-primary.is-active,.is-active.btn-brand {
-    border-color: #d9534f;
-    background: #d9534f
+    border-color: #99d98c;
+    background: #99d98c
 }
 
 .btn-primary:disabled,.btn-brand:disabled,.btn-primary.is-disabled,.is-disabled.btn-brand {
@@ -8150,14 +8150,14 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 html {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal;
     line-height: 1em;
     background: #fff
 }
 
 body {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal;
     font-size: 1rem;
     line-height: 1em;
@@ -8176,7 +8176,7 @@ h1,h2,.home>header .title>.heading-group p,section.outside-app h1,h3,h4,h5,h6 {
 
 h1 {
     color: #313131;
-    font: normal 2em/1.4em cursive;
+    font: normal 2em/1.4em 'Poppins';
     margin-bottom: 30px;
     text-align: center
 }
@@ -8220,7 +8220,7 @@ p+p,ul+p,ol+p {
 }
 
 p a:not(.btn),p a:visited:not(.btn) {
-    color: #d9534f;
+    color: #99d98c;
     font: inherit;
     font-weight: inherit;
     text-decoration: none;
@@ -8233,7 +8233,7 @@ p a:not(.btn):hover,p a:not(.btn):focus,p a:visited:not(.btn):hover,p a:visited:
 }
 
 a:not(.btn),a:visited:not(.btn) {
-    color: #d9534f;
+    color: #99d98c;
     font: inherit;
     text-decoration: none;
     transition: all 0.1s linear 0s
@@ -8465,7 +8465,7 @@ mark {
 }
 
 .page-banner .user-messages a:hover {
-    color: #d9534f;
+    color: #99d98c;
     text-decoration: underline !important
 }
 
@@ -8626,7 +8626,7 @@ mark {
 }
 
 .current.btn-blue,.account-settings-sections .section .account-deletion-details .paragon__modal-open .current.paragon__btn:not(.cancel-btn),.account-settings-message .alert-message .alert-actions .current.btn-alert-primary,.login-register .current.action-primary,.financial-assistance-wrapper .financial-assistance-form .current.action-primary,.verification-process .current.action-primary-blue,.verification-process .carousel .wrapper-task .controls .control .current.action,.verification-process .carousel .wrapper-task .controls .control .entitlement-actions-wrapper .current.entitlement-action,.entitlement-actions-wrapper .verification-process .carousel .wrapper-task .controls .control .current.entitlement-action,.verification-process .carousel .wrapper-task .msg .list-actions .action-retakephotos a.current,.verification-process .carousel #wrapper-review .review-task-name .list-actions .action-editname a.current,.verification-process.step-select-track .register-choice-audit .action-select input.current,.verification-process.step-confirmation .course-info .options .current.action-course,.verification-process.step-confirmation .course-info .course-actions .current.action-dashboard,.reverify-blocked .current.action-primary,.wrapper-authorize .current.btn-authorization-allow,.wrapper-msg.wrapper-auto-cert .auto-cert-message .has-actions .msg-actions .current.btn,.view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy .current.btn-change-privacy,.active.btn-blue,.account-settings-sections .section .account-deletion-details .paragon__modal-open .active.paragon__btn:not(.cancel-btn),.account-settings-message .alert-message .alert-actions .active.btn-alert-primary,.login-register .active.action-primary,.financial-assistance-wrapper .financial-assistance-form .active.action-primary,.verification-process .active.action-primary-blue,.verification-process .carousel .wrapper-task .controls .control .active.action,.verification-process .carousel .wrapper-task .controls .control .entitlement-actions-wrapper .active.entitlement-action,.entitlement-actions-wrapper .verification-process .carousel .wrapper-task .controls .control .active.entitlement-action,.verification-process .carousel .wrapper-task .msg .list-actions .action-retakephotos a.active,.verification-process .carousel #wrapper-review .review-task-name .list-actions .action-editname a.active,.verification-process.step-select-track .register-choice-audit .action-select input.active,.verification-process.step-confirmation .course-info .options .active.action-course,.verification-process.step-confirmation .course-info .course-actions .active.action-dashboard,.reverify-blocked .active.action-primary,.wrapper-authorize .active.btn-authorization-allow,.wrapper-msg.wrapper-auto-cert .auto-cert-message .has-actions .msg-actions .active.btn,.view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy .active.btn-change-privacy {
-    background: #d9534f;
+    background: #99d98c;
     color: #0075b4
 }
 
@@ -8718,7 +8718,7 @@ mark {
 
 .login aside .btn-login .current.btn-login-action,.register aside .btn-login .current.btn-login-action,.passwordreset aside .btn-login .current.btn-login-action,#forgot-password-modal #password-reset aside .btn-login .current.btn-login-action,.login-register .current.login-provider,.financial-assistance-wrapper .financial-assistance-form .current.login-provider,.login .form-actions.form-third-party-auth button.current[type="submit"],.register .form-actions.form-third-party-auth button.current[type="submit"],.passwordreset .form-actions.form-third-party-auth button.current[type="submit"],#forgot-password-modal #password-reset .form-actions.form-third-party-auth button.current[type="submit"],.login-register .current.nav-btn,.financial-assistance-wrapper .financial-assistance-form .current.nav-btn,.login-register .current.button-secondary-login,.financial-assistance-wrapper .financial-assistance-form .current.button-secondary-login,.wrapper-authorize .current.btn-authorization-cancel,.view-profile .profile-self .wrapper-profile-field-account-privacy .wrapper-profile-records button.current,.login aside .btn-login .active.btn-login-action,.register aside .btn-login .active.btn-login-action,.passwordreset aside .btn-login .active.btn-login-action,#forgot-password-modal #password-reset aside .btn-login .active.btn-login-action,.login-register .active.login-provider,.financial-assistance-wrapper .financial-assistance-form .active.login-provider,.login .form-actions.form-third-party-auth button.active[type="submit"],.register .form-actions.form-third-party-auth button.active[type="submit"],.passwordreset .form-actions.form-third-party-auth button.active[type="submit"],#forgot-password-modal #password-reset .form-actions.form-third-party-auth button.active[type="submit"],.login-register .active.nav-btn,.financial-assistance-wrapper .financial-assistance-form .active.nav-btn,.login-register .active.button-secondary-login,.financial-assistance-wrapper .financial-assistance-form .active.button-secondary-login,.wrapper-authorize .active.btn-authorization-cancel,.view-profile .profile-self .wrapper-profile-field-account-privacy .wrapper-profile-records button.active {
     box-shadow: inset 0 2px 1px 1px #0075b4;
-    background: #d9534f;
+    background: #99d98c;
     color: #0075b4
 }
 
@@ -8806,7 +8806,7 @@ mark {
 }
 
 .btn {
-    font-family: cursive;
+    font-family: 'Poppins';
     text-decoration: none
 }
 
@@ -8838,7 +8838,7 @@ mark {
 .btn-secondary:focus,.btn-secondary:hover {
     background-image: none !important;
     background-color: transparent !important;
-    color: #d9534f
+    color: #99d98c
 }
 
 .btn-link {
@@ -9030,13 +9030,13 @@ mark {
 }
 
 .view-profile .page-content-nav .nav-item.is-active {
-    border-bottom: 4px solid #d9534f;
+    border-bottom: 4px solid #99d98c;
     color: #474747
 }
 
 .view-profile .page-content-nav .nav-item:hover,.view-profile .page-content-nav .nav-item:focus {
-    border-bottom: 4px solid #d9534f;
-    color: #d9534f
+    border-bottom: 4px solid #99d98c;
+    color: #99d98c
 }
 
 .page-content-main .tabs .tabpanel {
@@ -9187,7 +9187,7 @@ mark {
 }
 
 body.error h1,.dashboard .main-container .my-courses .course .details .wrapper-course-details .course-title a,.dashboard .main-container .my-courses .course .details .wrapper-course-details .course-title span,.find-courses .wrapper-search-context .search-status-label,.pagination .page-divider,.verification-process .carousel .view>.title,.verification-process .content-main>.title,.register.is-not-verified.step-confirmation .view .title,.view-survey .header-survey .title,.wrapper-account-settings .wrapper-header .header-title,.login-register-content h1,.verification-process .reverify-success-step .title,.reverify-blocked .title,.confirm-enrollment .title,.confirm-enrollment .enrollment-details .course-title h1,.shopping-cart h1,.shopping-cart .user-data .data-input .course-display-name,.shopping-cart .user-data .data-input .course-display-dates,.shopping-cart .user-data .data-input h1,.wrapper-authorize h1,.financial-assistance-wrapper h1,#api-access-wrapper h1,.view-profile .profile-header .header,.view-profile .wrapper-profile-section-container-one .wrapper-profile-section-one .profile-section-one-fields>.u-field:first-child,.home>header .title .course-search .search-input,.dashboard .main-container .my-courses .wrapper-header-courses .header-courses,.dashboard-banner .wrapper-msg .msg.title,.view-survey .header-survey .course-name,.view-survey .message.submission-error .message-title,.account-settings-sections .section-header,.login-register .status .message-title,.financial-assistance-wrapper .financial-assistance-form .status .message-title,.verification-process .title,.verification-process .page-header .title .sts-label,.verification-process .page-header .title .sts-course-org,.verification-process .page-header .title .sts-course-number,.verification-process .page-header .title .sts-course-name,.verification-process.step-select-track .register-choice .title,.verification-process.step-requirements .list-reqs .req .title,.verification-process.step-requirements .list-reqs .req-activate .title,.confirm-enrollment .enrollment-details .sub-title,.shopping-cart .billing-data h3,.shopping-cart .pattern h2,.shopping-cart .pattern .home>header .title>.heading-group p,.home>header .title>.heading-group .shopping-cart .pattern p,.shopping-cart .pattern section.outside-app h1,section.outside-app .shopping-cart .pattern h1,.empty-cart h2,.empty-cart .home>header .title>.heading-group p,.home>header .title>.heading-group .empty-cart p,.empty-cart section.outside-app h1,section.outside-app .empty-cart h1,#api-access-wrapper h2,#api-access-wrapper .home>header .title>.heading-group p,.home>header .title>.heading-group #api-access-wrapper p,#api-access-wrapper section.outside-app h1,section.outside-app #api-access-wrapper h1,.certificate-card .card-title,.dashboard-search-results .search-info h2,.dashboard-search-results .search-info .home>header .title>.heading-group p,.home>header .title>.heading-group .dashboard-search-results .search-info p,.dashboard-search-results .search-info section.outside-app h1,section.outside-app .dashboard-search-results .search-info h1,.wrapper-msg .msg-content .title,.verification-process .carousel .requirements .title,.verification-process .carousel .requirements .requirement .title,.verification-process .carousel .wrapper-task .wrapper-help .help .title,.verification-process .carousel #wrapper-review .review-task>.title,.verification-process .list-faq .faq-question,.verification-process.step-confirmation .list-info .info-item>.title,.verification-process .help-item .title,.verification-process.step-select-track .help-register .title,.verification-process.step-select-track .field-certificate-contribution .label,.verification-process.step-review .nav-wizard .prompt-verify .title,.wrapper-messages-primary .message .message-title,.wrapper-messages-primary .message .message-copy .title,.find-courses .search-facets .header-search-facets,.find-courses .search-facets .header-facet,.login-register-content h3,.verification-process .wrapper-msg .msg-content .title,.shopping-cart .user-data .data-input h3,.shopping-cart .user-data .data-input h3 span,.shopping-cart .user-data .data-input .course-registration-title,.shopping-cart .user-data .data-input .course-dates-title,.shopping-cart h3,.enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-change-title,.financial-assistance-wrapper h2,.financial-assistance-wrapper .home>header .title>.heading-group p,.home>header .title>.heading-group .financial-assistance-wrapper p,.financial-assistance-wrapper section.outside-app h1,section.outside-app .financial-assistance-wrapper h1,.certificate-card .card-supertitle,.view-profile .profile-header .subheader,.view-profile .wrapper-profile-section-container-two .u-field-title,.msg__title,.verification-process .carousel #wrapper-review .review-task-photos .wrapper-photos .help-tips .title,.dashboard .main-container .my-courses .course .details .wrapper-course-details .course-info [class*="info-"],.dashboard .main-container .my-courses .course .details .wrapper-course-details .course-info .info-date-block-container .info-date-block,.dashboard .main-container .my-courses .course .details .wrapper-course-details .course-info .info-date-block-container .change-session,.dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .actions-dropdown .actions-item,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .actions-dropdown .actions-item,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .entitlement-actions-dropdown .actions-item,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .entitlement-actions-dropdown .actions-item,.entitlement-actions-wrapper .entitlement-actions-dropdown .entitlement-actions-dropdown-list .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .actions-dropdown .entitlement-actions-item,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .entitlement-actions-dropdown .entitlement-actions-dropdown-list .entitlement-actions-item,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .entitlement-actions-dropdown .entitlement-actions-dropdown-list .entitlement-actions-item,.view-survey .bit .title,.verification-process .wrapper-report .report thead th[scope="col"],.verification-process .progress .progress-step .wrapper-step-number .step-number,.verification-process .progress .progress-step .step-name,.enrollment-results th,.manage-user-results th,.fb-enrollments-results th,.notification .copy .title,.alert:not(.pattern-library-shim) .copy .title,.nav-utilities .action-toggle-message,.view-survey .header-survey .course-org,.view-survey .header-survey .course-number,.certificate-card .card-text,.dashboard .main-container .my-courses .course .details .wrapper-course-image .sts-enrollment .sts-enrollment-value,.verification-process .page-header .title .sts-track .sts-track-value,.view-survey .header-survey .course-info,.verification-process h1,.verification-process h2,.verification-process .home>header .title>.heading-group p,.home>header .title>.heading-group .verification-process p,.verification-process section.outside-app h1,section.outside-app .verification-process h1,.verification-process h3,.verification-process h4,.verification-process h5,.verification-process h6 {
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 body.error h1 {
@@ -9231,7 +9231,7 @@ body.error h1 {
 }
 
 .verification-process .report-receipt-provider .provider-buttons-logos .complete-order button,.dashboard .main-container .my-courses .course .details .enter-course,.wrapper-messages-primary .message.message-upsell .action-view-consent,.wrapper-messages-primary .message.message-status .verification-cta .btn,.wrapper-messages-primary .message.message-status .credit-action .credit-btn,.btn-secondary,.dashboard .main-container .my-courses .course .details .enter-course.archived,.wrapper-messages-primary .message.message-upsell .action-view-consent.archived,.account-settings-sections .section .account-settings-section-body .u-field .field .u-field-link,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order .u-field-order-link .u-field-link,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order-lines .u-field-order-link .u-field-link,.account-settings-sections .section .account-deletion-details .btn-outline-primary,.account-settings-sections .section .account-deletion-details .delete-confirmation-wrapper .paragon__modal-footer .paragon__btn-outline-primary,.account-settings-message .alert-message .alert-actions .btn-alert-secondary,.courseware-bookmarks-button .bookmarks-list-button,.pagination .current-page,.pagination .page-number-input,.pagination .total-pages,.verification-process .carousel #wrapper-review .review-task .copy,.verification-process.step-confirmation .list-info .info-item .copy,.view-survey .instructions,.view-survey .action-primary,.view-survey label,.login-register .instructions,.financial-assistance-wrapper .financial-assistance-form .instructions,.login-register .status .message-copy,.financial-assistance-wrapper .financial-assistance-form .status .message-copy,.login-register .status .message-copy p,.financial-assistance-wrapper .financial-assistance-form .status .message-copy p,.login-register .institution-list .institution,.financial-assistance-wrapper .financial-assistance-form .institution-list .institution,.verification-process.step-select-track .register-choice .copy,.verification-process.step-select-track .register-choice .wrapper-copy-inline,.verification-process.step-select-track .register-choice .copy-inline,.verification-process.step-requirements .list-reqs .req .copy-super,.verification-process.step-requirements .list-reqs .req-activate .copy-sub,.cart-errors,.confirm-enrollment .enrollment-details .enrollment-text,.shopping-cart .user-data .data-input h1 span,.shopping-cart .user-data .data-input .three-col .col-1,.shopping-cart .user-data .data-input .three-col .col-2 .numbers-row label,.shopping-cart .discount .code-input input[type="text"],.shopping-cart .col-two .col-1 span.radio-group label,.shopping-cart .col-two .col-2 p,.shopping-cart .billing-data .col-half .data-group label,.shopping-cart .billing-data .col-half .data-group input,.wrapper-authorize p,.financial-assistance-wrapper p,.financial-assistance-wrapper .user-info .title,.financial-assistance-wrapper .user-info .data,.wrapper-msg.wrapper-auto-cert .auto-cert-message .has-actions .msg-actions,#api-access-wrapper #api-access-status,#api-access-wrapper .api-form-container .api-form label,#api-access-wrapper .api-form-container .api-form input,#api-access-wrapper .api-form-container .api-form textarea,#api-access-wrapper .api-form-container .api-form input[type=submit],#api-access-wrapper .api-form-container .api-form textarea[type=submit],#api-access-wrapper .api-form-container .api-form .errorlist li,#api-access-wrapper .api-form-container .api-form #api-access-submit,#api-access-wrapper .api-form-container .api-form .preview-query,#api-access-wrapper .application-info p,.view-profile .wrapper-profile-section-container-two .u-field-value,.view-profile .badge-set-display .badge-display .badge-details .badge-name,.ui-loading,.ui-loading-base,.wrapper-account-settings .ui-loading-indicator,.wrapper-account-settings .ui-loading-error,.view-profile .ui-loading-indicator,.login .deco-divider .copy,.register .deco-divider .copy,.passwordreset .deco-divider .copy,#forgot-password-modal #password-reset .deco-divider .copy,.verification-process .carousel .view .instruction,.verification-process .deco-divider .copy,.verification-process .content-main .instruction,.verification-process.step-requirements .list-reqs .req-activate .copy-super,.register.is-not-verified.step-confirmation .view .instruction,.confirm-enrollment .enrollment-details .course-dates,.shopping-cart .discount .code-text a,.shopping-cart table.course-receipt tr td:first-child,.view-profile .badges-overlay .badges-modal,.confirm-enrollment a.link-button,.confirm-enrollment button[type="submit"],.shopping-cart a.blue,.shopping-cart .user-data .data-input .three-col .col-1 .price span,.shopping-cart .user-data .data-input .three-col .col-2 .numbers-row .counter input[type="text"],.shopping-cart .discount .code-text span b,.shopping-cart .col-two .col-2 button[type="submit"],.empty-cart a.blue,body.error .description,.listing-tools,.listing-tools .listing-sort-select,.verification-process .help-item .copy,.verification-process .carousel .requirements .requirement .copy,.verification-process .carousel .wrapper-task .wrapper-help .help .copy,.verification-process .carousel #wrapper-review .review-task-photos .wrapper-photos .help-tips .copy,.verification-process.step-select-track .register-choice-certificate .action-intro,.verification-process.step-select-track .help-register .copy,.u-field-message,.modal-settings-language .actions-supplemental .list-actions-item,.wrapper-messages-primary .message .message-copy,.wrapper-messages-primary .message .message-copy .copy,.wrapper-messages-primary .message.message-status .message-copy,.wrapper-messages-primary .message.message-status .certificate-explanation,.status-verification .status-data-message,.find-courses .discovery-input,.view-survey .action-cancel,.view-survey button,.view-survey input,.view-survey select,.view-survey textarea,.view-survey .bit p,.login-register .form-field .tip,.financial-assistance-wrapper .financial-assistance-form .form-field .tip,.login-register .form-field .label-optional,.financial-assistance-wrapper .financial-assistance-form .form-field .label-optional,.verification-process .wrapper-msg .msg-content .copy,.verification-process .nav-wizard .help-inline,.verification-process.step-select-track .register-choice-certificate .title-expand,.verification-process.step-review .nav-wizard .prompt-verify .copy,.verification-process.step-review .nav-wizard .prompt-verify .action-verify label,.verification-process.step-review .nav-wizard .step-match label,.verification-process .pay-and-verify .photo-tip,.verification-process .incourse-reverify .photo-tip,.verification-process .reverify .photo-tip,#expiry-msg,.shopping-cart .col-two .row-inside .billing-detail-label,.shopping-cart .col-two .row-inside .billing-detail-value,.shopping-cart .bordered-bar h2 span .blue-link,.shopping-cart .bordered-bar .home>header .title>.heading-group p span .blue-link,.home>header .title>.heading-group .shopping-cart .bordered-bar p span .blue-link,.shopping-cart .bordered-bar section.outside-app h1 span .blue-link,section.outside-app .shopping-cart .bordered-bar h1 span .blue-link,.shopping-cart table.course-receipt tr td:last-child span,.empty-cart p,.enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-change-field p,.enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-change-field label,.enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-change-field select,.enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-change-field input,.enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-change-errors,#api-access-wrapper p,#api-access-wrapper .api-form-container .api-form p .helptext,.view-profile .wrapper-profile-section-container-two .u-field.mode-placeholder .u-field-value,.view-profile .badge-set-display .badge-display .badge-details,.view-profile .badge-set-display .badge-display .badge-details .badge-date-stamp,.wrapper-msg .msg-content .copy,.wrapper-msg .msg-content .copy p,.message,.wrapper-notification .copy,.wrapper-alert .copy,.prompt .copy,.notification .copy,.alert:not(.pattern-library-shim) .action-dismiss .button-copy,.wrapper-message .message,.wrapper-message .message.information,.main-wrapper .alert,.msg__copy,.status-verification .status-note,.status-verification .status-note p,.login .instructions .note,.register .instructions .note,.passwordreset .instructions .note,#forgot-password-modal #password-reset .instructions .note,.course-info .container .wrap-instructor-info .instructor-info-action,.course-info section.outside-app .wrap-instructor-info .instructor-info-action,.course-info .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy .wrap-instructor-info .instructor-info-action,.view-profile .profile-self .wrapper-profile-field-account-privacy .course-info .u-field-account_privacy .wrap-instructor-info .instructor-info-action,.course-info .view-profile .wrapper-profile-sections .wrap-instructor-info .instructor-info-action,.view-profile .course-info .wrapper-profile-sections .wrap-instructor-info .instructor-info-action,.course-info .view-profile .badge-set-display .wrap-instructor-info .instructor-info-action,.view-profile .course-info .badge-set-display .wrap-instructor-info .instructor-info-action,.view-survey .list-input .field .tip,.login-register .note,.financial-assistance-wrapper .financial-assistance-form .note,.login-register .form-field .field-link,.financial-assistance-wrapper .financial-assistance-form .form-field .field-link,.verification-process.step-requirements .list-reqs .req .copy-sub,.shopping-cart .discount .code-input .error-text,.shopping-cart .error-text,.enrollment-results,.search-results .search-results-item .search-results-ellipsis,.msg__copy p {
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .verification-process .report-receipt-provider .provider-buttons-logos .complete-order button,.dashboard .main-container .my-courses .course .details .enter-course,.wrapper-messages-primary .message.message-upsell .action-view-consent,.wrapper-messages-primary .message.message-status .verification-cta .btn,.wrapper-messages-primary .message.message-status .credit-action .credit-btn,.btn-secondary,.dashboard .main-container .my-courses .course .details .enter-course.archived,.wrapper-messages-primary .message.message-upsell .action-view-consent.archived,.account-settings-sections .section .account-settings-section-body .u-field .field .u-field-link,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order .u-field-order-link .u-field-link,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order-lines .u-field-order-link .u-field-link,.account-settings-sections .section .account-deletion-details .btn-outline-primary,.account-settings-sections .section .account-deletion-details .delete-confirmation-wrapper .paragon__modal-footer .paragon__btn-outline-primary,.account-settings-message .alert-message .alert-actions .btn-alert-secondary,.courseware-bookmarks-button .bookmarks-list-button,.pagination .current-page,.pagination .page-number-input,.pagination .total-pages,.verification-process .carousel #wrapper-review .review-task .copy,.verification-process.step-confirmation .list-info .info-item .copy,.view-survey .instructions,.view-survey .action-primary,.view-survey label,.login-register .instructions,.financial-assistance-wrapper .financial-assistance-form .instructions,.login-register .status .message-copy,.financial-assistance-wrapper .financial-assistance-form .status .message-copy,.login-register .status .message-copy p,.financial-assistance-wrapper .financial-assistance-form .status .message-copy p,.login-register .institution-list .institution,.financial-assistance-wrapper .financial-assistance-form .institution-list .institution,.verification-process.step-select-track .register-choice .copy,.verification-process.step-select-track .register-choice .wrapper-copy-inline,.verification-process.step-select-track .register-choice .copy-inline,.verification-process.step-requirements .list-reqs .req .copy-super,.verification-process.step-requirements .list-reqs .req-activate .copy-sub,.cart-errors,.confirm-enrollment .enrollment-details .enrollment-text,.shopping-cart .user-data .data-input h1 span,.shopping-cart .user-data .data-input .three-col .col-1,.shopping-cart .user-data .data-input .three-col .col-2 .numbers-row label,.shopping-cart .discount .code-input input[type="text"],.shopping-cart .col-two .col-1 span.radio-group label,.shopping-cart .col-two .col-2 p,.shopping-cart .billing-data .col-half .data-group label,.shopping-cart .billing-data .col-half .data-group input,.wrapper-authorize p,.financial-assistance-wrapper p,.financial-assistance-wrapper .user-info .title,.financial-assistance-wrapper .user-info .data,.wrapper-msg.wrapper-auto-cert .auto-cert-message .has-actions .msg-actions,#api-access-wrapper #api-access-status,#api-access-wrapper .api-form-container .api-form label,#api-access-wrapper .api-form-container .api-form input,#api-access-wrapper .api-form-container .api-form textarea,#api-access-wrapper .api-form-container .api-form input[type=submit],#api-access-wrapper .api-form-container .api-form textarea[type=submit],#api-access-wrapper .api-form-container .api-form .errorlist li,#api-access-wrapper .api-form-container .api-form #api-access-submit,#api-access-wrapper .api-form-container .api-form .preview-query,#api-access-wrapper .application-info p,.view-profile .wrapper-profile-section-container-two .u-field-value,.view-profile .badge-set-display .badge-display .badge-details .badge-name,.ui-loading,.ui-loading-base,.wrapper-account-settings .ui-loading-indicator,.wrapper-account-settings .ui-loading-error,.view-profile .ui-loading-indicator {
@@ -9379,11 +9379,11 @@ body.error h1 {
 }
 
 .u-field.mode-placeholder:hover {
-    border: 2px dashed #d9534f
+    border: 2px dashed #99d98c
 }
 
 .u-field.mode-placeholder:hover span {
-    color: #d9534f
+    color: #99d98c
 }
 
 .u-field.editable-toggle.mode-display:hover {
@@ -9393,7 +9393,7 @@ body.error h1 {
 
 .u-field.editable-toggle.mode-display:hover .message-can-edit {
     display: inline-block;
-    color: #d9534f
+    color: #99d98c
 }
 
 .u-field.mode-hidden {
@@ -9508,7 +9508,7 @@ label {
 }
 
 label.register-emails {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal;
     font-size: 12px;
     line-height: 1.5em;
@@ -9556,14 +9556,14 @@ input[type="submit"],input[type="button"],button,.button {
     display: inline-block;
     font-size: inherit;
     font-weight: bold;
-    background-color: #d9534f;
-    background-image: -webkit-linear-gradient(top, #d9534f 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
-    background-image: linear-gradient(to bottom,#d9534f 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-color: #99d98c;
+    background-image: -webkit-linear-gradient(top, #99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-image: linear-gradient(to bottom,#99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
     padding: 7px 18px;
     text-align: center;
     text-decoration: none;
     text-shadow: 0 -1px 1px #4d0000;
-    font: normal 1.2rem/1.6rem cursive;
+    font: normal 1.2rem/1.6rem 'Poppins';
     letter-spacing: 1px;
     padding: 4px 20px;
     vertical-align: top;
@@ -9621,22 +9621,22 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 }
 
 .wrapper-footer footer#footer-openedx p,.wrapper-footer footer#footer-openedx ol,.wrapper-footer footer#footer-openedx ul {
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .wrapper-footer footer#footer-openedx p a,.wrapper-footer footer#footer-openedx ol a,.wrapper-footer footer#footer-openedx ul a {
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .wrapper-footer footer#footer-openedx a {
     transition: link-color 0.15s ease-in-out 0s,border 0.15s ease-in-out 0s;
     border-bottom: none;
-    color: #d9534f;
+    color: #99d98c;
     text-decoration: none !important
 }
 
 .wrapper-footer footer#footer-openedx a:hover,.wrapper-footer footer#footer-openedx a:focus,.wrapper-footer footer#footer-openedx a:active {
-    border-bottom: 1px dotted #d9534f
+    border-bottom: 1px dotted #99d98c
 }
 
 .wrapper-footer footer#footer-openedx .icon {
@@ -9689,7 +9689,7 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 }
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:hover,.wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:focus,.wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:active {
-    color: #d9534f
+    color: #99d98c
 }
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li:last-child {
@@ -10017,7 +10017,7 @@ footer#footer-edx-v3 .footer-content-wrapper:after {
 footer#footer-edx-v3 p {
     font-size: 14px;
     line-height: 20.72px;
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 footer#footer-edx-v3 .copyright {
@@ -10035,7 +10035,7 @@ footer#footer-edx-v3 .site-nav li,footer#footer-edx-v3 .legal-notices li {
     font-size: 14px;
     line-height: 20.72px;
     margin-right: 20px;
-    color: #d9534f
+    color: #99d98c
 }
 
 footer#footer-edx-v3 .site-nav li:last-of-type,footer#footer-edx-v3 .legal-notices li:last-of-type {
@@ -10111,7 +10111,7 @@ footer#footer-edx-v3 .social-media-links:after {
 footer#footer-edx-v3 .icon {
     font-family: 'FontAwesome';
     font-style: normal;
-    color: #d9534f
+    color: #99d98c
 }
 
 footer#footer-edx-v3 a.sm-link {
@@ -10793,8 +10793,8 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .header-global li.secondary>a {
-    color: #d9534f;
-    font-family: cursive;
+    color: #99d98c;
+    font-family: 'Poppins';
     display: inline-block;
     margin: 0 30px 0 0;
     text-decoration: none;
@@ -10821,7 +10821,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     box-shadow: 0 1px 0 0 rgba(255,255,255,0.6);
     color: #313131;
     display: inline-block;
-    font-family: cursive;
+    font-family: 'Poppins';
     line-height: 1em;
     margin: 1px 5px;
     padding: 10px 12px;
@@ -10965,7 +10965,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     border: 1px solid transparent;
     border-radius: 3px;
     box-sizing: border-box;
-    color: #d9534f;
+    color: #99d98c;
     cursor: pointer;
     display: block;
     margin: 5px 0;
@@ -11026,18 +11026,18 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 .header-global .nav-global li a,.header-global .nav-global div a {
     display: block;
     padding: 5px;
-    color: #d9534f;
+    color: #99d98c;
     font-weight: 600
 }
 
 .header-global .nav-global li a:hover,.header-global .nav-global li a:focus,.header-global .nav-global li a:active,.header-global .nav-global div a:hover,.header-global .nav-global div a:focus,.header-global .nav-global div a:active {
     text-decoration: none;
-    color: #d9534f
+    color: #99d98c
 }
 
 .header-global .nav-global li.active a,.header-global .nav-global div.active a {
     text-decoration: none;
-    color: #d9534f
+    color: #99d98c
 }
 
 .header-global .nav-courseware {
@@ -11055,7 +11055,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .view-howitworks .nav-global-01 a,.view-courses .nav-global-02 a,.view-schools .nav-global-03 a,.view-register .nav-global-04 a {
     text-decoration: none;
-    color: #d9534f !important
+    color: #99d98c !important
 }
 
 .header-global-new {
@@ -11151,8 +11151,8 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .header-global-new li.secondary>a {
-    color: #d9534f;
-    font-family: cursive;
+    color: #99d98c;
+    font-family: 'Poppins';
     display: inline-block;
     margin: 0 30px 0 0;
     text-decoration: none;
@@ -11331,7 +11331,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     border: 1px solid transparent;
     border-radius: 3px;
     box-sizing: border-box;
-    color: #d9534f;
+    color: #99d98c;
     cursor: pointer;
     display: block;
     margin: 5px 0;
@@ -11366,7 +11366,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .header-global-new .nav-courseware div a.nav-courseware-button:hover,.header-global-new .nav-courseware div a.nav-courseware-button:focus,.header-global-new .nav-courseware div a.nav-courseware-button:active {
-    border-color: #d9534f
+    border-color: #99d98c
 }
 
 .view-login .header-global-new .nav-courseware div a.nav-courseware-button:hover,.header-global-new .nav-courseware div a.nav-courseware-button:focus,.header-global-new .nav-courseware div a.nav-courseware-button:active {
@@ -11484,7 +11484,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     }
 
     .header-global-new.rwd .nav-global a {
-        color: #d9534f;
+        color: #99d98c;
         padding: 3px 10px;
         font-weight: 600
     }
@@ -11524,7 +11524,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .view-howitworks .nav-global-01 a,.view-courses .nav-global-02 a,.view-schools .nav-global-03 a,.view-register .nav-global-04 a {
     text-decoration: none;
-    color: #d9534f !important
+    color: #99d98c !important
 }
 
 .doc-link {
@@ -11577,7 +11577,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .highlighted-courses .courses .course .status,.find-courses .courses .course .status {
-    background: #d9534f;
+    background: #99d98c;
     color: white;
     font-size: 10px;
     left: 10px;
@@ -11666,12 +11666,12 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .highlighted-courses .courses .course header.course-preview:hover .info-link,.highlighted-courses .courses .course header.course-preview:focus .info-link,.find-courses .courses .course header.course-preview:hover .info-link,.find-courses .courses .course header.course-preview:focus .info-link {
-    color: #d9534f;
+    color: #99d98c;
     opacity: 1
 }
 
 .highlighted-courses .courses .course header.course-preview:hover h2,.highlighted-courses .courses .course header.course-preview:hover .home>header .title>.heading-group p,.home>header .title>.heading-group .highlighted-courses .courses .course header.course-preview:hover p,.highlighted-courses .courses .course header.course-preview:hover section.outside-app h1,section.outside-app .highlighted-courses .courses .course header.course-preview:hover h1,.highlighted-courses .courses .course header.course-preview:focus h2,.highlighted-courses .courses .course header.course-preview:focus .home>header .title>.heading-group p,.home>header .title>.heading-group .highlighted-courses .courses .course header.course-preview:focus p,.highlighted-courses .courses .course header.course-preview:focus section.outside-app h1,section.outside-app .highlighted-courses .courses .course header.course-preview:focus h1,.find-courses .courses .course header.course-preview:hover h2,.find-courses .courses .course header.course-preview:hover .home>header .title>.heading-group p,.home>header .title>.heading-group .find-courses .courses .course header.course-preview:hover p,.find-courses .courses .course header.course-preview:hover section.outside-app h1,section.outside-app .find-courses .courses .course header.course-preview:hover h1,.find-courses .courses .course header.course-preview:focus h2,.find-courses .courses .course header.course-preview:focus .home>header .title>.heading-group p,.home>header .title>.heading-group .find-courses .courses .course header.course-preview:focus p,.find-courses .courses .course header.course-preview:focus section.outside-app h1,section.outside-app .find-courses .courses .course header.course-preview:focus h1 {
-    color: #d9534f
+    color: #99d98c
 }
 
 .highlighted-courses .courses .course header.course-preview .heading-group,.find-courses .courses .course header.course-preview .heading-group {
@@ -11685,7 +11685,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 .highlighted-courses .courses .course header.course-preview .heading-group h2,.highlighted-courses .courses .course header.course-preview .home>header .title>.heading-group p,.home>header .highlighted-courses .courses .course header.course-preview .title>.heading-group p,.highlighted-courses .courses .course header.course-preview .heading-group section.outside-app h1,section.outside-app .highlighted-courses .courses .course header.course-preview .heading-group h1,.find-courses .courses .course header.course-preview .heading-group h2,.find-courses .courses .course header.course-preview .home>header .title>.heading-group p,.home>header .find-courses .courses .course header.course-preview .title>.heading-group p,.find-courses .courses .course header.course-preview .heading-group section.outside-app h1,section.outside-app .find-courses .courses .course header.course-preview .heading-group h1 {
     color: #313131;
     display: table-cell;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-size: 0.8em;
     font-weight: 700;
     height: 48px;
@@ -11708,7 +11708,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     box-sizing: border-box;
     color: #313131;
     display: inline-block;
-    font: bold 1.6em/1.2em cursive;
+    font: bold 1.6em/1.2em 'Poppins';
     height: 100%;
     opacity: 0.6;
     padding-top: 10px;
@@ -12027,7 +12027,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .modal .inner-wrapper .modal-form-error,.leanModal_box .inner-wrapper .modal-form-error,.entitlement-unenrollment-modal .inner-wrapper .modal-form-error,.entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .modal-form-error,.entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .entitlement-unenrollment-modal-error-text {
-    background: #d9534f;
+    background: #99d98c;
     border: 1px solid #8f0e0e;
     color: #8f0e0e;
     display: none;
@@ -12200,7 +12200,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     top: 0;
     z-index: 100;
     color: #313131;
-    font: normal 1.2rem/1.2rem cursive;
+    font: normal 1.2rem/1.2rem 'Poppins';
     text-align: center;
     text-shadow: 0 1px rgba(255,255,255,0.8);
     transition: all 0.15s ease-out 0s
@@ -12369,7 +12369,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .help-tab a:link:hover,.help-tab a:link:focus,.help-tab a:visited:hover,.help-tab a:visited:focus {
     color: #fff;
-    background: #d9534f
+    background: #99d98c
 }
 
 .help-buttons {
@@ -12395,7 +12395,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 #feedback_form input,#feedback_form textarea {
-    font: normal 1em/1.4em cursive
+    font: normal 1em/1.4em 'Poppins'
 }
 
 #feedback_form textarea[name="details"] {
@@ -12639,7 +12639,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     color: rgba(255,255,255,0.8);
     content: "\25B6";
     display: block;
-    font: normal 2em/1em cursive;
+    font: normal 2em/1em 'Poppins';
     left: 50%;
     margin-left: -11px;
     margin-top: -16px;
@@ -12797,7 +12797,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .home .university-partners .partners a .name>span {
     color: #313131;
-    font: 700 italic 1.4em/1.4em cursive;
+    font: 700 italic 1.4em/1.4em 'Poppins';
     text-shadow: 0 1px rgba(255,255,255,0.6);
     transition: all 0.15s ease-in-out 0s
 }
@@ -12897,7 +12897,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     float: right;
     position: relative;
     top: 1px;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-size: 14px;
     text-shadow: 0 1px rgba(255,255,255,0.6)
 }
@@ -12913,7 +12913,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .home .more-info header .action.action-mediakit .org-name,.home .more-info header .entitlement-actions-wrapper .action-mediakit.entitlement-action .org-name,.entitlement-actions-wrapper .home .more-info header .action-mediakit.entitlement-action .org-name {
     color: #0075b4;
-    font-family: cursive;
+    font-family: 'Poppins';
     text-transform: none
 }
 
@@ -12988,7 +12988,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .home .more-info .news .blog-posts>article .post-name a {
     color: #313131;
-    font: 700 1em/1.2em cursive
+    font: 700 1em/1.2em 'Poppins'
 }
 
 .home .more-info .news .blog-posts>article .post-name a:hover,.home .more-info .news .blog-posts>article .post-name a:focus {
@@ -13004,7 +13004,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .home .more-info .news .press-links h3 {
     display: inline;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 700;
     line-height: 1.6em
 }
@@ -13451,7 +13451,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .dashboard .main-container .my-courses .course.honor .sts-enrollment-value {
-    background: #d9534f
+    background: #99d98c
 }
 
 .dashboard .main-container .my-courses .course.audit .wrapper-course-image .cover,.dashboard .main-container .my-courses .course.audit .wrapper-course-image a.fade-cover {
@@ -13515,15 +13515,15 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     font-size: 16px;
     line-height: 25.16px;
     padding: 10px;
-    border: 1px solid #d9534f;
-    color: #d9534f;
+    border: 1px solid #99d98c;
+    color: #99d98c;
     text-decoration: none;
     display: block
 }
 
 .dashboard .side-container .wrapper-find-courses .course-advertise .marketing-link a:hover,.dashboard .side-container .wrapper-find-courses .course-advertise .marketing-link a:focus,.dashboard .side-container .wrapper-find-courses .course-advertise .marketing-link a:active {
     color: #fff;
-    background-color: #d9534f
+    background-color: #99d98c
 }
 
 .dashboard .side-container .wrapper-find-courses .course-advertise .marketing-link a span {
@@ -13587,7 +13587,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .wrapper-messages-primary .message a {
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .wrapper-messages-primary .message strong {
@@ -13633,7 +13633,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .wrapper-messages-primary .message.is-expandable .wrapper-tip:hover .message-title .value,.wrapper-messages-primary .message.is-expandable .wrapper-tip:hover .message-copy,.wrapper-messages-primary .message.is-expandable .wrapper-tip:hover .ui-toggle-expansion {
-    color: #d9534f
+    color: #99d98c
 }
 
 .wrapper-messages-primary .message.is-expandable .wrapper-extended {
@@ -13781,7 +13781,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     box-sizing: border-box;
     float: left;
     border-radius: 3px;
-    font: normal 0.8rem/1.2rem cursive;
+    font: normal 0.8rem/1.2rem 'Poppins';
     letter-spacing: 1px;
     padding: 6px 12px;
     text-align: center
@@ -13799,19 +13799,19 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .wrapper-messages-primary .message.message-status .actions .action .btn,.wrapper-messages-primary .message.message-status .actions .entitlement-actions-wrapper .entitlement-action .btn,.entitlement-actions-wrapper .wrapper-messages-primary .message.message-status .actions .entitlement-action .btn {
     float: left;
-    font: normal 0.8rem/1.2rem cursive;
+    font: normal 0.8rem/1.2rem 'Poppins';
     letter-spacing: 1px;
     padding: 6px 12px;
     text-align: center
 }
 
 .wrapper-messages-primary .message.message-status .exam-registration-number {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-size: 18px
 }
 
 .wrapper-messages-primary .message.message-status .exam-registration-number a {
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .wrapper-messages-primary .message.message-status.exam-register .message-copy {
@@ -14033,7 +14033,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .wrapper-messages-primary .message .prerequisites .tip {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-size: 1em;
     color: #646464;
     margin-top: 10px
@@ -14065,12 +14065,12 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .empty-dashboard-message a.btn {
-    background-color: #d9534f;
-    border: 1px solid #d9534f;
+    background-color: #99d98c;
+    border: 1px solid #99d98c;
     box-shadow: 0 1px 8px 0 rgba(0,0,0,0.1);
     box-sizing: border-box;
     color: #fff;
-    font-family: cursive;
+    font-family: 'Poppins';
     display: inline-block;
     letter-spacing: 1px;
     margin-top: 5px;
@@ -14079,7 +14079,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .empty-dashboard-message a.btn:hover,.empty-dashboard-message a.btn:focus {
-    background: #d9534f -l2;
+    background: #99d98c -l2;
     text-decoration: none
 }
 
@@ -14134,7 +14134,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .status-verification.is-denied {
-    border-top: 3px solid #d9534f !important
+    border-top: 3px solid #99d98c !important
 }
 
 .status-verification.is-denied .status-data-message {
@@ -14260,7 +14260,7 @@ p.course-block {
     box-sizing: border-box;
     float: right;
     display: block;
-    font: normal 15px/1.6rem cursive;
+    font: normal 15px/1.6rem 'Poppins';
     letter-spacing: 0;
     padding: 6px 32px 7px;
     text-align: center;
@@ -14287,7 +14287,7 @@ p.course-block {
     text-decoration: none;
     text-shadow: 0 1px 0 #f9f8f8;
     background-clip: padding-box;
-    font: normal 15px/1.6rem cursive;
+    font: normal 15px/1.6rem 'Poppins';
     padding: 6px 32px 7px
 }
 
@@ -14330,7 +14330,7 @@ a.fade-cover {
 }
 
 .dashboard-banner .wrapper-msg .msg {
-    font-family: cursive;
+    font-family: 'Poppins';
     padding-bottom: 20px;
     border-bottom: thin solid #767676
 }
@@ -14342,7 +14342,7 @@ a.fade-cover {
 }
 
 .dashboard-banner .wrapper-msg .msg.title {
-    font-family: cursive;
+    font-family: 'Poppins';
     text-transform: none;
     letter-spacing: 0
 }
@@ -14527,7 +14527,7 @@ a.fade-cover {
 
 .view-register .introduction header h1,.view-login .introduction header .view-register h1,.view-passwordreset .introduction header .view-register h1,.view-register #forgot-password-modal #password-reset header h2,#forgot-password-modal #password-reset header .view-register h2,.view-register #forgot-password-modal #password-reset .home>header .title>.heading-group p,#forgot-password-modal #password-reset .home>header .title>.heading-group .view-register p,.view-register #forgot-password-modal #password-reset header section.outside-app h1,#forgot-password-modal #password-reset header section.outside-app .view-register h1,.view-register section.outside-app #forgot-password-modal #password-reset header h1,section.outside-app #forgot-password-modal #password-reset header .view-register h1,.view-register .login aside .btn h3,.login aside .btn .view-register h3,.view-register .register aside .btn h3,.register aside .btn .view-register h3,.view-register .passwordreset aside .btn h3,.passwordreset aside .btn .view-register h3,.view-register #forgot-password-modal #password-reset aside .btn h3,#forgot-password-modal #password-reset aside .btn .view-register h3,.view-register .login .status .message-title,.login .status .view-register .message-title,.view-register .register .status .message-title,.register .status .view-register .message-title,.view-register .passwordreset .status .message-title,.passwordreset .status .view-register .message-title,.view-register #forgot-password-modal #password-reset .status .message-title,#forgot-password-modal #password-reset .status .view-register .message-title,.view-register .login form .instructions,.login form .view-register .instructions,.view-register .register form .instructions,.register form .view-register .instructions,.view-register .passwordreset form .instructions,.passwordreset form .view-register .instructions,.view-register #forgot-password-modal #password-reset form .instructions,#forgot-password-modal #password-reset form .view-register .instructions,.view-register .login p,.login .view-register p,.view-register .login ol,.login .view-register ol,.view-register .login ul,.login .view-register ul,.view-register .login h1,.login .view-register h1,.view-register .login h2,.login .view-register h2,.view-register .login .home>header .title>.heading-group p,.login .home>header .title>.heading-group .view-register p,.view-register .home>header .title>.heading-group .login p,.home>header .title>.heading-group .login .view-register p,.view-register .login h3,.login .view-register h3,.view-register .login h4,.login .view-register h4,.view-register .login h5,.login .view-register h5,.view-register .login h6,.login .view-register h6,.view-register .login label,.login .view-register label,.view-register .login input,.login .view-register input,.view-register .login textarea,.login .view-register textarea,.view-register .register p,.register .view-register p,.view-register .register ol,.register .view-register ol,.view-register .register ul,.register .view-register ul,.view-register .register h1,.register .view-register h1,.view-register .register h2,.register .view-register h2,.view-register .register .home>header .title>.heading-group p,.register .home>header .title>.heading-group .view-register p,.view-register .home>header .title>.heading-group .register p,.home>header .title>.heading-group .register .view-register p,.view-register .register h3,.register .view-register h3,.view-register .register h4,.register .view-register h4,.view-register .register h5,.register .view-register h5,.view-register .register h6,.register .view-register h6,.view-register .register label,.register .view-register label,.view-register .register input,.register .view-register input,.view-register .register textarea,.register .view-register textarea,.view-register .passwordreset p,.passwordreset .view-register p,.view-register .passwordreset ol,.passwordreset .view-register ol,.view-register .passwordreset ul,.passwordreset .view-register ul,.view-register .passwordreset h1,.passwordreset .view-register h1,.view-register .passwordreset h2,.passwordreset .view-register h2,.view-register .passwordreset .home>header .title>.heading-group p,.passwordreset .home>header .title>.heading-group .view-register p,.view-register .home>header .title>.heading-group .passwordreset p,.home>header .title>.heading-group .passwordreset .view-register p,.view-register .passwordreset h3,.passwordreset .view-register h3,.view-register .passwordreset h4,.passwordreset .view-register h4,.view-register .passwordreset h5,.passwordreset .view-register h5,.view-register .passwordreset h6,.passwordreset .view-register h6,.view-register .passwordreset label,.passwordreset .view-register label,.view-register .passwordreset input,.passwordreset .view-register input,.view-register .passwordreset textarea,.passwordreset .view-register textarea,.view-register #forgot-password-modal #password-reset p,#forgot-password-modal #password-reset .view-register p,.view-register #forgot-password-modal #password-reset ol,#forgot-password-modal #password-reset .view-register ol,.view-register #forgot-password-modal #password-reset ul,#forgot-password-modal #password-reset .view-register ul,.view-register #forgot-password-modal #password-reset h1,#forgot-password-modal #password-reset .view-register h1,.view-register #forgot-password-modal #password-reset h2,#forgot-password-modal #password-reset .view-register h2,.view-register #forgot-password-modal #password-reset h3,#forgot-password-modal #password-reset .view-register h3,.view-register #forgot-password-modal #password-reset h4,#forgot-password-modal #password-reset .view-register h4,.view-register #forgot-password-modal #password-reset h5,#forgot-password-modal #password-reset .view-register h5,.view-register #forgot-password-modal #password-reset h6,#forgot-password-modal #password-reset .view-register h6,.view-register #forgot-password-modal #password-reset label,#forgot-password-modal #password-reset .view-register label,.view-register #forgot-password-modal #password-reset input,#forgot-password-modal #password-reset .view-register input,.view-register #forgot-password-modal #password-reset textarea,#forgot-password-modal #password-reset .view-register textarea,.view-register .login .status .message-copy,.login .status .view-register .message-copy,.view-register .register .status .message-copy,.register .status .view-register .message-copy,.view-register .passwordreset .status .message-copy,.passwordreset .status .view-register .message-copy,.view-register #forgot-password-modal #password-reset .status .message-copy,#forgot-password-modal #password-reset .status .view-register .message-copy,.view-register #forgot-password-modal .modal-form-error,#forgot-password-modal .view-register .modal-form-error,.view-register #forgot-password-modal .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .entitlement-unenrollment-modal-error-text,#forgot-password-modal .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .view-register .entitlement-unenrollment-modal-error-text,.view-register .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper #forgot-password-modal .entitlement-unenrollment-modal-error-text,.entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper #forgot-password-modal .view-register .entitlement-unenrollment-modal-error-text,.view-register .introduction header .view-login h1,.view-login .introduction header h1,.view-passwordreset .introduction header .view-login h1,.view-login #forgot-password-modal #password-reset header h2,#forgot-password-modal #password-reset header .view-login h2,.view-login #forgot-password-modal #password-reset .home>header .title>.heading-group p,#forgot-password-modal #password-reset .home>header .title>.heading-group .view-login p,.view-login #forgot-password-modal #password-reset header section.outside-app h1,#forgot-password-modal #password-reset header section.outside-app .view-login h1,.view-login section.outside-app #forgot-password-modal #password-reset header h1,section.outside-app #forgot-password-modal #password-reset header .view-login h1,.view-login .login aside .btn h3,.login aside .btn .view-login h3,.view-login .register aside .btn h3,.register aside .btn .view-login h3,.view-login .passwordreset aside .btn h3,.passwordreset aside .btn .view-login h3,.view-login #forgot-password-modal #password-reset aside .btn h3,#forgot-password-modal #password-reset aside .btn .view-login h3,.view-login .login .status .message-title,.login .status .view-login .message-title,.view-login .register .status .message-title,.register .status .view-login .message-title,.view-login .passwordreset .status .message-title,.passwordreset .status .view-login .message-title,.view-login #forgot-password-modal #password-reset .status .message-title,#forgot-password-modal #password-reset .status .view-login .message-title,.view-login .login form .instructions,.login form .view-login .instructions,.view-login .register form .instructions,.register form .view-login .instructions,.view-login .passwordreset form .instructions,.passwordreset form .view-login .instructions,.view-login #forgot-password-modal #password-reset form .instructions,#forgot-password-modal #password-reset form .view-login .instructions,.view-login .login p,.login .view-login p,.view-login .login ol,.login .view-login ol,.view-login .login ul,.login .view-login ul,.view-login .login h1,.login .view-login h1,.view-login .login h2,.login .view-login h2,.view-login .login .home>header .title>.heading-group p,.login .home>header .title>.heading-group .view-login p,.view-login .home>header .title>.heading-group .login p,.home>header .title>.heading-group .login .view-login p,.view-login .login h3,.login .view-login h3,.view-login .login h4,.login .view-login h4,.view-login .login h5,.login .view-login h5,.view-login .login h6,.login .view-login h6,.view-login .login label,.login .view-login label,.view-login .login input,.login .view-login input,.view-login .login textarea,.login .view-login textarea,.view-login .register p,.register .view-login p,.view-login .register ol,.register .view-login ol,.view-login .register ul,.register .view-login ul,.view-login .register h1,.register .view-login h1,.view-login .register h2,.register .view-login h2,.view-login .register .home>header .title>.heading-group p,.register .home>header .title>.heading-group .view-login p,.view-login .home>header .title>.heading-group .register p,.home>header .title>.heading-group .register .view-login p,.view-login .register h3,.register .view-login h3,.view-login .register h4,.register .view-login h4,.view-login .register h5,.register .view-login h5,.view-login .register h6,.register .view-login h6,.view-login .register label,.register .view-login label,.view-login .register input,.register .view-login input,.view-login .register textarea,.register .view-login textarea,.view-login .passwordreset p,.passwordreset .view-login p,.view-login .passwordreset ol,.passwordreset .view-login ol,.view-login .passwordreset ul,.passwordreset .view-login ul,.view-login .passwordreset h1,.passwordreset .view-login h1,.view-login .passwordreset h2,.passwordreset .view-login h2,.view-login .passwordreset .home>header .title>.heading-group p,.passwordreset .home>header .title>.heading-group .view-login p,.view-login .home>header .title>.heading-group .passwordreset p,.home>header .title>.heading-group .passwordreset .view-login p,.view-login .passwordreset h3,.passwordreset .view-login h3,.view-login .passwordreset h4,.passwordreset .view-login h4,.view-login .passwordreset h5,.passwordreset .view-login h5,.view-login .passwordreset h6,.passwordreset .view-login h6,.view-login .passwordreset label,.passwordreset .view-login label,.view-login .passwordreset input,.passwordreset .view-login input,.view-login .passwordreset textarea,.passwordreset .view-login textarea,.view-login #forgot-password-modal #password-reset p,#forgot-password-modal #password-reset .view-login p,.view-login #forgot-password-modal #password-reset ol,#forgot-password-modal #password-reset .view-login ol,.view-login #forgot-password-modal #password-reset ul,#forgot-password-modal #password-reset .view-login ul,.view-login #forgot-password-modal #password-reset h1,#forgot-password-modal #password-reset .view-login h1,.view-login #forgot-password-modal #password-reset h2,#forgot-password-modal #password-reset .view-login h2,.view-login #forgot-password-modal #password-reset h3,#forgot-password-modal #password-reset .view-login h3,.view-login #forgot-password-modal #password-reset h4,#forgot-password-modal #password-reset .view-login h4,.view-login #forgot-password-modal #password-reset h5,#forgot-password-modal #password-reset .view-login h5,.view-login #forgot-password-modal #password-reset h6,#forgot-password-modal #password-reset .view-login h6,.view-login #forgot-password-modal #password-reset label,#forgot-password-modal #password-reset .view-login label,.view-login #forgot-password-modal #password-reset input,#forgot-password-modal #password-reset .view-login input,.view-login #forgot-password-modal #password-reset textarea,#forgot-password-modal #password-reset .view-login textarea,.view-login .login .status .message-copy,.login .status .view-login .message-copy,.view-login .register .status .message-copy,.register .status .view-login .message-copy,.view-login .passwordreset .status .message-copy,.passwordreset .status .view-login .message-copy,.view-login #forgot-password-modal #password-reset .status .message-copy,#forgot-password-modal #password-reset .status .view-login .message-copy,.view-login #forgot-password-modal .modal-form-error,#forgot-password-modal .view-login .modal-form-error,.view-login #forgot-password-modal .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .entitlement-unenrollment-modal-error-text,#forgot-password-modal .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .view-login .entitlement-unenrollment-modal-error-text,.view-login .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper #forgot-password-modal .entitlement-unenrollment-modal-error-text,.entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper #forgot-password-modal .view-login .entitlement-unenrollment-modal-error-text,.view-register .introduction header .view-passwordreset h1,.view-login .introduction header .view-passwordreset h1,.view-passwordreset .introduction header h1,.view-passwordreset #forgot-password-modal #password-reset header h2,#forgot-password-modal #password-reset header .view-passwordreset h2,.view-passwordreset #forgot-password-modal #password-reset .home>header .title>.heading-group p,#forgot-password-modal #password-reset .home>header .title>.heading-group .view-passwordreset p,.view-passwordreset #forgot-password-modal #password-reset header section.outside-app h1,#forgot-password-modal #password-reset header section.outside-app .view-passwordreset h1,.view-passwordreset section.outside-app #forgot-password-modal #password-reset header h1,section.outside-app #forgot-password-modal #password-reset header .view-passwordreset h1,.view-passwordreset .login aside .btn h3,.login aside .btn .view-passwordreset h3,.view-passwordreset .register aside .btn h3,.register aside .btn .view-passwordreset h3,.view-passwordreset .passwordreset aside .btn h3,.passwordreset aside .btn .view-passwordreset h3,.view-passwordreset #forgot-password-modal #password-reset aside .btn h3,#forgot-password-modal #password-reset aside .btn .view-passwordreset h3,.view-passwordreset .login .status .message-title,.login .status .view-passwordreset .message-title,.view-passwordreset .register .status .message-title,.register .status .view-passwordreset .message-title,.view-passwordreset .passwordreset .status .message-title,.passwordreset .status .view-passwordreset .message-title,.view-passwordreset #forgot-password-modal #password-reset .status .message-title,#forgot-password-modal #password-reset .status .view-passwordreset .message-title,.view-passwordreset .login form .instructions,.login form .view-passwordreset .instructions,.view-passwordreset .register form .instructions,.register form .view-passwordreset .instructions,.view-passwordreset .passwordreset form .instructions,.passwordreset form .view-passwordreset .instructions,.view-passwordreset #forgot-password-modal #password-reset form .instructions,#forgot-password-modal #password-reset form .view-passwordreset .instructions,.view-passwordreset .login p,.login .view-passwordreset p,.view-passwordreset .login ol,.login .view-passwordreset ol,.view-passwordreset .login ul,.login .view-passwordreset ul,.view-passwordreset .login h1,.login .view-passwordreset h1,.view-passwordreset .login h2,.login .view-passwordreset h2,.view-passwordreset .login .home>header .title>.heading-group p,.login .home>header .title>.heading-group .view-passwordreset p,.view-passwordreset .home>header .title>.heading-group .login p,.home>header .title>.heading-group .login .view-passwordreset p,.view-passwordreset .login h3,.login .view-passwordreset h3,.view-passwordreset .login h4,.login .view-passwordreset h4,.view-passwordreset .login h5,.login .view-passwordreset h5,.view-passwordreset .login h6,.login .view-passwordreset h6,.view-passwordreset .login label,.login .view-passwordreset label,.view-passwordreset .login input,.login .view-passwordreset input,.view-passwordreset .login textarea,.login .view-passwordreset textarea,.view-passwordreset .register p,.register .view-passwordreset p,.view-passwordreset .register ol,.register .view-passwordreset ol,.view-passwordreset .register ul,.register .view-passwordreset ul,.view-passwordreset .register h1,.register .view-passwordreset h1,.view-passwordreset .register h2,.register .view-passwordreset h2,.view-passwordreset .register .home>header .title>.heading-group p,.register .home>header .title>.heading-group .view-passwordreset p,.view-passwordreset .home>header .title>.heading-group .register p,.home>header .title>.heading-group .register .view-passwordreset p,.view-passwordreset .register h3,.register .view-passwordreset h3,.view-passwordreset .register h4,.register .view-passwordreset h4,.view-passwordreset .register h5,.register .view-passwordreset h5,.view-passwordreset .register h6,.register .view-passwordreset h6,.view-passwordreset .register label,.register .view-passwordreset label,.view-passwordreset .register input,.register .view-passwordreset input,.view-passwordreset .register textarea,.register .view-passwordreset textarea,.view-passwordreset .passwordreset p,.passwordreset .view-passwordreset p,.view-passwordreset .passwordreset ol,.passwordreset .view-passwordreset ol,.view-passwordreset .passwordreset ul,.passwordreset .view-passwordreset ul,.view-passwordreset .passwordreset h1,.passwordreset .view-passwordreset h1,.view-passwordreset .passwordreset h2,.passwordreset .view-passwordreset h2,.view-passwordreset .passwordreset .home>header .title>.heading-group p,.passwordreset .home>header .title>.heading-group .view-passwordreset p,.view-passwordreset .home>header .title>.heading-group .passwordreset p,.home>header .title>.heading-group .passwordreset .view-passwordreset p,.view-passwordreset .passwordreset h3,.passwordreset .view-passwordreset h3,.view-passwordreset .passwordreset h4,.passwordreset .view-passwordreset h4,.view-passwordreset .passwordreset h5,.passwordreset .view-passwordreset h5,.view-passwordreset .passwordreset h6,.passwordreset .view-passwordreset h6,.view-passwordreset .passwordreset label,.passwordreset .view-passwordreset label,.view-passwordreset .passwordreset input,.passwordreset .view-passwordreset input,.view-passwordreset .passwordreset textarea,.passwordreset .view-passwordreset textarea,.view-passwordreset #forgot-password-modal #password-reset p,#forgot-password-modal #password-reset .view-passwordreset p,.view-passwordreset #forgot-password-modal #password-reset ol,#forgot-password-modal #password-reset .view-passwordreset ol,.view-passwordreset #forgot-password-modal #password-reset ul,#forgot-password-modal #password-reset .view-passwordreset ul,.view-passwordreset #forgot-password-modal #password-reset h1,#forgot-password-modal #password-reset .view-passwordreset h1,.view-passwordreset #forgot-password-modal #password-reset h2,#forgot-password-modal #password-reset .view-passwordreset h2,.view-passwordreset #forgot-password-modal #password-reset h3,#forgot-password-modal #password-reset .view-passwordreset h3,.view-passwordreset #forgot-password-modal #password-reset h4,#forgot-password-modal #password-reset .view-passwordreset h4,.view-passwordreset #forgot-password-modal #password-reset h5,#forgot-password-modal #password-reset .view-passwordreset h5,.view-passwordreset #forgot-password-modal #password-reset h6,#forgot-password-modal #password-reset .view-passwordreset h6,.view-passwordreset #forgot-password-modal #password-reset label,#forgot-password-modal #password-reset .view-passwordreset label,.view-passwordreset #forgot-password-modal #password-reset input,#forgot-password-modal #password-reset .view-passwordreset input,.view-passwordreset #forgot-password-modal #password-reset textarea,#forgot-password-modal #password-reset .view-passwordreset textarea,.view-passwordreset .login .status .message-copy,.login .status .view-passwordreset .message-copy,.view-passwordreset .register .status .message-copy,.register .status .view-passwordreset .message-copy,.view-passwordreset .passwordreset .status .message-copy,.passwordreset .status .view-passwordreset .message-copy,.view-passwordreset #forgot-password-modal #password-reset .status .message-copy,#forgot-password-modal #password-reset .status .view-passwordreset .message-copy,.view-passwordreset #forgot-password-modal .modal-form-error,#forgot-password-modal .view-passwordreset .modal-form-error,.view-passwordreset #forgot-password-modal .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .entitlement-unenrollment-modal-error-text,#forgot-password-modal .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .view-passwordreset .entitlement-unenrollment-modal-error-text,.view-passwordreset .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper #forgot-password-modal .entitlement-unenrollment-modal-error-text,.entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper #forgot-password-modal .view-passwordreset .entitlement-unenrollment-modal-error-text {
     display: block;
-    font-family: cursive;
+    font-family: 'Poppins';
     line-height: 1.41575em
 }
 
@@ -14535,7 +14535,7 @@ a.fade-cover {
     font-size: 25px;
     margin: 0 0 20px 0;
     font-weight: 300;
-    color: #d9534f
+    color: #99d98c
 }
 
 .view-register .login aside .btn h3,.login aside .btn .view-register h3,.view-register .register aside .btn h3,.register aside .btn .view-register h3,.view-register .passwordreset aside .btn h3,.passwordreset aside .btn .view-register h3,.view-register #forgot-password-modal #password-reset aside .btn h3,#forgot-password-modal #password-reset aside .btn .view-register h3,.view-register .login .status .message-title,.login .status .view-register .message-title,.view-register .register .status .message-title,.register .status .view-register .message-title,.view-register .passwordreset .status .message-title,.passwordreset .status .view-register .message-title,.view-register #forgot-password-modal #password-reset .status .message-title,#forgot-password-modal #password-reset .status .view-register .message-title,.view-login .login aside .btn h3,.login aside .btn .view-login h3,.view-login .register aside .btn h3,.register aside .btn .view-login h3,.view-login .passwordreset aside .btn h3,.passwordreset aside .btn .view-login h3,.view-login #forgot-password-modal #password-reset aside .btn h3,#forgot-password-modal #password-reset aside .btn .view-login h3,.view-login .login .status .message-title,.login .status .view-login .message-title,.view-login .register .status .message-title,.register .status .view-login .message-title,.view-login .passwordreset .status .message-title,.passwordreset .status .view-login .message-title,.view-login #forgot-password-modal #password-reset .status .message-title,#forgot-password-modal #password-reset .status .view-login .message-title,.view-passwordreset .login aside .btn h3,.login aside .btn .view-passwordreset h3,.view-passwordreset .register aside .btn h3,.register aside .btn .view-passwordreset h3,.view-passwordreset .passwordreset aside .btn h3,.passwordreset aside .btn .view-passwordreset h3,.view-passwordreset #forgot-password-modal #password-reset aside .btn h3,#forgot-password-modal #password-reset aside .btn .view-passwordreset h3,.view-passwordreset .login .status .message-title,.login .status .view-passwordreset .message-title,.view-passwordreset .register .status .message-title,.register .status .view-passwordreset .message-title,.view-passwordreset .passwordreset .status .message-title,.passwordreset .status .view-passwordreset .message-title,.view-passwordreset #forgot-password-modal #password-reset .status .message-title,#forgot-password-modal #password-reset .status .view-passwordreset .message-title {
@@ -14629,15 +14629,15 @@ a.fade-cover {
 }
 
 .login a:link,.login a:visited,.login a:hover,.login a:active,.login a:focus,.register a:link,.register a:visited,.register a:hover,.register a:active,.register a:focus,.passwordreset a:link,.passwordreset a:visited,.passwordreset a:hover,.passwordreset a:active,.passwordreset a:focus,#forgot-password-modal #password-reset a:link,#forgot-password-modal #password-reset a:visited,#forgot-password-modal #password-reset a:hover,#forgot-password-modal #password-reset a:active,#forgot-password-modal #password-reset a:focus {
-    color: #d9534f;
+    color: #99d98c;
     font-weight: 400;
     text-decoration: none !important;
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .login a:hover,.login a:active,.login a:focus,.register a:hover,.register a:active,.register a:focus,.passwordreset a:hover,.passwordreset a:active,.passwordreset a:focus,#forgot-password-modal #password-reset a:hover,#forgot-password-modal #password-reset a:active,#forgot-password-modal #password-reset a:focus {
     text-decoration: none !important;
-    border-bottom: 1px dotted #d9534f
+    border-bottom: 1px dotted #99d98c
 }
 
 .login strong,.register strong,.passwordreset strong,#forgot-password-modal #password-reset strong {
@@ -14743,7 +14743,7 @@ a.fade-cover {
     border-radius: 0;
     display: block;
     height: auto;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
     color: #313131
@@ -14840,7 +14840,7 @@ a.fade-cover {
 }
 
 .login form .field.error label,.register form .field.error label,.passwordreset form .field.error label,#forgot-password-modal #password-reset form .field.error label {
-    color: #d9534f
+    color: #99d98c
 }
 
 .login form .field.error input,.login form .field.error textarea,.register form .field.error input,.register form .field.error textarea,.passwordreset form .field.error input,.passwordreset form .field.error textarea,#forgot-password-modal #password-reset form .field.error input,#forgot-password-modal #password-reset form .field.error textarea {
@@ -15444,7 +15444,7 @@ a.fade-cover {
 
 .find-courses header.search .inner-wrapper.main-search h1,.find-courses header.search .entitlement-unenrollment-modal .main-search.entitlement-unenrollment-modal-inner-wrapper h1,.entitlement-unenrollment-modal .find-courses header.search .main-search.entitlement-unenrollment-modal-inner-wrapper h1,.find-courses header.search .inner-wrapper.university-search h1,.find-courses header.search .entitlement-unenrollment-modal .university-search.entitlement-unenrollment-modal-inner-wrapper h1,.entitlement-unenrollment-modal .find-courses header.search .university-search.entitlement-unenrollment-modal-inner-wrapper h1,.university-profile header.search .inner-wrapper.main-search h1,.university-profile header.search .entitlement-unenrollment-modal .main-search.entitlement-unenrollment-modal-inner-wrapper h1,.entitlement-unenrollment-modal .university-profile header.search .main-search.entitlement-unenrollment-modal-inner-wrapper h1,.university-profile header.search .inner-wrapper.university-search h1,.university-profile header.search .entitlement-unenrollment-modal .university-search.entitlement-unenrollment-modal-inner-wrapper h1,.entitlement-unenrollment-modal .university-profile header.search .university-search.entitlement-unenrollment-modal-inner-wrapper h1 {
     color: #313131;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: italic;
     font-weight: 700;
     letter-spacing: 0;
@@ -16028,7 +16028,7 @@ a.fade-cover {
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 .button-org:hover,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 .button-org:focus {
-    color: #d9534f
+    color: #99d98c
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h2,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group .home>header .title>.heading-group p,.home>header .title>.heading-group .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group p,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group section.outside-app h1,section.outside-app .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 {
@@ -16038,14 +16038,14 @@ a.fade-cover {
 
 .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h2 a,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group .home>header .title>.heading-group p a,.home>header .title>.heading-group .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group p a,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group section.outside-app h1 a,section.outside-app .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 a {
     color: #313131;
-    font: italic 700 1em/1em cursive;
+    font: italic 700 1em/1em 'Poppins';
     letter-spacing: 0;
     text-shadow: 0 1px rgba(255,255,255,0.6);
     text-transform: none
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h2 a:hover,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group .home>header .title>.heading-group p a:hover,.home>header .title>.heading-group .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group p a:hover,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group section.outside-app h1 a:hover,section.outside-app .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 a:hover,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h2 a:focus,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group .home>header .title>.heading-group p a:focus,.home>header .title>.heading-group .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group p a:focus,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group section.outside-app h1 a:focus,section.outside-app .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 a:focus {
-    color: #d9534f
+    color: #99d98c
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta {
@@ -16070,9 +16070,9 @@ a.fade-cover {
     display: inline-block;
     font-size: inherit;
     font-weight: bold;
-    background-color: #d9534f;
-    background-image: -webkit-linear-gradient(top, #d9534f 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
-    background-image: linear-gradient(to bottom,#d9534f 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-color: #99d98c;
+    background-image: -webkit-linear-gradient(top, #99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-image: linear-gradient(to bottom,#99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
     padding: 7px 18px;
     text-align: center;
     text-decoration: none;
@@ -16080,7 +16080,7 @@ a.fade-cover {
     box-sizing: border-box;
     border-radius: 3px;
     display: block;
-    font: normal 1.2rem/1.6rem cursive;
+    font: normal 1.2rem/1.6rem 'Poppins';
     letter-spacing: 1px;
     padding: 10px 0;
     text-align: center;
@@ -16124,9 +16124,9 @@ a.fade-cover {
     display: inline-block;
     font-size: inherit;
     font-weight: bold;
-    background-color: #d9534f;
-    background-image: -webkit-linear-gradient(top, #d9534f 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
-    background-image: linear-gradient(to bottom,#d9534f 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-color: #99d98c;
+    background-image: -webkit-linear-gradient(top, #99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-image: linear-gradient(to bottom,#99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
     padding: 7px 18px;
     text-align: center;
     text-decoration: none;
@@ -16135,7 +16135,7 @@ a.fade-cover {
     border-radius: 3px;
     display: block;
     float: left;
-    font: normal 1.2rem/1.6rem cursive;
+    font: normal 1.2rem/1.6rem 'Poppins';
     letter-spacing: 1px;
     padding: 10px 0;
     text-align: center;
@@ -16222,7 +16222,7 @@ a.fade-cover {
     color: rgba(255,255,255,0.8);
     content: "\25B6";
     display: block;
-    font: normal 2em/1em cursive;
+    font: normal 2em/1em 'Poppins';
     left: 50%;
     margin-left: -11px;
     margin-top: -16px;
@@ -16317,7 +16317,7 @@ a.fade-cover {
 
 .course-info .details .inner-wrapper .course-staff .teacher h3,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .course-staff .teacher h3,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .course-staff .teacher h3 {
     color: #313131;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 700;
     margin-bottom: 15px;
     text-transform: none
@@ -16363,7 +16363,7 @@ a.fade-cover {
 }
 
 .course-info .details .inner-wrapper .faq .response h3,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .faq .response h3,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .faq .response h3 {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 700;
     margin-bottom: 15px
 }
@@ -16436,7 +16436,7 @@ a.fade-cover {
 .course-info .course-sidebar header a.university-name {
     border-right: 1px solid #c8c8c8;
     color: #313131;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: italic;
     font-weight: 700;
     display: inline-block;
@@ -16545,7 +16545,7 @@ a.fade-cover {
 .course-info .course-sidebar .important-dates li .important-dates-item-title {
     color: #646464;
     float: left;
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .course-info .course-sidebar .important-dates li .icon {
@@ -16569,7 +16569,7 @@ a.fade-cover {
     margin: 20px 0 10px;
     font-size: 0.8em;
     color: #646464;
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .container.jobs,section.jobs.outside-app,.view-profile .profile-self .wrapper-profile-field-account-privacy .jobs.u-field-account_privacy,.view-profile .jobs.wrapper-profile-sections,.view-profile .jobs.badge-set-display {
@@ -16716,14 +16716,14 @@ a.fade-cover {
 }
 
 .container.jobs .jobs-wrapper .jobs-listing .job h3,section.jobs.outside-app .jobs-wrapper .jobs-listing .job h3,.view-profile .profile-self .wrapper-profile-field-account-privacy .jobs.u-field-account_privacy .jobs-wrapper .jobs-listing .job h3,.view-profile .jobs.wrapper-profile-sections .jobs-wrapper .jobs-listing .job h3,.view-profile .jobs.badge-set-display .jobs-wrapper .jobs-listing .job h3 {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 700;
     margin-bottom: 15px
 }
 
 .container.jobs .jobs-wrapper .jobs-listing .job h4,section.jobs.outside-app .jobs-wrapper .jobs-listing .job h4,.view-profile .profile-self .wrapper-profile-field-account-privacy .jobs.u-field-account_privacy .jobs-wrapper .jobs-listing .job h4,.view-profile .jobs.wrapper-profile-sections .jobs-wrapper .jobs-listing .job h4,.view-profile .jobs.badge-set-display .jobs-wrapper .jobs-listing .job h4 {
     font-size: 1em;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 700;
     margin-top: 25px;
     margin-bottom: 10px
@@ -16789,7 +16789,7 @@ a.fade-cover {
 .mediakit a.action-download {
     position: relative;
     color: #0075b4;
-    font-family: cursive;
+    font-family: 'Poppins';
     text-decoration: none;
     transition: all 0.1s linear 0s
 }
@@ -16797,7 +16797,7 @@ a.fade-cover {
 .mediakit a.action-download .note {
     position: relative;
     color: #0075b4;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-size: 13px;
     text-decoration: none;
     transition: all 0.1s linear 0s
@@ -16856,7 +16856,7 @@ a.fade-cover {
 
 .mediakit .introduction aside h3 {
     padding: 10px 15px;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: bold;
     font-size: 16px;
     letter-spacing: 0;
@@ -16914,7 +16914,7 @@ a.fade-cover {
     padding: 0;
     color: #333;
     font-size: 16px;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: bold;
     letter-spacing: 0
 }
@@ -17187,7 +17187,7 @@ a.fade-cover {
 }
 
 .container.about .faq .responses .response h3,section.about.outside-app .faq .responses .response h3,.view-profile .profile-self .wrapper-profile-field-account-privacy .about.u-field-account_privacy .faq .responses .response h3,.view-profile .about.wrapper-profile-sections .faq .responses .response h3,.view-profile .about.badge-set-display .faq .responses .response h3 {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 700;
     margin-bottom: 15px
 }
@@ -17235,7 +17235,7 @@ a.fade-cover {
 }
 
 .container.about .press .press-story .press-info header h3,section.about.outside-app .press .press-story .press-info header h3,.view-profile .profile-self .wrapper-profile-field-account-privacy .about.u-field-account_privacy .press .press-story .press-info header h3,.view-profile .about.wrapper-profile-sections .press .press-story .press-info header h3,.view-profile .about.badge-set-display .press .press-story .press-info header h3 {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 700;
     margin-bottom: 5px
 }
@@ -17476,7 +17476,7 @@ section.outside-app li {
 
 .static-container.help section.questions .responses .response h3 {
     background: url("/static/images/bullet-closed.bc57a77c0245.png") no-repeat left 0.25em;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 700;
     margin-bottom: 10px;
     padding-left: 20px;
@@ -18123,7 +18123,7 @@ section.outside-app li {
 
 .account-settings-message .alert-message,.account-settings-section-message .alert-message {
     color: #292b2c;
-    font-family: cursive;
+    font-family: 'Poppins';
     position: relative;
     padding: 10px 10px 10px 35px;
     border: 1px solid transparent;
@@ -18228,8 +18228,8 @@ section.outside-app li {
     letter-spacing: 0;
     white-space: nowrap;
     background: #fff;
-    border-color: #d9534f;
-    color: #d9534f;
+    border-color: #99d98c;
+    color: #99d98c;
     text-shadow: none;
     font-size: 1rem;
     padding: 0 5px;
@@ -18239,8 +18239,8 @@ section.outside-app li {
 }
 
 .course-entitlement-selection-container .action-controls .enroll-btn-initial:hover {
-    background: #d9534f;
-    border-color: #d9534f;
+    background: #99d98c;
+    border-color: #99d98c;
     color: #fff
 }
 
@@ -18287,7 +18287,7 @@ section.outside-app li {
 }
 
 .course-entitlement-selection-container .popover .action-items .final-confirmation-btn:hover {
-    background: #d9534f;
+    background: #99d98c;
     color: #fff
 }
 
@@ -18387,7 +18387,7 @@ section.outside-app li {
 .login-register-content h1 {
     margin-top: 20px;
     letter-spacing: normal;
-    font-family: cursive;
+    font-family: 'Poppins';
     color: #065683;
     text-align: left
 }
@@ -18395,7 +18395,7 @@ section.outside-app li {
 .login-register-content h3 {
     margin: 0;
     letter-spacing: normal;
-    font-family: cursive;
+    font-family: 'Poppins';
     color: #111
 }
 
@@ -18460,7 +18460,7 @@ ul.fa-ul i {
     box-sizing: border-box;
     font-size: 35px;
     padding: 0 10px;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 600;
     text-align: left;
     margin-bottom: 0;
@@ -18471,7 +18471,7 @@ ul.fa-ul i {
     box-sizing: border-box;
     font-size: 24px;
     padding: 0 10px;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 400
 }
 
@@ -18568,7 +18568,7 @@ ul.fa-ul i {
 
 .login-register .form-label,.financial-assistance-wrapper .financial-assistance-form .form-label {
     font-size: 16px;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-weight: 600
 }
 
@@ -18578,7 +18578,7 @@ ul.fa-ul i {
 
 .login-register .action-label,.financial-assistance-wrapper .financial-assistance-form .action-label {
     font-size: 13px;
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .login-register .form-field,.financial-assistance-wrapper .financial-assistance-form .form-field {
@@ -18611,7 +18611,7 @@ ul.fa-ul i {
     height: auto;
     line-height: 1.5em;
     border-radius: 0;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal;
     font-weight: 500
 }
@@ -18674,11 +18674,11 @@ ul.fa-ul i {
     box-shadow: none;
     text-transform: initial;
     letter-spacing: normal;
-    color: #d9534f;
+    color: #99d98c;
     font-weight: 400;
     text-decoration: none;
     text-shadow: none;
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .login-register .form-field .field-link:hover,.financial-assistance-wrapper .financial-assistance-form .form-field .field-link:hover,.login-register .form-field .field-link:focus,.financial-assistance-wrapper .financial-assistance-form .form-field .field-link:focus {
@@ -18719,7 +18719,7 @@ ul.fa-ul i {
 }
 
 .login-register .form-field input.error,.financial-assistance-wrapper .financial-assistance-form .form-field input.error,.login-register .form-field select.error,.financial-assistance-wrapper .financial-assistance-form .form-field select.error,.login-register .form-field textarea.error,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.error {
-    border-color: #d9534f
+    border-color: #99d98c
 }
 
 .login-register .form-field input.success,.financial-assistance-wrapper .financial-assistance-form .form-field input.success,.login-register .form-field select.success,.financial-assistance-wrapper .financial-assistance-form .form-field select.success,.login-register .form-field textarea.success,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.success {
@@ -18727,7 +18727,7 @@ ul.fa-ul i {
 }
 
 .login-register .form-field textarea.error,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.error,.login-register .form-field select.error,.financial-assistance-wrapper .financial-assistance-form .form-field select.error {
-    outline-color: #d9534f
+    outline-color: #99d98c
 }
 
 .login-register .form-field textarea.success,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.success,.login-register .form-field select.success,.financial-assistance-wrapper .financial-assistance-form .form-field select.success {
@@ -18752,7 +18752,7 @@ ul.fa-ul i {
 }
 
 .login-register .form-field span.error,.financial-assistance-wrapper .financial-assistance-form .form-field span.error,.login-register .form-field label.error,.financial-assistance-wrapper .financial-assistance-form .form-field label.error {
-    color: #d9534f
+    color: #99d98c
 }
 
 .login-register .form-field span.success,.financial-assistance-wrapper .financial-assistance-form .form-field span.success,.login-register .form-field label.success,.financial-assistance-wrapper .financial-assistance-form .form-field label.success {
@@ -18948,13 +18948,13 @@ ul.fa-ul i {
 }
 
 .login-register .status .message-title,.financial-assistance-wrapper .financial-assistance-form .status .message-title {
-    font-family: cursive;
+    font-family: 'Poppins';
     margin: 0 0 5px 0;
     font-weight: 600
 }
 
 .login-register .status .message-copy,.financial-assistance-wrapper .financial-assistance-form .status .message-copy,.login-register .status .message-copy p,.financial-assistance-wrapper .financial-assistance-form .status .message-copy p {
-    font-family: cursive;
+    font-family: 'Poppins';
     margin: 0 !important;
     padding: 0
 }
@@ -19112,7 +19112,7 @@ ul.fa-ul i {
 
 .tos-modal .modal-content .header h1#modal-header-text {
     float: left;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-size: 1.125rem;
     font-weight: bold;
     margin-bottom: 0;
@@ -19130,7 +19130,7 @@ ul.fa-ul i {
     border-radius: 0;
     box-shadow: none;
     box-sizing: border-box;
-    color: #d9534f;
+    color: #99d98c;
     float: right;
     font-size: 1.125rem;
     height: 48px;
@@ -19181,7 +19181,7 @@ body.open-modal {
 }
 
 .is-expandable.is-ready .title-expand:hover,.is-expandable.is-ready .title-expand:focus {
-    color: #d9534f
+    color: #99d98c
 }
 
 .is-expandable.is-expanded .expandable-icon {
@@ -19190,7 +19190,7 @@ body.open-modal {
 }
 
 .verification-process {
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .verification-process * {
@@ -19202,7 +19202,7 @@ body.open-modal {
 }
 
 .verification-process p,.verification-process ol,.verification-process ul,.verification-process dl,.verification-process input,.verification-process select,.verification-process textarea {
-    font-family: cursive;
+    font-family: 'Poppins';
     color: #6f7074
 }
 
@@ -19226,7 +19226,7 @@ body.open-modal {
 }
 
 .verification-process label {
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal;
     color: #050505
 }
@@ -19359,7 +19359,7 @@ body.open-modal {
 
 .verification-process .wrapper-msg {
     margin-bottom: 30px;
-    border-bottom: 5px solid #d9534f;
+    border-bottom: 5px solid #99d98c;
     padding: 20px 30px;
     background: #fdf6f6
 }
@@ -19390,20 +19390,20 @@ body.open-modal {
     width: 6.17215%;
     margin-right: 2.35765%;
     text-align: center;
-    color: #d9534f
+    color: #99d98c
 }
 
 .verification-process .wrapper-msg-error {
-    border-bottom-color: #d9534f;
+    border-bottom-color: #99d98c;
     background: #fdf6f6
 }
 
 .verification-process .wrapper-msg-error .msg-icon {
-    color: #d9534f
+    color: #99d98c
 }
 
 .verification-process .wrapper-msg-error .msg-content .title {
-    color: #d9534f
+    color: #99d98c
 }
 
 .verification-process .wrapper-msg-activate {
@@ -19420,7 +19420,7 @@ body.open-modal {
 }
 
 .verification-process .msg-inline.msg-error .copy,.verification-process .msg-inline.msg-error .copy p {
-    color: #d9534f
+    color: #99d98c
 }
 
 .verification-process .page-header {
@@ -21303,9 +21303,9 @@ body.open-modal {
 
 .error_msg {
     margin: 20px;
-    border: 1px solid #d9534f;
+    border: 1px solid #99d98c;
     padding: 5px;
-    color: #d9534f
+    color: #99d98c
 }
 
 .cart-errors {
@@ -22354,9 +22354,9 @@ body.open-modal {
     padding: 0 20px;
     width: 200px;
     height: 50px;
-    border-color: #d9534f;
+    border-color: #99d98c;
     border-radius: 3px;
-    background: #d9534f;
+    background: #99d98c;
     color: #fff;
     line-height: 50px;
     text-align: center;
@@ -22366,11 +22366,11 @@ body.open-modal {
 
 .courses-container .courses .course .course-info {
     height: 200px;
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .courses-container .courses .course .course-info h2,.courses-container .courses .course .course-info .home>header .title>.heading-group p,.home>header .title>.heading-group .courses-container .courses .course .course-info p,.courses-container .courses .course .course-info section.outside-app h1,section.outside-app .courses-container .courses .course .course-info h1 {
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .courses-container .courses .course .course-info .course-organization,.courses-container .courses .course .course-info .course-code,.courses-container .courses .course .course-info .course-date {
@@ -22397,7 +22397,7 @@ body.open-modal {
     margin: 5px 0 35px 0;
     padding: 0 15px;
     height: 72px;
-    color: #d9534f
+    color: #99d98c
 }
 
 .courses-container .courses .course .course-info .course-date {
@@ -22583,7 +22583,7 @@ body.open-modal {
 }
 
 .enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-change-errors {
-    color: #d9534f
+    color: #99d98c
 }
 
 .enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-info {
@@ -22794,7 +22794,7 @@ body.open-modal {
 
 .contact-us-wrapper input[type='text'] {
     font-size: 14px;
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal;
     font-weight: 400
 }
@@ -22845,7 +22845,7 @@ body.open-modal {
     background: #fff;
     padding-right: 10px;
     padding-left: 10px;
-    font-family: cursive
+    font-family: 'Poppins'
 }
 
 .wrapper-authorize h1 {
@@ -22991,7 +22991,7 @@ body.open-modal {
 }
 
 .financial-assistance-wrapper .user-info .title.error {
-    color: #d9534f
+    color: #99d98c
 }
 
 .financial-assistance-wrapper .user-info .data {
@@ -23108,7 +23108,7 @@ body.open-modal {
 .wrapper-msg.wrapper-auto-cert .auto-cert-message {
     margin: 20px 0;
     padding: 20px;
-    border-left: 3px solid #d9534f;
+    border-left: 3px solid #99d98c;
     background: #f1f1f1
 }
 
@@ -23151,7 +23151,7 @@ body.open-modal {
 }
 
 #api-access-wrapper .request-status.request-denied {
-    border-top: 2px solid #d9534f
+    border-top: 2px solid #99d98c
 }
 
 #api-access-wrapper .request-status.request-approved {
@@ -23218,7 +23218,7 @@ body.open-modal {
 
 #api-access-wrapper .api-form-container .api-form .errorlist li {
     margin: 0;
-    color: #d9534f
+    color: #99d98c
 }
 
 #api-access-wrapper .api-form-container .api-form #api-access-submit,#api-access-wrapper .api-form-container .api-form .preview-query {
@@ -23391,7 +23391,7 @@ body.open-modal {
 }
 
 .certificate-card.mode-honor {
-    border-color: #d9534f
+    border-color: #99d98c
 }
 
 .certificate-card.mode-honor .card-logo {
@@ -23476,19 +23476,19 @@ body.open-modal {
     border-radius: 60px;
     border: 2px dashed transparent;
     background: rgba(229,241,247,0.8);
-    color: #d9534f;
+    color: #99d98c;
     text-shadow: none;
     transition: all 0.5s ease-in-out 0s;
     z-index: 6
 }
 
 .view-profile .profile-image-field .image-wrapper .u-field-upload-button i {
-    color: #d9534f
+    color: #99d98c
 }
 
 .view-profile .profile-image-field .image-wrapper .u-field-upload-button:focus,.view-profile .profile-image-field .image-wrapper .u-field-upload-button:hover {
     opacity: 1;
-    border-color: #d9534f
+    border-color: #99d98c
 }
 
 .view-profile .profile-image-field .image-wrapper .u-field-upload-button.in-progress {
@@ -23714,7 +23714,7 @@ body.open-modal {
 }
 
 .view-profile .wrapper-profile-section-container-one .wrapper-profile-section-one .profile-section-one-fields .u-field .u-field-value-readonly {
-    font-family: cursive;
+    font-family: 'Poppins';
     color: #000
 }
 
@@ -23733,7 +23733,7 @@ body.open-modal {
 
 .view-profile .wrapper-profile-section-container-one .wrapper-profile-section-one .profile-section-one-fields .u-field:not(.u-field-readonly):not(:last-child):hover.mode-placeholder {
     padding-bottom: 4px;
-    border-bottom: 2px dashed #d9534f
+    border-bottom: 2px dashed #99d98c
 }
 
 .view-profile .wrapper-profile-section-container-one .wrapper-profile-section-one .profile-section-one-fields>.u-field:not(:first-child) {
@@ -23765,7 +23765,7 @@ body.open-modal {
 .view-profile .wrapper-profile-section-container-two {
     float: left;
     padding-left: 20px;
-    font-family: cursive;
+    font-family: 'Poppins';
     flex-grow: 1
 }
 
@@ -23808,7 +23808,7 @@ body.open-modal {
     margin-bottom: 5px;
     color: #2f2f2f;
     width: 100%;
-    font: 600 1.4em/1.4em cursive
+    font: 600 1.4em/1.4em 'Poppins'
 }
 
 .view-profile .wrapper-profile-section-container-two .u-field-value {
@@ -23866,11 +23866,11 @@ body.open-modal {
 }
 
 .view-profile .wrapper-profile-section-container-two .u-field.mode-placeholder:hover {
-    border: 2px dashed #d9534f
+    border: 2px dashed #99d98c
 }
 
 .view-profile .wrapper-profile-section-container-two .u-field.mode-placeholder:hover .u-field-title,.view-profile .wrapper-profile-section-container-two .u-field.mode-placeholder:hover i {
-    color: #d9534f
+    color: #99d98c
 }
 
 .view-profile .wrapper-profile-section-container-two .wrapper-u-field {
@@ -24093,7 +24093,7 @@ body.open-modal {
 }
 
 .buorg .buorg-buttons #buorgul {
-    background-color: #d9534f
+    background-color: #99d98c
 }
 
 .buorg .buorg-buttons #buorgig {
@@ -24255,7 +24255,7 @@ body.view-in-mfe .first-purchase-offer-banner {
     -webkit-border-bottom-right-radius: 3px;
     -moz-border-bottomright-radius: 3px;
     border-bottom-right-radius: 3px;
-    background: #d9534f;
+    background: #99d98c;
     padding: 0 10px;
     height: 35px;
     color: #fff;
@@ -24346,7 +24346,7 @@ body.view-in-mfe .first-purchase-offer-banner {
 
 .search-results .search-load-next {
     display: block;
-    border: 2px solid #d9534f;
+    border: 2px solid #99d98c;
     padding: 1rem;
     border-radius: 3px;
     color: #313131
@@ -24362,7 +24362,7 @@ body.view-in-mfe .first-purchase-offer-banner {
 }
 
 .dashboard-search-bar label {
-    font-family: cursive;
+    font-family: 'Poppins';
     color: #313131;
     font-size: 13px;
     font-style: normal
@@ -24371,7 +24371,7 @@ body.view-in-mfe .first-purchase-offer-banner {
 .dashboard-search-bar .search-field {
     background: #fff;
     box-shadow: 0 1px 0 0 #fff,inset 0 0 3px 0 rgba(0,0,0,0.05);
-    font-family: cursive;
+    font-family: 'Poppins';
     font-style: normal
 }
 
@@ -24849,7 +24849,7 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
 }
 
 .wrapper-msg.error {
-    border-top: 3px solid #d9534f
+    border-top: 3px solid #99d98c
 }
 
 .wrapper-msg.warning {
@@ -24935,9 +24935,9 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
     background-color: rgba(255,255,255,0.3);
     background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border: 1px solid #d9534f;
+    border: 1px solid #99d98c;
     border-radius: 3px;
-    background-color: #d9534f;
+    background-color: #99d98c;
     color: #fff;
     border-color: #00466c
 }
@@ -25043,7 +25043,7 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
     border: 1px solid #ae423f;
     border-radius: 3px;
-    background-color: #d9534f;
+    background-color: #99d98c;
     color: #fff;
     border-color: #82322f
 }
@@ -25082,7 +25082,7 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
 }
 
 .alert.error .action-secondary:hover,.notification.error .action-secondary:hover,.prompt.error .action-secondary:hover {
-    color: #d9534f
+    color: #99d98c
 }
 
 .alert.announcement .nav-actions .action-primary,.notification.announcement .nav-actions .action-primary,.prompt.announcement .nav-actions .action-primary {
@@ -25093,9 +25093,9 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
     background-color: rgba(255,255,255,0.3);
     background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border: 1px solid #d9534f;
+    border: 1px solid #99d98c;
     border-radius: 3px;
-    background-color: #d9534f;
+    background-color: #99d98c;
     color: #fff;
     border-color: #00466c
 }
@@ -25510,9 +25510,9 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
     background-color: rgba(255,255,255,0.3);
     background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border: 1px solid #d9534f;
+    border: 1px solid #99d98c;
     border-radius: 3px;
-    background-color: #d9534f;
+    background-color: #99d98c;
     color: #fff;
     border-color: #00466c
 }
@@ -25955,9 +25955,9 @@ body.error .back-button {
     background-color: rgba(255,255,255,0.3);
     background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border: 1px solid #d9534f;
+    border: 1px solid #99d98c;
     border-radius: 3px;
-    background-color: #d9534f;
+    background-color: #99d98c;
     color: #fff;
     padding: 14px 40px 18px
 }
@@ -26001,7 +26001,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     position: relative;
     overflow: hidden;
     padding-bottom: 10px;
-    border-bottom: 1px solid #d9534f;
+    border-bottom: 1px solid #99d98c;
     box-shadow: 0 1px 5px 0 rgba(0,0,0,0.1);
     background: #fff;
     line-height: 1.5
@@ -26103,12 +26103,12 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
     .global-header .nav-links .main .nav-tab a.active,.global-header .nav-links .main .nav-tab a:hover {
         border-bottom-style: solid;
-        border-bottom-color: #d9534f
+        border-bottom-color: #99d98c
     }
 
     .global-header .nav-links .main .nav-tab a:hover {
         cursor: pointer;
-        border-bottom-color: #d9534f
+        border-bottom-color: #99d98c
     }
 
     .global-header .nav-links .secondary {
@@ -26134,7 +26134,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     }
 
     .global-header .nav-links .secondary .btn {
-        border: 1px solid #d9534f;
+        border: 1px solid #99d98c;
         padding: 5px 20px;
         border-radius: 5px;
         cursor: pointer;
@@ -26142,7 +26142,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     }
 
     .global-header .nav-links .secondary a.sign-in-btn,.global-header .nav-links .secondary .nav-item a.shopping-cart {
-        background-color: #d9534f;
+        background-color: #99d98c;
         color: #fff;
         border: 1px solid #fff;
         font-weight: 400;
@@ -26151,18 +26151,18 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
     .global-header .nav-links .secondary a.sign-in-btn:hover,.global-header .nav-links .secondary .nav-item a.shopping-cart:hover {
         background-color: #fff;
-        color: #d9534f;
-        border-color: #d9534f
+        color: #99d98c;
+        border-color: #99d98c
     }
 
     .global-header .nav-links .secondary a.register-btn {
         background: #fff;
-        color: #d9534f;
+        color: #99d98c;
         font-weight: 400
     }
 
     .global-header .nav-links .secondary a.register-btn:hover {
-        background-color: #d9534f;
+        background-color: #99d98c;
         color: #fff
     }
 
@@ -26302,7 +26302,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 }
 
 .mobile-menu {
-    border-top: 1px solid #d9534f;
+    border-top: 1px solid #99d98c;
     margin: 25px 0 -10px
 }
 
@@ -26622,7 +26622,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
 .header-global .nav-courseware li .current.btn,.header-global .nav-courseware div .current.btn,.login .form-actions button.current[type="submit"],.register .form-actions button.current[type="submit"],.passwordreset .form-actions button.current[type="submit"],#forgot-password-modal #password-reset .form-actions button.current[type="submit"],.view-survey .current.action-primary,.header-global .nav-courseware li .active.btn,.header-global .nav-courseware div .active.btn,.login .form-actions button.active[type="submit"],.register .form-actions button.active[type="submit"],.passwordreset .form-actions button.active[type="submit"],#forgot-password-modal #password-reset .form-actions button.active[type="submit"],.view-survey .active.action-primary {
     box-shadow: inset 0 2px 1px 1px #0075b4;
-    background: #d9534f;
+    background: #99d98c;
     color: #126f9a
 }
 
@@ -27155,7 +27155,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 }
 
 .certificate-card.mode-honor {
-    border-color: #d9534f
+    border-color: #99d98c
 }
 
 .certificate-card.mode-honor .card-logo {
