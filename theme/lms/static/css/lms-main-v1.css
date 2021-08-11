@@ -28,7 +28,7 @@
 }
 
 .bg-primary {
-    background-color: #99d98c !important
+    background-color: #738677 !important
 }
 
 a.bg-primary:hover,a.bg-primary:focus,button.bg-primary:hover,button.bg-primary:focus {
@@ -68,7 +68,7 @@ a.bg-warning:hover,a.bg-warning:focus,button.bg-warning:hover,button.bg-warning:
 }
 
 .bg-danger {
-    background-color: #99d98c !important
+    background-color: #738677 !important
 }
 
 a.bg-danger:hover,a.bg-danger:focus,button.bg-danger:hover,button.bg-danger:focus {
@@ -188,7 +188,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .border-primary {
-    border-color: #99d98c !important
+    border-color: #738677 !important
 }
 
 .border-secondary {
@@ -208,7 +208,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .border-danger {
-    border-color: #99d98c !important
+    border-color: #738677 !important
 }
 
 .border-light {
@@ -2735,7 +2735,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .text-primary {
-    color: #99d98c !important
+    color: #738677 !important
 }
 
 a.text-primary:hover,a.text-primary:focus {
@@ -2775,7 +2775,7 @@ a.text-warning:hover,a.text-warning:focus {
 }
 
 .text-danger {
-    color: #99d98c !important
+    color: #738677 !important
 }
 
 a.text-danger:hover,a.text-danger:focus {
@@ -3079,7 +3079,7 @@ body {
 }
 
 a:not(.btn) {
-    color: #99d98c
+    color: #738677
 }
 
 a:visited:not(.btn) {
@@ -3499,7 +3499,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-link {
-    color: #99d98c
+    color: #738677
 }
 
 .btn-link:hover,.btn-link:focus {
@@ -3557,7 +3557,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .breadcrumbs .nav-item a,.breadcrumbs .nav-item a:visited {
-    color: #99d98c
+    color: #738677
 }
 
 .breadcrumbs .nav-item a:hover {
@@ -3609,18 +3609,18 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 .btn-default {
     border-color: transparent;
     background: transparent;
-    color: #99d98c
+    color: #738677
 }
 
 .btn-default:hover,.btn-default.is-hovered,.btn-default:focus,.btn-default.is-focused {
-    border-color: #99d98c;
+    border-color: #738677;
     background-color: transparent;
-    color: #99d98c
+    color: #738677
 }
 
 .btn-default:active,.btn-default.is-pressed,.btn-default.is-active {
-    border-color: #99d98c;
-    color: #99d98c
+    border-color: #738677;
+    color: #738677
 }
 
 .btn-default:disabled,.btn-default.is-disabled {
@@ -3629,8 +3629,8 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-primary,.btn-brand {
-    border-color: #99d98c;
-    background: #99d98c;
+    border-color: #738677;
+    background: #738677;
     color: #fcfcfc
 }
 
@@ -3641,8 +3641,8 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-primary:active,.btn-brand:active,.btn-primary.is-pressed,.is-pressed.btn-brand,.btn-primary.is-active,.is-active.btn-brand {
-    border-color: #99d98c;
-    background: #99d98c
+    border-color: #738677;
+    background: #738677
 }
 
 .btn-primary:disabled,.btn-brand:disabled,.btn-primary.is-disabled,.is-disabled.btn-brand {
@@ -3766,7 +3766,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .bg-primary {
-    background-color: #99d98c !important
+    background-color: #738677 !important
 }
 
 a.bg-primary:hover,a.bg-primary:focus,button.bg-primary:hover,button.bg-primary:focus {
@@ -3806,7 +3806,7 @@ a.bg-warning:hover,a.bg-warning:focus,button.bg-warning:hover,button.bg-warning:
 }
 
 .bg-danger {
-    background-color: #99d98c !important
+    background-color: #738677 !important
 }
 
 a.bg-danger:hover,a.bg-danger:focus,button.bg-danger:hover,button.bg-danger:focus {
@@ -3926,7 +3926,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .border-primary {
-    border-color: #99d98c !important
+    border-color: #738677 !important
 }
 
 .border-secondary {
@@ -3946,7 +3946,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .border-danger {
-    border-color: #99d98c !important
+    border-color: #738677 !important
 }
 
 .border-light {
@@ -6473,7 +6473,7 @@ a.bg-darkest:hover,a.bg-darkest:focus,button.bg-darkest:hover,button.bg-darkest:
 }
 
 .text-primary {
-    color: #99d98c !important
+    color: #738677 !important
 }
 
 a.text-primary:hover,a.text-primary:focus {
@@ -6513,7 +6513,7 @@ a.text-warning:hover,a.text-warning:focus {
 }
 
 .text-danger {
-    color: #99d98c !important
+    color: #738677 !important
 }
 
 a.text-danger:hover,a.text-danger:focus {
@@ -6817,7 +6817,7 @@ body {
 }
 
 a:not(.btn) {
-    color: #99d98c
+    color: #738677
 }
 
 a:visited:not(.btn) {
@@ -7237,7 +7237,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-link {
-    color: #99d98c
+    color: #738677
 }
 
 .btn-link:hover,.btn-link:focus {
@@ -7295,7 +7295,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .breadcrumbs .nav-item a,.breadcrumbs .nav-item a:visited {
-    color: #99d98c
+    color: #738677
 }
 
 .breadcrumbs .nav-item a:hover {
@@ -7347,18 +7347,18 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 .btn-default {
     border-color: transparent;
     background: transparent;
-    color: #99d98c
+    color: #738677
 }
 
 .btn-default:hover,.btn-default.is-hovered,.btn-default:focus,.btn-default.is-focused {
-    border-color: #99d98c;
+    border-color: #738677;
     background-color: transparent;
-    color: #99d98c
+    color: #738677
 }
 
 .btn-default:active,.btn-default.is-pressed,.btn-default.is-active {
-    border-color: #99d98c;
-    color: #99d98c
+    border-color: #738677;
+    color: #738677
 }
 
 .btn-default:disabled,.btn-default.is-disabled {
@@ -7367,8 +7367,8 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-primary,.btn-brand {
-    border-color: #99d98c;
-    background: #99d98c;
+    border-color: #738677;
+    background: #738677;
     color: #fcfcfc
 }
 
@@ -7379,8 +7379,8 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-primary:active,.btn-brand:active,.btn-primary.is-pressed,.is-pressed.btn-brand,.btn-primary.is-active,.is-active.btn-brand {
-    border-color: #99d98c;
-    background: #99d98c
+    border-color: #738677;
+    background: #738677
 }
 
 .btn-primary:disabled,.btn-brand:disabled,.btn-primary.is-disabled,.is-disabled.btn-brand {
@@ -7587,11 +7587,11 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
     }
 }
 
-.animation-home-header-pop-up,.home>header .outer-wrapper {
+/* .animation-home-header-pop-up,.home>header .outer-wrapper {
     animation: home-header-pop-up 1.15s ease-in-out;
     animation-fill-mode: both;
     animation-delay: 1s
-}
+} */
 
 @-webkit-keyframes home-header-pop-up {
     0% {
@@ -8220,7 +8220,7 @@ p+p,ul+p,ol+p {
 }
 
 p a:not(.btn),p a:visited:not(.btn) {
-    color: #99d98c;
+    color: #738677;
     font: inherit;
     font-weight: inherit;
     text-decoration: none;
@@ -8233,7 +8233,7 @@ p a:not(.btn):hover,p a:not(.btn):focus,p a:visited:not(.btn):hover,p a:visited:
 }
 
 a:not(.btn),a:visited:not(.btn) {
-    color: #99d98c;
+    color: #738677;
     font: inherit;
     text-decoration: none;
     transition: all 0.1s linear 0s
@@ -8465,7 +8465,7 @@ mark {
 }
 
 .page-banner .user-messages a:hover {
-    color: #99d98c;
+    color: #738677;
     text-decoration: underline !important
 }
 
@@ -8626,7 +8626,7 @@ mark {
 }
 
 .current.btn-blue,.account-settings-sections .section .account-deletion-details .paragon__modal-open .current.paragon__btn:not(.cancel-btn),.account-settings-message .alert-message .alert-actions .current.btn-alert-primary,.login-register .current.action-primary,.financial-assistance-wrapper .financial-assistance-form .current.action-primary,.verification-process .current.action-primary-blue,.verification-process .carousel .wrapper-task .controls .control .current.action,.verification-process .carousel .wrapper-task .controls .control .entitlement-actions-wrapper .current.entitlement-action,.entitlement-actions-wrapper .verification-process .carousel .wrapper-task .controls .control .current.entitlement-action,.verification-process .carousel .wrapper-task .msg .list-actions .action-retakephotos a.current,.verification-process .carousel #wrapper-review .review-task-name .list-actions .action-editname a.current,.verification-process.step-select-track .register-choice-audit .action-select input.current,.verification-process.step-confirmation .course-info .options .current.action-course,.verification-process.step-confirmation .course-info .course-actions .current.action-dashboard,.reverify-blocked .current.action-primary,.wrapper-authorize .current.btn-authorization-allow,.wrapper-msg.wrapper-auto-cert .auto-cert-message .has-actions .msg-actions .current.btn,.view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy .current.btn-change-privacy,.active.btn-blue,.account-settings-sections .section .account-deletion-details .paragon__modal-open .active.paragon__btn:not(.cancel-btn),.account-settings-message .alert-message .alert-actions .active.btn-alert-primary,.login-register .active.action-primary,.financial-assistance-wrapper .financial-assistance-form .active.action-primary,.verification-process .active.action-primary-blue,.verification-process .carousel .wrapper-task .controls .control .active.action,.verification-process .carousel .wrapper-task .controls .control .entitlement-actions-wrapper .active.entitlement-action,.entitlement-actions-wrapper .verification-process .carousel .wrapper-task .controls .control .active.entitlement-action,.verification-process .carousel .wrapper-task .msg .list-actions .action-retakephotos a.active,.verification-process .carousel #wrapper-review .review-task-name .list-actions .action-editname a.active,.verification-process.step-select-track .register-choice-audit .action-select input.active,.verification-process.step-confirmation .course-info .options .active.action-course,.verification-process.step-confirmation .course-info .course-actions .active.action-dashboard,.reverify-blocked .active.action-primary,.wrapper-authorize .active.btn-authorization-allow,.wrapper-msg.wrapper-auto-cert .auto-cert-message .has-actions .msg-actions .active.btn,.view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy .active.btn-change-privacy {
-    background: #99d98c;
+    background: #738677;
     color: #0075b4
 }
 
@@ -8718,7 +8718,7 @@ mark {
 
 .login aside .btn-login .current.btn-login-action,.register aside .btn-login .current.btn-login-action,.passwordreset aside .btn-login .current.btn-login-action,#forgot-password-modal #password-reset aside .btn-login .current.btn-login-action,.login-register .current.login-provider,.financial-assistance-wrapper .financial-assistance-form .current.login-provider,.login .form-actions.form-third-party-auth button.current[type="submit"],.register .form-actions.form-third-party-auth button.current[type="submit"],.passwordreset .form-actions.form-third-party-auth button.current[type="submit"],#forgot-password-modal #password-reset .form-actions.form-third-party-auth button.current[type="submit"],.login-register .current.nav-btn,.financial-assistance-wrapper .financial-assistance-form .current.nav-btn,.login-register .current.button-secondary-login,.financial-assistance-wrapper .financial-assistance-form .current.button-secondary-login,.wrapper-authorize .current.btn-authorization-cancel,.view-profile .profile-self .wrapper-profile-field-account-privacy .wrapper-profile-records button.current,.login aside .btn-login .active.btn-login-action,.register aside .btn-login .active.btn-login-action,.passwordreset aside .btn-login .active.btn-login-action,#forgot-password-modal #password-reset aside .btn-login .active.btn-login-action,.login-register .active.login-provider,.financial-assistance-wrapper .financial-assistance-form .active.login-provider,.login .form-actions.form-third-party-auth button.active[type="submit"],.register .form-actions.form-third-party-auth button.active[type="submit"],.passwordreset .form-actions.form-third-party-auth button.active[type="submit"],#forgot-password-modal #password-reset .form-actions.form-third-party-auth button.active[type="submit"],.login-register .active.nav-btn,.financial-assistance-wrapper .financial-assistance-form .active.nav-btn,.login-register .active.button-secondary-login,.financial-assistance-wrapper .financial-assistance-form .active.button-secondary-login,.wrapper-authorize .active.btn-authorization-cancel,.view-profile .profile-self .wrapper-profile-field-account-privacy .wrapper-profile-records button.active {
     box-shadow: inset 0 2px 1px 1px #0075b4;
-    background: #99d98c;
+    background: #738677;
     color: #0075b4
 }
 
@@ -8838,7 +8838,7 @@ mark {
 .btn-secondary:focus,.btn-secondary:hover {
     background-image: none !important;
     background-color: transparent !important;
-    color: #99d98c
+    color: #738677
 }
 
 .btn-link {
@@ -9030,13 +9030,13 @@ mark {
 }
 
 .view-profile .page-content-nav .nav-item.is-active {
-    border-bottom: 4px solid #99d98c;
+    border-bottom: 4px solid #738677;
     color: #474747
 }
 
 .view-profile .page-content-nav .nav-item:hover,.view-profile .page-content-nav .nav-item:focus {
-    border-bottom: 4px solid #99d98c;
-    color: #99d98c
+    border-bottom: 4px solid #738677;
+    color: #738677
 }
 
 .page-content-main .tabs .tabpanel {
@@ -9379,11 +9379,11 @@ body.error h1 {
 }
 
 .u-field.mode-placeholder:hover {
-    border: 2px dashed #99d98c
+    border: 2px dashed #738677
 }
 
 .u-field.mode-placeholder:hover span {
-    color: #99d98c
+    color: #738677
 }
 
 .u-field.editable-toggle.mode-display:hover {
@@ -9393,7 +9393,7 @@ body.error h1 {
 
 .u-field.editable-toggle.mode-display:hover .message-can-edit {
     display: inline-block;
-    color: #99d98c
+    color: #738677
 }
 
 .u-field.mode-hidden {
@@ -9556,9 +9556,9 @@ input[type="submit"],input[type="button"],button,.button {
     display: inline-block;
     font-size: inherit;
     font-weight: bold;
-    background-color: #99d98c;
-    background-image: -webkit-linear-gradient(top, #99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
-    background-image: linear-gradient(to bottom,#99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-color: #738677;
+    background-image: -webkit-linear-gradient(top, #738677 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-image: linear-gradient(to bottom,#738677 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
     padding: 7px 18px;
     text-align: center;
     text-decoration: none;
@@ -9631,12 +9631,12 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 .wrapper-footer footer#footer-openedx a {
     transition: link-color 0.15s ease-in-out 0s,border 0.15s ease-in-out 0s;
     border-bottom: none;
-    color: #99d98c;
+    color: #738677;
     text-decoration: none !important
 }
 
 .wrapper-footer footer#footer-openedx a:hover,.wrapper-footer footer#footer-openedx a:focus,.wrapper-footer footer#footer-openedx a:active {
-    border-bottom: 1px dotted #99d98c
+    border-bottom: 1px dotted #738677
 }
 
 .wrapper-footer footer#footer-openedx .icon {
@@ -9689,7 +9689,7 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 }
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:hover,.wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:focus,.wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:active {
-    color: #99d98c
+    color: #738677
 }
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li:last-child {
@@ -10035,7 +10035,7 @@ footer#footer-edx-v3 .site-nav li,footer#footer-edx-v3 .legal-notices li {
     font-size: 14px;
     line-height: 20.72px;
     margin-right: 20px;
-    color: #99d98c
+    color: #738677
 }
 
 footer#footer-edx-v3 .site-nav li:last-of-type,footer#footer-edx-v3 .legal-notices li:last-of-type {
@@ -10111,7 +10111,7 @@ footer#footer-edx-v3 .social-media-links:after {
 footer#footer-edx-v3 .icon {
     font-family: 'FontAwesome';
     font-style: normal;
-    color: #99d98c
+    color: #738677
 }
 
 footer#footer-edx-v3 a.sm-link {
@@ -10793,7 +10793,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .header-global li.secondary>a {
-    color: #99d98c;
+    color: #738677;
     font-family: 'Poppins';
     display: inline-block;
     margin: 0 30px 0 0;
@@ -10965,7 +10965,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     border: 1px solid transparent;
     border-radius: 3px;
     box-sizing: border-box;
-    color: #99d98c;
+    color: #738677;
     cursor: pointer;
     display: block;
     margin: 5px 0;
@@ -11026,18 +11026,18 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 .header-global .nav-global li a,.header-global .nav-global div a {
     display: block;
     padding: 5px;
-    color: #99d98c;
+    color: #738677;
     font-weight: 600
 }
 
 .header-global .nav-global li a:hover,.header-global .nav-global li a:focus,.header-global .nav-global li a:active,.header-global .nav-global div a:hover,.header-global .nav-global div a:focus,.header-global .nav-global div a:active {
     text-decoration: none;
-    color: #99d98c
+    color: #738677
 }
 
 .header-global .nav-global li.active a,.header-global .nav-global div.active a {
     text-decoration: none;
-    color: #99d98c
+    color: #738677
 }
 
 .header-global .nav-courseware {
@@ -11055,7 +11055,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .view-howitworks .nav-global-01 a,.view-courses .nav-global-02 a,.view-schools .nav-global-03 a,.view-register .nav-global-04 a {
     text-decoration: none;
-    color: #99d98c !important
+    color: #738677 !important
 }
 
 .header-global-new {
@@ -11151,7 +11151,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .header-global-new li.secondary>a {
-    color: #99d98c;
+    color: #738677;
     font-family: 'Poppins';
     display: inline-block;
     margin: 0 30px 0 0;
@@ -11331,7 +11331,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     border: 1px solid transparent;
     border-radius: 3px;
     box-sizing: border-box;
-    color: #99d98c;
+    color: #738677;
     cursor: pointer;
     display: block;
     margin: 5px 0;
@@ -11366,7 +11366,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .header-global-new .nav-courseware div a.nav-courseware-button:hover,.header-global-new .nav-courseware div a.nav-courseware-button:focus,.header-global-new .nav-courseware div a.nav-courseware-button:active {
-    border-color: #99d98c
+    border-color: #738677
 }
 
 .view-login .header-global-new .nav-courseware div a.nav-courseware-button:hover,.header-global-new .nav-courseware div a.nav-courseware-button:focus,.header-global-new .nav-courseware div a.nav-courseware-button:active {
@@ -11484,7 +11484,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     }
 
     .header-global-new.rwd .nav-global a {
-        color: #99d98c;
+        color: #738677;
         padding: 3px 10px;
         font-weight: 600
     }
@@ -11524,7 +11524,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .view-howitworks .nav-global-01 a,.view-courses .nav-global-02 a,.view-schools .nav-global-03 a,.view-register .nav-global-04 a {
     text-decoration: none;
-    color: #99d98c !important
+    color: #738677 !important
 }
 
 .doc-link {
@@ -11577,7 +11577,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .highlighted-courses .courses .course .status,.find-courses .courses .course .status {
-    background: #99d98c;
+    background: #738677;
     color: white;
     font-size: 10px;
     left: 10px;
@@ -11666,12 +11666,12 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .highlighted-courses .courses .course header.course-preview:hover .info-link,.highlighted-courses .courses .course header.course-preview:focus .info-link,.find-courses .courses .course header.course-preview:hover .info-link,.find-courses .courses .course header.course-preview:focus .info-link {
-    color: #99d98c;
+    color: #738677;
     opacity: 1
 }
 
 .highlighted-courses .courses .course header.course-preview:hover h2,.highlighted-courses .courses .course header.course-preview:hover .home>header .title>.heading-group p,.home>header .title>.heading-group .highlighted-courses .courses .course header.course-preview:hover p,.highlighted-courses .courses .course header.course-preview:hover section.outside-app h1,section.outside-app .highlighted-courses .courses .course header.course-preview:hover h1,.highlighted-courses .courses .course header.course-preview:focus h2,.highlighted-courses .courses .course header.course-preview:focus .home>header .title>.heading-group p,.home>header .title>.heading-group .highlighted-courses .courses .course header.course-preview:focus p,.highlighted-courses .courses .course header.course-preview:focus section.outside-app h1,section.outside-app .highlighted-courses .courses .course header.course-preview:focus h1,.find-courses .courses .course header.course-preview:hover h2,.find-courses .courses .course header.course-preview:hover .home>header .title>.heading-group p,.home>header .title>.heading-group .find-courses .courses .course header.course-preview:hover p,.find-courses .courses .course header.course-preview:hover section.outside-app h1,section.outside-app .find-courses .courses .course header.course-preview:hover h1,.find-courses .courses .course header.course-preview:focus h2,.find-courses .courses .course header.course-preview:focus .home>header .title>.heading-group p,.home>header .title>.heading-group .find-courses .courses .course header.course-preview:focus p,.find-courses .courses .course header.course-preview:focus section.outside-app h1,section.outside-app .find-courses .courses .course header.course-preview:focus h1 {
-    color: #99d98c
+    color: #738677
 }
 
 .highlighted-courses .courses .course header.course-preview .heading-group,.find-courses .courses .course header.course-preview .heading-group {
@@ -12027,7 +12027,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .modal .inner-wrapper .modal-form-error,.leanModal_box .inner-wrapper .modal-form-error,.entitlement-unenrollment-modal .inner-wrapper .modal-form-error,.entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .modal-form-error,.entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .entitlement-unenrollment-modal-error-text {
-    background: #99d98c;
+    background: #738677;
     border: 1px solid #8f0e0e;
     color: #8f0e0e;
     display: none;
@@ -12369,7 +12369,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .help-tab a:link:hover,.help-tab a:link:focus,.help-tab a:visited:hover,.help-tab a:visited:focus {
     color: #fff;
-    background: #99d98c
+    background: #738677
 }
 
 .help-buttons {
@@ -12511,12 +12511,9 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .home>header .title>.heading-group {
-    left: 0;
     box-sizing: border-box;
     transition: all 0.2s linear 0s;
     text-align: center;
-    display: inline-block;
-    top: 0;
     opacity: 1;
     padding-bottom: 20px
 }
@@ -13449,7 +13446,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .dashboard .main-container .my-courses .course.honor .sts-enrollment-value {
-    background: #99d98c
+    background: #738677
 }
 
 .dashboard .main-container .my-courses .course.audit .wrapper-course-image .cover,.dashboard .main-container .my-courses .course.audit .wrapper-course-image a.fade-cover {
@@ -13513,15 +13510,15 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     font-size: 16px;
     line-height: 25.16px;
     padding: 10px;
-    border: 1px solid #99d98c;
-    color: #99d98c;
+    border: 1px solid #738677;
+    color: #738677;
     text-decoration: none;
     display: block
 }
 
 .dashboard .side-container .wrapper-find-courses .course-advertise .marketing-link a:hover,.dashboard .side-container .wrapper-find-courses .course-advertise .marketing-link a:focus,.dashboard .side-container .wrapper-find-courses .course-advertise .marketing-link a:active {
     color: #fff;
-    background-color: #99d98c
+    background-color: #738677
 }
 
 .dashboard .side-container .wrapper-find-courses .course-advertise .marketing-link a span {
@@ -13631,7 +13628,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .wrapper-messages-primary .message.is-expandable .wrapper-tip:hover .message-title .value,.wrapper-messages-primary .message.is-expandable .wrapper-tip:hover .message-copy,.wrapper-messages-primary .message.is-expandable .wrapper-tip:hover .ui-toggle-expansion {
-    color: #99d98c
+    color: #738677
 }
 
 .wrapper-messages-primary .message.is-expandable .wrapper-extended {
@@ -14063,8 +14060,8 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .empty-dashboard-message a.btn {
-    background-color: #99d98c;
-    border: 1px solid #99d98c;
+    background-color: #738677;
+    border: 1px solid #738677;
     box-shadow: 0 1px 8px 0 rgba(0,0,0,0.1);
     box-sizing: border-box;
     color: #fff;
@@ -14077,7 +14074,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .empty-dashboard-message a.btn:hover,.empty-dashboard-message a.btn:focus {
-    background: #99d98c -l2;
+    background: #738677 -l2;
     text-decoration: none
 }
 
@@ -14132,7 +14129,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .status-verification.is-denied {
-    border-top: 3px solid #99d98c !important
+    border-top: 3px solid #738677 !important
 }
 
 .status-verification.is-denied .status-data-message {
@@ -14533,7 +14530,7 @@ a.fade-cover {
     font-size: 25px;
     margin: 0 0 20px 0;
     font-weight: 300;
-    color: #99d98c
+    color: #738677
 }
 
 .view-register .login aside .btn h3,.login aside .btn .view-register h3,.view-register .register aside .btn h3,.register aside .btn .view-register h3,.view-register .passwordreset aside .btn h3,.passwordreset aside .btn .view-register h3,.view-register #forgot-password-modal #password-reset aside .btn h3,#forgot-password-modal #password-reset aside .btn .view-register h3,.view-register .login .status .message-title,.login .status .view-register .message-title,.view-register .register .status .message-title,.register .status .view-register .message-title,.view-register .passwordreset .status .message-title,.passwordreset .status .view-register .message-title,.view-register #forgot-password-modal #password-reset .status .message-title,#forgot-password-modal #password-reset .status .view-register .message-title,.view-login .login aside .btn h3,.login aside .btn .view-login h3,.view-login .register aside .btn h3,.register aside .btn .view-login h3,.view-login .passwordreset aside .btn h3,.passwordreset aside .btn .view-login h3,.view-login #forgot-password-modal #password-reset aside .btn h3,#forgot-password-modal #password-reset aside .btn .view-login h3,.view-login .login .status .message-title,.login .status .view-login .message-title,.view-login .register .status .message-title,.register .status .view-login .message-title,.view-login .passwordreset .status .message-title,.passwordreset .status .view-login .message-title,.view-login #forgot-password-modal #password-reset .status .message-title,#forgot-password-modal #password-reset .status .view-login .message-title,.view-passwordreset .login aside .btn h3,.login aside .btn .view-passwordreset h3,.view-passwordreset .register aside .btn h3,.register aside .btn .view-passwordreset h3,.view-passwordreset .passwordreset aside .btn h3,.passwordreset aside .btn .view-passwordreset h3,.view-passwordreset #forgot-password-modal #password-reset aside .btn h3,#forgot-password-modal #password-reset aside .btn .view-passwordreset h3,.view-passwordreset .login .status .message-title,.login .status .view-passwordreset .message-title,.view-passwordreset .register .status .message-title,.register .status .view-passwordreset .message-title,.view-passwordreset .passwordreset .status .message-title,.passwordreset .status .view-passwordreset .message-title,.view-passwordreset #forgot-password-modal #password-reset .status .message-title,#forgot-password-modal #password-reset .status .view-passwordreset .message-title {
@@ -14627,7 +14624,7 @@ a.fade-cover {
 }
 
 .login a:link,.login a:visited,.login a:hover,.login a:active,.login a:focus,.register a:link,.register a:visited,.register a:hover,.register a:active,.register a:focus,.passwordreset a:link,.passwordreset a:visited,.passwordreset a:hover,.passwordreset a:active,.passwordreset a:focus,#forgot-password-modal #password-reset a:link,#forgot-password-modal #password-reset a:visited,#forgot-password-modal #password-reset a:hover,#forgot-password-modal #password-reset a:active,#forgot-password-modal #password-reset a:focus {
-    color: #99d98c;
+    color: #738677;
     font-weight: 400;
     text-decoration: none !important;
     font-family: 'Poppins'
@@ -14635,7 +14632,7 @@ a.fade-cover {
 
 .login a:hover,.login a:active,.login a:focus,.register a:hover,.register a:active,.register a:focus,.passwordreset a:hover,.passwordreset a:active,.passwordreset a:focus,#forgot-password-modal #password-reset a:hover,#forgot-password-modal #password-reset a:active,#forgot-password-modal #password-reset a:focus {
     text-decoration: none !important;
-    border-bottom: 1px dotted #99d98c
+    border-bottom: 1px dotted #738677
 }
 
 .login strong,.register strong,.passwordreset strong,#forgot-password-modal #password-reset strong {
@@ -14838,7 +14835,7 @@ a.fade-cover {
 }
 
 .login form .field.error label,.register form .field.error label,.passwordreset form .field.error label,#forgot-password-modal #password-reset form .field.error label {
-    color: #99d98c
+    color: #738677
 }
 
 .login form .field.error input,.login form .field.error textarea,.register form .field.error input,.register form .field.error textarea,.passwordreset form .field.error input,.passwordreset form .field.error textarea,#forgot-password-modal #password-reset form .field.error input,#forgot-password-modal #password-reset form .field.error textarea {
@@ -16026,7 +16023,7 @@ a.fade-cover {
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 .button-org:hover,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 .button-org:focus {
-    color: #99d98c
+    color: #738677
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h2,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group .home>header .title>.heading-group p,.home>header .title>.heading-group .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group p,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group section.outside-app h1,section.outside-app .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 {
@@ -16043,7 +16040,7 @@ a.fade-cover {
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h2 a:hover,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group .home>header .title>.heading-group p a:hover,.home>header .title>.heading-group .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group p a:hover,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group section.outside-app h1 a:hover,section.outside-app .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 a:hover,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h2 a:focus,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group .home>header .title>.heading-group p a:focus,.home>header .title>.heading-group .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group p a:focus,.course-info header.course-profile .intro-inner-wrapper .intro>.heading-group section.outside-app h1 a:focus,section.outside-app .course-info header.course-profile .intro-inner-wrapper .intro>.heading-group h1 a:focus {
-    color: #99d98c
+    color: #738677
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta {
@@ -16068,9 +16065,9 @@ a.fade-cover {
     display: inline-block;
     font-size: inherit;
     font-weight: bold;
-    background-color: #99d98c;
-    background-image: -webkit-linear-gradient(top, #99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
-    background-image: linear-gradient(to bottom,#99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-color: #738677;
+    background-image: -webkit-linear-gradient(top, #738677 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-image: linear-gradient(to bottom,#738677 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
     padding: 7px 18px;
     text-align: center;
     text-decoration: none;
@@ -16122,9 +16119,9 @@ a.fade-cover {
     display: inline-block;
     font-size: inherit;
     font-weight: bold;
-    background-color: #99d98c;
-    background-image: -webkit-linear-gradient(top, #99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
-    background-image: linear-gradient(to bottom,#99d98c 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-color: #738677;
+    background-image: -webkit-linear-gradient(top, #738677 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
+    background-image: linear-gradient(to bottom,#738677 0%,#a1212e 50%,#83081f 50%,#8a0d21 100%);
     padding: 7px 18px;
     text-align: center;
     text-decoration: none;
@@ -16568,6 +16565,11 @@ a.fade-cover {
     font-size: 0.8em;
     color: #646464;
     font-family: 'Poppins'
+}
+
+ul.courses-listing {
+    display: flex;
+    justify-content: center;
 }
 
 .container.jobs,section.jobs.outside-app,.view-profile .profile-self .wrapper-profile-field-account-privacy .jobs.u-field-account_privacy,.view-profile .jobs.wrapper-profile-sections,.view-profile .jobs.badge-set-display {
@@ -18226,8 +18228,8 @@ section.outside-app li {
     letter-spacing: 0;
     white-space: nowrap;
     background: #fff;
-    border-color: #99d98c;
-    color: #99d98c;
+    border-color: #738677;
+    color: #738677;
     text-shadow: none;
     font-size: 1rem;
     padding: 0 5px;
@@ -18237,8 +18239,8 @@ section.outside-app li {
 }
 
 .course-entitlement-selection-container .action-controls .enroll-btn-initial:hover {
-    background: #99d98c;
-    border-color: #99d98c;
+    background: #738677;
+    border-color: #738677;
     color: #fff
 }
 
@@ -18285,7 +18287,7 @@ section.outside-app li {
 }
 
 .course-entitlement-selection-container .popover .action-items .final-confirmation-btn:hover {
-    background: #99d98c;
+    background: #738677;
     color: #fff
 }
 
@@ -18672,7 +18674,7 @@ ul.fa-ul i {
     box-shadow: none;
     text-transform: initial;
     letter-spacing: normal;
-    color: #99d98c;
+    color: #738677;
     font-weight: 400;
     text-decoration: none;
     text-shadow: none;
@@ -18717,7 +18719,7 @@ ul.fa-ul i {
 }
 
 .login-register .form-field input.error,.financial-assistance-wrapper .financial-assistance-form .form-field input.error,.login-register .form-field select.error,.financial-assistance-wrapper .financial-assistance-form .form-field select.error,.login-register .form-field textarea.error,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.error {
-    border-color: #99d98c
+    border-color: #738677
 }
 
 .login-register .form-field input.success,.financial-assistance-wrapper .financial-assistance-form .form-field input.success,.login-register .form-field select.success,.financial-assistance-wrapper .financial-assistance-form .form-field select.success,.login-register .form-field textarea.success,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.success {
@@ -18725,7 +18727,7 @@ ul.fa-ul i {
 }
 
 .login-register .form-field textarea.error,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.error,.login-register .form-field select.error,.financial-assistance-wrapper .financial-assistance-form .form-field select.error {
-    outline-color: #99d98c
+    outline-color: #738677
 }
 
 .login-register .form-field textarea.success,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.success,.login-register .form-field select.success,.financial-assistance-wrapper .financial-assistance-form .form-field select.success {
@@ -18750,7 +18752,7 @@ ul.fa-ul i {
 }
 
 .login-register .form-field span.error,.financial-assistance-wrapper .financial-assistance-form .form-field span.error,.login-register .form-field label.error,.financial-assistance-wrapper .financial-assistance-form .form-field label.error {
-    color: #99d98c
+    color: #738677
 }
 
 .login-register .form-field span.success,.financial-assistance-wrapper .financial-assistance-form .form-field span.success,.login-register .form-field label.success,.financial-assistance-wrapper .financial-assistance-form .form-field label.success {
@@ -19128,7 +19130,7 @@ ul.fa-ul i {
     border-radius: 0;
     box-shadow: none;
     box-sizing: border-box;
-    color: #99d98c;
+    color: #738677;
     float: right;
     font-size: 1.125rem;
     height: 48px;
@@ -19179,7 +19181,7 @@ body.open-modal {
 }
 
 .is-expandable.is-ready .title-expand:hover,.is-expandable.is-ready .title-expand:focus {
-    color: #99d98c
+    color: #738677
 }
 
 .is-expandable.is-expanded .expandable-icon {
@@ -19357,7 +19359,7 @@ body.open-modal {
 
 .verification-process .wrapper-msg {
     margin-bottom: 30px;
-    border-bottom: 5px solid #99d98c;
+    border-bottom: 5px solid #738677;
     padding: 20px 30px;
     background: #fdf6f6
 }
@@ -19388,20 +19390,20 @@ body.open-modal {
     width: 6.17215%;
     margin-right: 2.35765%;
     text-align: center;
-    color: #99d98c
+    color: #738677
 }
 
 .verification-process .wrapper-msg-error {
-    border-bottom-color: #99d98c;
+    border-bottom-color: #738677;
     background: #fdf6f6
 }
 
 .verification-process .wrapper-msg-error .msg-icon {
-    color: #99d98c
+    color: #738677
 }
 
 .verification-process .wrapper-msg-error .msg-content .title {
-    color: #99d98c
+    color: #738677
 }
 
 .verification-process .wrapper-msg-activate {
@@ -19418,7 +19420,7 @@ body.open-modal {
 }
 
 .verification-process .msg-inline.msg-error .copy,.verification-process .msg-inline.msg-error .copy p {
-    color: #99d98c
+    color: #738677
 }
 
 .verification-process .page-header {
@@ -21301,9 +21303,9 @@ body.open-modal {
 
 .error_msg {
     margin: 20px;
-    border: 1px solid #99d98c;
+    border: 1px solid #738677;
     padding: 5px;
-    color: #99d98c
+    color: #738677
 }
 
 .cart-errors {
@@ -22352,9 +22354,9 @@ body.open-modal {
     padding: 0 20px;
     width: 200px;
     height: 50px;
-    border-color: #99d98c;
+    border-color: #738677;
     border-radius: 3px;
-    background: #99d98c;
+    background: #738677;
     color: #fff;
     line-height: 50px;
     text-align: center;
@@ -22395,7 +22397,7 @@ body.open-modal {
     margin: 5px 0 35px 0;
     padding: 0 15px;
     height: 72px;
-    color: #99d98c
+    color: #738677
 }
 
 .courses-container .courses .course .course-info .course-date {
@@ -22581,7 +22583,7 @@ body.open-modal {
 }
 
 .enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-change-errors {
-    color: #99d98c
+    color: #738677
 }
 
 .enrollment-modal-wrapper.is-shown .enrollment-modal .enrollment-info {
@@ -22989,7 +22991,7 @@ body.open-modal {
 }
 
 .financial-assistance-wrapper .user-info .title.error {
-    color: #99d98c
+    color: #738677
 }
 
 .financial-assistance-wrapper .user-info .data {
@@ -23106,7 +23108,7 @@ body.open-modal {
 .wrapper-msg.wrapper-auto-cert .auto-cert-message {
     margin: 20px 0;
     padding: 20px;
-    border-left: 3px solid #99d98c;
+    border-left: 3px solid #738677;
     background: #f1f1f1
 }
 
@@ -23149,7 +23151,7 @@ body.open-modal {
 }
 
 #api-access-wrapper .request-status.request-denied {
-    border-top: 2px solid #99d98c
+    border-top: 2px solid #738677
 }
 
 #api-access-wrapper .request-status.request-approved {
@@ -23216,7 +23218,7 @@ body.open-modal {
 
 #api-access-wrapper .api-form-container .api-form .errorlist li {
     margin: 0;
-    color: #99d98c
+    color: #738677
 }
 
 #api-access-wrapper .api-form-container .api-form #api-access-submit,#api-access-wrapper .api-form-container .api-form .preview-query {
@@ -23389,7 +23391,7 @@ body.open-modal {
 }
 
 .certificate-card.mode-honor {
-    border-color: #99d98c
+    border-color: #738677
 }
 
 .certificate-card.mode-honor .card-logo {
@@ -23474,19 +23476,19 @@ body.open-modal {
     border-radius: 60px;
     border: 2px dashed transparent;
     background: rgba(229,241,247,0.8);
-    color: #99d98c;
+    color: #738677;
     text-shadow: none;
     transition: all 0.5s ease-in-out 0s;
     z-index: 6
 }
 
 .view-profile .profile-image-field .image-wrapper .u-field-upload-button i {
-    color: #99d98c
+    color: #738677
 }
 
 .view-profile .profile-image-field .image-wrapper .u-field-upload-button:focus,.view-profile .profile-image-field .image-wrapper .u-field-upload-button:hover {
     opacity: 1;
-    border-color: #99d98c
+    border-color: #738677
 }
 
 .view-profile .profile-image-field .image-wrapper .u-field-upload-button.in-progress {
@@ -23731,7 +23733,7 @@ body.open-modal {
 
 .view-profile .wrapper-profile-section-container-one .wrapper-profile-section-one .profile-section-one-fields .u-field:not(.u-field-readonly):not(:last-child):hover.mode-placeholder {
     padding-bottom: 4px;
-    border-bottom: 2px dashed #99d98c
+    border-bottom: 2px dashed #738677
 }
 
 .view-profile .wrapper-profile-section-container-one .wrapper-profile-section-one .profile-section-one-fields>.u-field:not(:first-child) {
@@ -23864,11 +23866,11 @@ body.open-modal {
 }
 
 .view-profile .wrapper-profile-section-container-two .u-field.mode-placeholder:hover {
-    border: 2px dashed #99d98c
+    border: 2px dashed #738677
 }
 
 .view-profile .wrapper-profile-section-container-two .u-field.mode-placeholder:hover .u-field-title,.view-profile .wrapper-profile-section-container-two .u-field.mode-placeholder:hover i {
-    color: #99d98c
+    color: #738677
 }
 
 .view-profile .wrapper-profile-section-container-two .wrapper-u-field {
@@ -24091,7 +24093,7 @@ body.open-modal {
 }
 
 .buorg .buorg-buttons #buorgul {
-    background-color: #99d98c
+    background-color: #738677
 }
 
 .buorg .buorg-buttons #buorgig {
@@ -24253,7 +24255,7 @@ body.view-in-mfe .first-purchase-offer-banner {
     -webkit-border-bottom-right-radius: 3px;
     -moz-border-bottomright-radius: 3px;
     border-bottom-right-radius: 3px;
-    background: #99d98c;
+    background: #738677;
     padding: 0 10px;
     height: 35px;
     color: #fff;
@@ -24344,7 +24346,7 @@ body.view-in-mfe .first-purchase-offer-banner {
 
 .search-results .search-load-next {
     display: block;
-    border: 2px solid #99d98c;
+    border: 2px solid #738677;
     padding: 1rem;
     border-radius: 3px;
     color: #313131
@@ -24847,7 +24849,7 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
 }
 
 .wrapper-msg.error {
-    border-top: 3px solid #99d98c
+    border-top: 3px solid #738677
 }
 
 .wrapper-msg.warning {
@@ -24933,9 +24935,9 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
     background-color: rgba(255,255,255,0.3);
     background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border: 1px solid #99d98c;
+    border: 1px solid #738677;
     border-radius: 3px;
-    background-color: #99d98c;
+    background-color: #738677;
     color: #fff;
     border-color: #00466c
 }
@@ -25041,7 +25043,7 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
     border: 1px solid #ae423f;
     border-radius: 3px;
-    background-color: #99d98c;
+    background-color: #738677;
     color: #fff;
     border-color: #82322f
 }
@@ -25080,7 +25082,7 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
 }
 
 .alert.error .action-secondary:hover,.notification.error .action-secondary:hover,.prompt.error .action-secondary:hover {
-    color: #99d98c
+    color: #738677
 }
 
 .alert.announcement .nav-actions .action-primary,.notification.announcement .nav-actions .action-primary,.prompt.announcement .nav-actions .action-primary {
@@ -25091,9 +25093,9 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
     background-color: rgba(255,255,255,0.3);
     background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border: 1px solid #99d98c;
+    border: 1px solid #738677;
     border-radius: 3px;
-    background-color: #99d98c;
+    background-color: #738677;
     color: #fff;
     border-color: #00466c
 }
@@ -25508,9 +25510,9 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
     background-color: rgba(255,255,255,0.3);
     background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border: 1px solid #99d98c;
+    border: 1px solid #738677;
     border-radius: 3px;
-    background-color: #99d98c;
+    background-color: #738677;
     color: #fff;
     border-color: #00466c
 }
@@ -25953,9 +25955,9 @@ body.error .back-button {
     background-color: rgba(255,255,255,0.3);
     background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image: linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border: 1px solid #99d98c;
+    border: 1px solid #738677;
     border-radius: 3px;
-    background-color: #99d98c;
+    background-color: #738677;
     color: #fff;
     padding: 14px 40px 18px
 }
@@ -25999,7 +26001,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     position: relative;
     overflow: hidden;
     padding-bottom: 10px;
-    border-bottom: 1px solid #99d98c;
+    border-bottom: 1px solid #738677;
     box-shadow: 0 1px 5px 0 rgba(0,0,0,0.1);
     background: #fff;
     line-height: 1.5
@@ -26101,12 +26103,12 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
     .global-header .nav-links .main .nav-tab a.active,.global-header .nav-links .main .nav-tab a:hover {
         border-bottom-style: solid;
-        border-bottom-color: #99d98c
+        border-bottom-color: #738677
     }
 
     .global-header .nav-links .main .nav-tab a:hover {
         cursor: pointer;
-        border-bottom-color: #99d98c
+        border-bottom-color: #738677
     }
 
     .global-header .nav-links .secondary {
@@ -26132,7 +26134,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     }
 
     .global-header .nav-links .secondary .btn {
-        border: 1px solid #99d98c;
+        border: 1px solid #738677;
         padding: 5px 20px;
         border-radius: 5px;
         cursor: pointer;
@@ -26140,7 +26142,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     }
 
     .global-header .nav-links .secondary a.sign-in-btn,.global-header .nav-links .secondary .nav-item a.shopping-cart {
-        background-color: #99d98c;
+        background-color: #738677;
         color: #fff;
         border: 1px solid #fff;
         font-weight: 400;
@@ -26149,18 +26151,18 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
     .global-header .nav-links .secondary a.sign-in-btn:hover,.global-header .nav-links .secondary .nav-item a.shopping-cart:hover {
         background-color: #fff;
-        color: #99d98c;
-        border-color: #99d98c
+        color: #738677;
+        border-color: #738677
     }
 
     .global-header .nav-links .secondary a.register-btn {
         background: #fff;
-        color: #99d98c;
+        color: #738677;
         font-weight: 400
     }
 
     .global-header .nav-links .secondary a.register-btn:hover {
-        background-color: #99d98c;
+        background-color: #738677;
         color: #fff
     }
 
@@ -26300,7 +26302,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 }
 
 .mobile-menu {
-    border-top: 1px solid #99d98c;
+    border-top: 1px solid #738677;
     margin: 25px 0 -10px
 }
 
@@ -26620,7 +26622,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
 .header-global .nav-courseware li .current.btn,.header-global .nav-courseware div .current.btn,.login .form-actions button.current[type="submit"],.register .form-actions button.current[type="submit"],.passwordreset .form-actions button.current[type="submit"],#forgot-password-modal #password-reset .form-actions button.current[type="submit"],.view-survey .current.action-primary,.header-global .nav-courseware li .active.btn,.header-global .nav-courseware div .active.btn,.login .form-actions button.active[type="submit"],.register .form-actions button.active[type="submit"],.passwordreset .form-actions button.active[type="submit"],#forgot-password-modal #password-reset .form-actions button.active[type="submit"],.view-survey .active.action-primary {
     box-shadow: inset 0 2px 1px 1px #0075b4;
-    background: #99d98c;
+    background: #738677;
     color: #126f9a
 }
 
@@ -27153,7 +27155,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 }
 
 .certificate-card.mode-honor {
-    border-color: #99d98c
+    border-color: #738677
 }
 
 .certificate-card.mode-honor .card-logo {
