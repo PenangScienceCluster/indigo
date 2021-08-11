@@ -12443,7 +12443,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     position: relative;
     margin: 0 auto;
     padding: 60px;
-    max-width: 1200px
+    background-color: #BBCDC5;
 }
 
 .home>header .outer-wrapper:after {
@@ -12465,13 +12465,11 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     width: 65.88078%;
     margin-left: 17.05961%;
     box-sizing: border-box;
-    transition: all 0.2s linear 0s;
     position: relative;
-    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.5);
     background: #fff;
     padding: 20px 30px;
     min-height: 120px;
-    vertical-align: top
+    /* vertical-align: top */
 }
 
 .home>header .title:last-child {
@@ -12516,7 +12514,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     left: 0;
     box-sizing: border-box;
     transition: all 0.2s linear 0s;
-    text-align: left;
+    text-align: center;
     display: inline-block;
     top: 0;
     opacity: 1;
@@ -12524,7 +12522,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .home>header .title>.heading-group h1 {
-    text-align: left;
+    text-align: center;
     margin-bottom: 0;
     text-shadow: 0 1px rgba(255,255,255,0.6);
     text-transform: none
