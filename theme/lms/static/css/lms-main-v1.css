@@ -26033,7 +26033,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
 @media (min-width: 992px) {
     .global-header {
-        position:inherit
+        position:fixed
     }
 }
 
