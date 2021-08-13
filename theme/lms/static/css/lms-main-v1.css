@@ -9593,9 +9593,8 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 }
 
 .wrapper-footer {
-    box-shadow: 0 -1px 5px 0 rgba(0,0,0,0.1);
-    border-top: 1px solid #c5c6c7;
-    padding: 25px 10px 30px 10px;
+    border-top: 2px solid #7CB518;
+    padding: 25px 20px 30px 20px;
     background: #fff;
     clear: both
 }
@@ -9629,14 +9628,21 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 }
 
 .wrapper-footer footer#footer-openedx a {
-    transition: link-color 0.15s ease-in-out 0s,border 0.15s ease-in-out 0s;
-    border-bottom: none;
+    display: inline-block;
     color: #7CB518;
     text-decoration: none !important
 }
 
-.wrapper-footer footer#footer-openedx a:hover,.wrapper-footer footer#footer-openedx a:focus,.wrapper-footer footer#footer-openedx a:active {
-    border-bottom: 1px dotted #7CB518
+.wrapper-footer footer#footer-openedx nav.nav-colophon a:after, .wrapper-footer footer#footer-openedx nav.nav-legal a:after {
+    display: block;
+    content: '';
+    border-bottom: 1px solid #7CB518;  
+    transform: scaleX(0);
+    transition: transform 250ms ease-in-out;
+}
+
+.wrapper-footer footer#footer-openedx nav.nav-colophon a:hover:after, .wrapper-footer footer#footer-openedx nav.nav-legal a:hover:after { 
+    transform: scaleX(1); 
 }
 
 .wrapper-footer footer#footer-openedx .icon {
@@ -26018,8 +26024,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     position: relative;
     overflow: hidden;
     padding-bottom: 10px;
-    border-bottom: 1px solid #7CB518;
-    box-shadow: 0 1px 5px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px 0 rgba(0,0,0,0.2);
     background: #fff;
     line-height: 1.5
 }
