@@ -9633,10 +9633,18 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
     text-decoration: none !important
 }
 
-.wrapper-footer footer#footer-openedx nav.nav-colophon a:after, .wrapper-footer footer#footer-openedx nav.nav-legal a:after {
+.wrapper-footer footer#footer-openedx nav.nav-colophon a:after {
     display: block;
     content: '';
-    border-bottom: 1px solid #7CB518;  
+    border-bottom: 2px solid #7CB518;
+    transform: scaleX(0);
+    transition: transform 250ms ease-in-out;
+}
+
+.wrapper-footer footer#footer-openedx nav.nav-legal a:after {
+    display: block;
+    content: '';
+    border-bottom: 1px solid #7CB518;
     transform: scaleX(0);
     transition: transform 250ms ease-in-out;
 }
