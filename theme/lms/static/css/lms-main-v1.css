@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,400i,600,700");
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,600,700");
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,600,700");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,500,600,700");
 /* @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700"); */
 
@@ -22423,7 +22423,8 @@ body.open-modal {
 
 .courses-container .courses .course:hover .cover-image::before,.courses-container .courses .course:focus .cover-image::before {
     transition: opacity 0.25s ease-out 0.25s;
-    opacity: 0.6
+    opacity: 0.6;
+    border-radius: 5px 5px 0 0;
 }
 
 .courses-container .courses .course:hover .cover-image .learn-more,.courses-container .courses .course:focus .cover-image .learn-more {
