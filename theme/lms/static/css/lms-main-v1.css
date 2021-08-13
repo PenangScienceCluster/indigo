@@ -8250,7 +8250,7 @@ a:not(.btn):disabled,a:not(.btn).is-disabled,a:not(.btn).disabled,a:visited:not(
 }
 
 .content-wrapper {
-    margin: 20px auto 0 auto;
+    margin: 80px auto 0 auto;
     max-width: 1920px;
     padding: 0 0 10px
 }
@@ -26021,12 +26021,14 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 .global-header {
     box-sizing: border-box;
     width: 100%;
-    position: relative;
+    position: fixed;
     overflow: hidden;
     padding-bottom: 10px;
     box-shadow: 0 2px 10px 0 rgba(0,0,0,0.2);
     background: #fff;
-    line-height: 1.5
+    line-height: 1.5;
+    top: 0;
+    z-index: 2;
 }
 
 @media (min-width: 992px) {
