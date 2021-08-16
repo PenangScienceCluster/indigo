@@ -15,12 +15,38 @@
     <footer>
       <div class="row">
         <div class="col-md-9">
-          <nav class="navbar site-nav navbar-expand-sm" aria-label="${_('About')}">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                  <a class="nav-link" href="#">About</a>
+          <nav class="nav-colophon" aria-label="${_('About')}">
+            <ol>
+                <li class="nav-colophon-01">
+                <a id="about" href="${marketing_link('ABOUT')}">
+                    ${_("About")}
+                </a>
                 </li>
-            </ul>
+                %if marketing_link('JOBS') and marketing_link('JOBS') != '#':
+                  <li class="nav-colophon-02">
+                    <a id="jobs" href="${marketing_link('JOBS')}">
+                      ${_("Jobs")}
+                    </a>
+                  </li>
+                %endif
+                %if marketing_link('NEWS') and marketing_link('NEWS') != '#':
+                  <li class="nav-colophon-03">
+                    <a id="news" href="${marketing_link('NEWS')}">
+                      ${_("News")}
+                    </a>
+                  </li>
+                %endif
+                <li class="nav-colophon-04">
+                <a id="faq" href="${marketing_link('FAQ')}">
+                    ${_("FAQ")}
+                </a>
+                </li>
+                <li class="nav-colophon-05">
+                <a id="contact" href="${marketing_link('CONTACT')}">
+                    ${_("Contact")}
+                </a>
+                </li>
+            </ol>
           </nav>
 
           ## Site operators: Please do not remove this paragraph! This attributes back to edX and makes your acknowledgement of edX's trademarks clear.
