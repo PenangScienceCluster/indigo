@@ -8745,7 +8745,7 @@ mark {
 
 .login aside .btn-login .btn-login-action:hover,.register aside .btn-login .btn-login-action:hover,.passwordreset aside .btn-login .btn-login-action:hover,#forgot-password-modal #password-reset aside .btn-login .btn-login-action:hover,.login-register .login-provider:hover,.financial-assistance-wrapper .financial-assistance-form .login-provider:hover,.login aside .btn-login .btn-login-action:active,.register aside .btn-login .btn-login-action:active,.passwordreset aside .btn-login .btn-login-action:active,#forgot-password-modal #password-reset aside .btn-login .btn-login-action:active,.login-register .login-provider:active,.financial-assistance-wrapper .financial-assistance-form .login-provider:active,.login aside .btn-login .btn-login-action:focus,.register aside .btn-login .btn-login-action:focus,.passwordreset aside .btn-login .btn-login-action:focus,#forgot-password-modal #password-reset aside .btn-login .btn-login-action:focus,.login-register .login-provider:focus,.financial-assistance-wrapper .financial-assistance-form .login-provider:focus {
     box-shadow: none;
-    border: 1px solid #126f9a
+    border: 2px solid #FBB02D
 }
 
 .login aside .btn-login .disabled.btn-login-action,.register aside .btn-login .disabled.btn-login-action,.passwordreset aside .btn-login .disabled.btn-login-action,#forgot-password-modal #password-reset aside .btn-login .disabled.btn-login-action,.login-register .disabled.login-provider,.financial-assistance-wrapper .financial-assistance-form .disabled.login-provider,.login aside .btn-login [disabled].btn-login-action,.register aside .btn-login [disabled].btn-login-action,.passwordreset aside .btn-login [disabled].btn-login-action,#forgot-password-modal #password-reset aside .btn-login [disabled].btn-login-action,.login-register [disabled].login-provider,.financial-assistance-wrapper .financial-assistance-form [disabled].login-provider {
@@ -8755,29 +8755,30 @@ mark {
 .verification-process .report-receipt-provider .provider-buttons-logos .complete-order button,.dashboard .main-container .my-courses .course .details .enter-course,.wrapper-messages-primary .message.message-upsell .action-view-consent,.wrapper-messages-primary .message.message-status .verification-cta .btn,.wrapper-messages-primary .message.message-status .credit-action .credit-btn,.btn-secondary,.dashboard .main-container .my-courses .course .details .enter-course.archived,.wrapper-messages-primary .message.message-upsell .action-view-consent.archived,.account-settings-sections .section .account-settings-section-body .u-field .field .u-field-link,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order .u-field-order-link .u-field-link,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order-lines .u-field-order-link .u-field-link,.account-settings-sections .section .account-deletion-details .btn-outline-primary,.account-settings-sections .section .account-deletion-details .delete-confirmation-wrapper .paragon__modal-footer .paragon__btn-outline-primary,.account-settings-message .alert-message .alert-actions .btn-alert-secondary,.courseware-bookmarks-button .bookmarks-list-button {
     box-sizing: border-box;
     letter-spacing: 0;
-    border: 1px solid #0d4e6c;
+    border: 2px solid #FBB02D;
     border-radius: 3px;
     padding: 8px 20px;
     background-color: transparent;
-    color: #0d4e6c;
+    color: #FBB02D;
     text-align: center
 }
 
 .verification-process .report-receipt-provider .provider-buttons-logos .complete-order button:hover,.dashboard .main-container .my-courses .course .details .enter-course:hover,.wrapper-messages-primary .message.message-upsell .action-view-consent:hover,.wrapper-messages-primary .message.message-status .verification-cta .btn:hover,.wrapper-messages-primary .message.message-status .credit-action .credit-btn:hover,.btn-secondary:hover,.account-settings-sections .section .account-settings-section-body .u-field .field .u-field-link:hover,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order .u-field-order-link .u-field-link:hover,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order-lines .u-field-order-link .u-field-link:hover,.account-settings-sections .section .account-deletion-details .btn-outline-primary:hover,.account-settings-sections .section .account-deletion-details .delete-confirmation-wrapper .paragon__modal-footer .paragon__btn-outline-primary:hover,.account-settings-message .alert-message .alert-actions .btn-alert-secondary:hover,.courseware-bookmarks-button .bookmarks-list-button:hover,.verification-process .report-receipt-provider .provider-buttons-logos .complete-order button:focus,.dashboard .main-container .my-courses .course .details .enter-course:focus,.wrapper-messages-primary .message.message-upsell .action-view-consent:focus,.wrapper-messages-primary .message.message-status .verification-cta .btn:focus,.wrapper-messages-primary .message.message-status .credit-action .credit-btn:focus,.btn-secondary:focus,.account-settings-sections .section .account-settings-section-body .u-field .field .u-field-link:focus,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order .u-field-order-link .u-field-link:focus,.account-settings-sections .section .account-settings-section-body .u-field .u-field-order-lines .u-field-order-link .u-field-link:focus,.account-settings-sections .section .account-deletion-details .btn-outline-primary:focus,.account-settings-sections .section .account-deletion-details .delete-confirmation-wrapper .paragon__modal-footer .paragon__btn-outline-primary:focus,.account-settings-message .alert-message .alert-actions .btn-alert-secondary:focus,.courseware-bookmarks-button .bookmarks-list-button:focus {
-    border: 1px solid transparent;
-    background-color: #126f9a;
+    border: 2px solid #FBB02D;
+    background-color: #FBB02D;
     color: #fff;
     text-decoration: none
 }
 
 .verification-process .report-receipt-provider .provider-buttons-logos .complete-order button {
-    background-color: #0d4e6c;
+    border: 2px solid #FBB02D;
+    background-color: #FBB02D;
     color: #fff
 }
 
 .dashboard .main-container .my-courses .course .details .enter-course,.wrapper-messages-primary .message.message-upsell .action-view-consent {
     background-color: #fff;
-    color: #126f9a
+    color: #FBB02D
 }
 
 .wrapper-messages-primary .message.message-status .verification-cta .btn {
@@ -13087,7 +13088,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .dashboard .main-container .my-courses .listing-courses .course-item .course-container {
-    border: 1px solid #e7e7e7;
+    border: 2px solid #e7e7e7;
     border-radius: 3px
 }
 
@@ -13289,14 +13290,14 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     min-width: 40px;
     color: #2f2f2f;
     border-radius: 3px;
-    padding: 12px;
+    padding: 10px;
     border: 1px solid #fff;
     text-align: center
 }
 
 .dashboard .main-container .my-courses .course .details .course-actions .action:hover,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .entitlement-action:hover,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .entitlement-action:hover,.dashboard .main-container .my-courses .course .details .course-actions .action:focus,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .entitlement-action:focus,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .entitlement-action:focus {
-    color: #2f2f2f;
-    border: 1px solid #e4e4e4
+    background-color: #767676;
+    color: #fff;
 }
 
 .dashboard .main-container .my-courses .course .details .course-actions .action.is-disabled,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .is-disabled.entitlement-action,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .is-disabled.entitlement-action {
@@ -13324,13 +13325,15 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .action-more,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .action-more,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .entitlement-action-more,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .entitlement-action-more {
-    font-size: 14px;
+    font-size: 20px;
     box-shadow: none;
     background: #fff;
     background-image: none;
+    border: 50%;
     color: #767676;
     line-height: 16px;
-    text-shadow: none
+    text-shadow: none;
+    transition: 0.2s ease;
 }
 
 .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .actions-dropdown,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .actions-dropdown,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .entitlement-actions-dropdown,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .entitlement-actions-dropdown {
@@ -18651,7 +18654,8 @@ ul.fa-ul i {
 .login-register .form-field label,.financial-assistance-wrapper .financial-assistance-form .form-field label {
     display: block;
     margin: 0;
-    color: #000
+    color: #000;
+    padding-bottom: 5px;
 }
 
 .login-register .form-field label.inline,.financial-assistance-wrapper .financial-assistance-form .form-field label.inline {
@@ -26162,6 +26166,15 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
         border-radius: 5px;
         cursor: pointer;
         text-decoration: none
+    }
+
+    a.help-link {
+        padding: 7px 25px 19px;
+        border-bottom: 4px solid transparent;
+    }
+
+    a.help-link:hover {
+        border-bottom: 4px solid #7CB518;
     }
 
     .global-header .nav-links .secondary a.sign-in-btn,.global-header .nav-links .secondary .nav-item a.shopping-cart {
