@@ -18701,11 +18701,12 @@ ul.fa-ul i {
 
 .login-register .form-field input,.financial-assistance-wrapper .financial-assistance-form .form-field input,.login-register .form-field select,.financial-assistance-wrapper .financial-assistance-form .form-field select,.login-register .form-field textarea,.financial-assistance-wrapper .financial-assistance-form .form-field textarea {
     display: block;
-    height: 32px;
+    height: 40px;
     width: 100%;
     margin: 0 0 5px;
     padding: 0 10px;
-    border-radius: 5px;
+    border: 2px solid #313131;
+    border-radius: 5px 5px 0 0;
 }
 
 .login-register .form-field input.long,.financial-assistance-wrapper .financial-assistance-form .form-field input.long,.login-register .form-field select.long,.financial-assistance-wrapper .financial-assistance-form .form-field select.long,.login-register .form-field textarea.long,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.long {
@@ -18808,10 +18809,6 @@ ul.fa-ul i {
 }
 
 .login-register .action-primary,.financial-assistance-wrapper .financial-assistance-form .action-primary:hover {
-    background-color: #5C8001;
-}
-
-.login-register .action-primary,.financial-assistance-wrapper .financial-assistance-form .action-primary:focus {
     background-color: #5C8001;
 }
 
