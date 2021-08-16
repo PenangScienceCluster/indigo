@@ -8221,6 +8221,7 @@ p+p,ul+p,ol+p {
 }
 
 p a:not(.btn),p a:visited:not(.btn) {
+    display: inline-block;
     color: #7CB518;
     font: inherit;
     font-weight: inherit;
@@ -8228,21 +8229,36 @@ p a:not(.btn),p a:visited:not(.btn) {
     transition: all 0.1s linear 0s
 }
 
-p a:not(.btn):hover,p a:not(.btn):focus,p a:visited:not(.btn):hover,p a:visited:not(.btn):focus {
-    color: #065683;
-    text-decoration: underline
+p a:not(.btn):after,p a:visited:not(.btn):after {
+    display: block;
+    content: '';
+    border-bottom: 1px solid #7CB518;
+    transform: scaleX(0);
+    transition: transform 250ms ease-in-out;
+}
+
+p a:not(.btn):hover:after,p a:visited:not(.btn):hover:after {
+    transform: scaleX(1);
 }
 
 a:not(.btn),a:visited:not(.btn) {
+    display: inline-block;
     color: #7CB518;
     font: inherit;
     text-decoration: none;
     transition: all 0.1s linear 0s
 }
 
-a:not(.btn):hover,a:not(.btn):focus,a:visited:not(.btn):hover,a:visited:not(.btn):focus {
-    color: #065683;
-    text-decoration: underline
+a:not(.btn):after,a:visited:not(.btn):after {
+    display: block;
+    content: '';
+    border-bottom: 1px solid #7CB518;
+    transform: scaleX(0);
+    transition: transform 250ms ease-in-out;
+}
+
+a:not(.btn):hover:after,a:visited:not(.btn):hover:after {
+    transform: scaleX(1);
 }
 
 a:not(.btn):disabled,a:not(.btn).is-disabled,a:not(.btn).disabled,a:visited:not(.btn):disabled,a:visited:not(.btn).is-disabled,a:visited:not(.btn).disabled {
