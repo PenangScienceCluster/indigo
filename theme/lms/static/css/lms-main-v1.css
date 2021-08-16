@@ -9555,11 +9555,7 @@ textarea {
 }
 
 input[type="submit"],input[type="button"],button,.button {
-    border-radius: 3px;
-    border: 1px solid #640000;
-    border-bottom: 1px solid #5b0000;
     border-radius: 5px;
-    box-shadow: inset 0 1px 0 0 #fe705b;
     color: #fff;
     display: inline-block;
     font-size: inherit;
@@ -18402,7 +18398,7 @@ section.outside-app li {
     margin-top: 20px;
     letter-spacing: normal;
     font-family: 'Poppins';
-    color: #065683;
+    color: #5C8001;
     text-align: left
 }
 
@@ -18444,12 +18440,12 @@ ul.fa-ul i {
 }
 
 .login-register input:-webkit-autofill,.financial-assistance-wrapper .financial-assistance-form input:-webkit-autofill {
-    -webkit-box-shadow: 0 0 0 50px white inset;
+    -webkit-box-shadow: 0 0 0 50px #edf2f4 inset;
     -webkit-text-fill-color: #333
 }
 
 .login-register input:-webkit-autofill:focus,.financial-assistance-wrapper .financial-assistance-form input:-webkit-autofill:focus {
-    -webkit-box-shadow: white, 0 0 0 50px white inset;
+    -webkit-box-shadow: white, 0 0 0 50px #edf2f4 inset;
     -webkit-text-fill-color: #333
 }
 
@@ -18635,16 +18631,14 @@ ul.fa-ul i {
 }
 
 .login-register .form-field label.focus-in,.financial-assistance-wrapper .financial-assistance-form .form-field label.focus-in,.login-register .form-field input.focus-in,.financial-assistance-wrapper .financial-assistance-form .form-field input.focus-in,.login-register .form-field select.focus-in,.financial-assistance-wrapper .financial-assistance-form .form-field select.focus-in,.login-register .form-field textarea.focus-in,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.focus-in,.login-register .form-field .plaintext-field.focus-in,.financial-assistance-wrapper .financial-assistance-form .form-field .plaintext-field.focus-in {
-    position: relative;
-    padding-top: 0;
-    padding-left: 0;
+    padding-top: 2.5px;
+    padding-bottom: 5px;
     opacity: 1
 }
 
 .login-register .form-field label.focus-out,.financial-assistance-wrapper .financial-assistance-form .form-field label.focus-out,.login-register .form-field input.focus-out,.financial-assistance-wrapper .financial-assistance-form .form-field input.focus-out,.login-register .form-field select.focus-out,.financial-assistance-wrapper .financial-assistance-form .form-field select.focus-out,.login-register .form-field textarea.focus-out,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.focus-out,.login-register .form-field .plaintext-field.focus-out,.financial-assistance-wrapper .financial-assistance-form .form-field .plaintext-field.focus-out {
-    position: absolute;
     padding-top: 2.5px;
-    padding-left: 9px;
+    padding-bottom: 5px;
     opacity: 0.75;
     z-index: 1
 }
@@ -18710,7 +18704,8 @@ ul.fa-ul i {
     height: 32px;
     width: 100%;
     margin: 0 0 5px;
-    padding: 0 10px
+    padding: 0 10px;
+    border-radius: 5px;
 }
 
 .login-register .form-field input.long,.financial-assistance-wrapper .financial-assistance-form .form-field input.long,.login-register .form-field select.long,.financial-assistance-wrapper .financial-assistance-form .form-field select.long,.login-register .form-field textarea.long,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.long {
@@ -18733,7 +18728,7 @@ ul.fa-ul i {
 }
 
 .login-register .form-field input.error,.financial-assistance-wrapper .financial-assistance-form .form-field input.error,.login-register .form-field select.error,.financial-assistance-wrapper .financial-assistance-form .form-field select.error,.login-register .form-field textarea.error,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.error {
-    border-color: #7CB518
+    border-color: #D90429
 }
 
 .login-register .form-field input.success,.financial-assistance-wrapper .financial-assistance-form .form-field input.success,.login-register .form-field select.success,.financial-assistance-wrapper .financial-assistance-form .form-field select.success,.login-register .form-field textarea.success,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.success {
@@ -18741,7 +18736,7 @@ ul.fa-ul i {
 }
 
 .login-register .form-field textarea.error,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.error,.login-register .form-field select.error,.financial-assistance-wrapper .financial-assistance-form .form-field select.error {
-    outline-color: #7CB518
+    outline-color: #D90429
 }
 
 .login-register .form-field textarea.success,.financial-assistance-wrapper .financial-assistance-form .form-field textarea.success,.login-register .form-field select.success,.financial-assistance-wrapper .financial-assistance-form .form-field select.success {
@@ -18754,11 +18749,10 @@ ul.fa-ul i {
 }
 
 .login-register .form-field select,.financial-assistance-wrapper .financial-assistance-form .form-field select {
-    background: transparent;
-    border: 1px solid #767676;
+    background: #edf2f4;
+    border: 2px solid #313131;
+    border-radius: 5px;
     cursor: pointer;
-    -webkit-appearance: none;
-    -webkit-border-radius: 0
 }
 
 .login-register .form-field select:active,.financial-assistance-wrapper .financial-assistance-form .form-field select:active,.login-register .form-field select:focus,.financial-assistance-wrapper .financial-assistance-form .form-field select:focus {
@@ -18766,7 +18760,7 @@ ul.fa-ul i {
 }
 
 .login-register .form-field span.error,.financial-assistance-wrapper .financial-assistance-form .form-field span.error,.login-register .form-field label.error,.financial-assistance-wrapper .financial-assistance-form .form-field label.error {
-    color: #7CB518
+    color: #D90429
 }
 
 .login-register .form-field span.success,.financial-assistance-wrapper .financial-assistance-form .form-field span.success,.login-register .form-field label.success,.financial-assistance-wrapper .financial-assistance-form .form-field label.success {
@@ -18783,7 +18777,9 @@ ul.fa-ul i {
 
 .login-register .input-block,.financial-assistance-wrapper .financial-assistance-form .input-block {
     width: 100%;
-    border-color: #767676
+    background-color: #edf2f4;
+    border: none;
+    box-shadow: none;
 }
 
 .login-register .input-inline,.financial-assistance-wrapper .financial-assistance-form .input-inline {
@@ -18803,7 +18799,20 @@ ul.fa-ul i {
     text-transform: none;
     font-weight: 600;
     letter-spacing: normal;
-    margin-top: 20px
+    margin-top: 20px;
+    background-color: #7CB518;
+    border: none;
+    border-radius: 5px;
+    box-shadow: none;
+    transition: 0.2s ease;
+}
+
+.login-register .action-primary,.financial-assistance-wrapper .financial-assistance-form .action-primary:hover {
+    background-color: #5C8001;
+}
+
+.login-register .action-primary,.financial-assistance-wrapper .financial-assistance-form .action-primary:focus {
+    background-color: #5C8001;
 }
 
 .login-register .login-provider,.financial-assistance-wrapper .financial-assistance-form .login-provider {
@@ -26059,7 +26068,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
 .global-header .header-logo .course-header {
     float: left;
-    margin: 16px 0 0 20px;
+    margin: 16px 0 0 40px;
     font-size: 0.875rem;
     color: #313131;
     line-height: 1em;
