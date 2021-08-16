@@ -18801,7 +18801,7 @@ ul.fa-ul i {
     font-weight: 600;
     letter-spacing: normal;
     margin-top: 20px;
-    background-color: #7CB518;
+    background-color: #7CB518 !important;
     border: none;
     border-radius: 5px;
     box-shadow: none;
@@ -18809,7 +18809,7 @@ ul.fa-ul i {
 }
 
 .login-register .action-primary,.financial-assistance-wrapper .financial-assistance-form .action-primary:hover {
-    background-color: #5C8001;
+    background-color: #5C8001 !important;
 }
 
 .login-register .login-provider,.financial-assistance-wrapper .financial-assistance-form .login-provider {
