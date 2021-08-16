@@ -1,14 +1,17 @@
 ## mako
 <%page expression_filter="h"/>
-<%!
-  from django.urls import reverse
-  from django.utils.translation import ugettext as _
-  from lms.djangoapps.branding.api import get_footer
-  from openedx.core.djangoapps.lang_pref.api import footer_language_selector_is_enabled
-%>
-<% footer = get_footer(is_secure=is_secure) %>
-<% icp_license_info = getattr(settings, 'ICP_LICENSE_INFO', {})%>
 <%namespace name='static' file='static_content.html'/>
+<%!
+from django.urls import reverse
+from django.utils.translation import ugettext as _
+from django.conf import settings
+
+from datetime import datetime
+import pytz
+
+from openedx.core.djangoapps.lang_pref.api import footer_language_selector_is_enabled
+from openedx.core.djangolib.markup import HTML, Text
+%>
 
 % if uses_bootstrap:
   <div class="container-fluid wrapper-footer">
@@ -75,11 +78,37 @@
       <div class="colophon">
         <nav class="nav-colophon" aria-label="${_('About')}">
           <ol>
-              <li>
-                <a href="#">About</a>
+              <li class="nav-colophon-01">
+              <a id="about" href="${marketing_link('ABOUT')}">
+                  ${_("About")}
+              </a>
+              </li>
+              %if marketing_link('JOBS') and marketing_link('JOBS') != '#':
+                <li class="nav-colophon-02">
+                  <a id="jobs" href="${marketing_link('JOBS')}">
+                    ${_("Jobs")}
+                  </a>
+                </li>
+              %endif
+              %if marketing_link('NEWS') and marketing_link('NEWS') != '#':
+                <li class="nav-colophon-03">
+                  <a id="news" href="${marketing_link('NEWS')}">
+                    ${_("News")}
+                  </a>
+                </li>
+              %endif
+              <li class="nav-colophon-04">
+              <a id="faq" href="${marketing_link('FAQ')}">
+                  ${_("FAQ")}
+              </a>
+              </li>
+              <li class="nav-colophon-05">
+              <a id="contact" href="${marketing_link('CONTACT')}">
+                  ${_("Contact")}
+              </a>
               </li>
           </ol>
-        </nav>
+          </nav>
 
         <div class="wrapper-logo">
           <p>
