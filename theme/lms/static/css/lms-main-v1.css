@@ -13288,10 +13288,11 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     margin-right: 10px;
     float: right;
     min-width: 40px;
-    color: #2f2f2f;
-    border-radius: 3px;
+    color: #767676;
+    background-color: #fff;
+    border: none;
+    border-radius: 50%;
     padding: 10px;
-    border: 1px solid #fff;
     text-align: center
 }
 
@@ -13327,10 +13328,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .action-more,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .action-more,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .entitlement-action-more,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .entitlement-action-more {
     font-size: 20px;
     box-shadow: none;
-    background: #fff;
     background-image: none;
-    border: 50%;
-    color: #767676;
     line-height: 16px;
     text-shadow: none;
     transition: 0.2s ease;
@@ -26025,7 +26023,6 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     box-sizing: border-box;
     width: 100%;
     position: fixed;
-    overflow: hidden;
     padding-bottom: 10px;
     box-shadow: 0 2px 10px 0 rgba(0,0,0,0.2);
     background: #fff;
