@@ -18705,7 +18705,7 @@ ul.fa-ul i {
     width: 100%;
     margin: 0 0 5px;
     padding: 0 10px;
-    border: 2px solid #313131;
+    border-bottom: 2px solid #313131;
     border-radius: 5px 5px 0 0;
 }
 
