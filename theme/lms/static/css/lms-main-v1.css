@@ -6821,11 +6821,11 @@ a:not(.btn) {
 }
 
 a:visited:not(.btn) {
-    color: #003655
+    color: #7CB518
 }
 
 a:hover:not(.btn),a:focus:not(.btn) {
-    color: #0079bc
+    color: #7CB518
 }
 
 abbr[title] {
@@ -7241,7 +7241,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .btn-link:hover,.btn-link:focus {
-    color: #ff2f29
+    color: #5C8001
 }
 
 .btn-link:hover,.btn-link:focus {
@@ -7299,7 +7299,7 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .breadcrumbs .nav-item a:hover {
-    color: #065683
+    color: #5C8001
 }
 
 .breadcrumbs .fa-angle-right {
@@ -7456,12 +7456,12 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .edx-cookie-banner-wrapper .edx-cookie-banner .policy-link {
-    color: #0075b4;
+    color: #7CB518;
     text-decoration: underline
 }
 
 .edx-cookie-banner-wrapper .edx-cookie-banner .policy-link:focus,.edx-cookie-banner-wrapper .edx-cookie-banner .policy-link:hover {
-    color: #075683;
+    color: #7CB518;
     border: none
 }
 
@@ -7471,11 +7471,11 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 }
 
 .edx-cookie-banner-wrapper .edx-cookie-banner .btn.close {
-    color: #0075b4
+    color: #7CB518
 }
 
 .edx-cookie-banner-wrapper .edx-cookie-banner .btn.close:focus,.edx-cookie-banner-wrapper .edx-cookie-banner .btn.close:hover {
-    color: #075683;
+    color: #7CB518;
     cursor: pointer
 }
 
