@@ -1,17 +1,14 @@
 ## mako
 <%page expression_filter="h"/>
-<%namespace name='static' file='static_content.html'/>
 <%!
-from django.urls import reverse
-from django.utils.translation import ugettext as _
-from django.conf import settings
-
-from datetime import datetime
-import pytz
-
-from openedx.core.djangoapps.lang_pref.api import footer_language_selector_is_enabled
-from openedx.core.djangolib.markup import HTML, Text
+  from django.urls import reverse
+  from django.utils.translation import ugettext as _
+  from lms.djangoapps.branding.api import get_footer
+  from openedx.core.djangoapps.lang_pref.api import footer_language_selector_is_enabled
 %>
+<% footer = get_footer(is_secure=is_secure) %>
+<% icp_license_info = getattr(settings, 'ICP_LICENSE_INFO', {})%>
+<%namespace name='static' file='static_content.html'/>
 
 % if uses_bootstrap:
   <div class="container-fluid wrapper-footer">
@@ -108,7 +105,7 @@ from openedx.core.djangolib.markup import HTML, Text
               </a>
               </li>
           </ol>
-          </nav>
+        </nav>
 
         <div class="wrapper-logo">
           <p>
