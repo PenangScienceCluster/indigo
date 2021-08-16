@@ -8170,7 +8170,7 @@ body {
 
 h1,h2,.home>header .title>.heading-group p,section.outside-app h1,h3,h4,h5,h6 {
     color: #313131;
-    font: normal 1.2em/1.2em 'Montserrat',"Century Gothic",sans-serif;
+    font: normal 1.2em/1.2em 'Montserrat','Century Gothic',sans-serif;
     margin: 0
 }
 
@@ -8183,7 +8183,8 @@ h1 {
 
 h2,.home>header .title>.heading-group p,section.outside-app h1 {
     color: #474747;
-    font: normal 1.3em/1.3em 'Montserrat',"Century Gothic",sans-serif;
+    font: normal 1.3em/1.3em 'Montserrat','Century Gothic',sans-serif;
+    font-weight: 500;
     margin-bottom: 15px;
     -webkit-font-smoothing: antialiased
 }
@@ -8320,7 +8321,7 @@ span.edx {
 
 .static-container ol li,.static-container ul li {
     color: #313131;
-    font: normal 1em/1.4em 'Montserrat',"Century Gothic",sans-serif;
+    font: normal 1em/1.4em 'Montserrat','Century Gothic',sans-serif;
     margin: 0
 }
 
@@ -9501,7 +9502,7 @@ form {
 
 label {
     color: #313131;
-    font: italic 300 1rem/1.6rem 'Montserrat',"Century Gothic",sans-serif;
+    font: italic 300 1rem/1.6rem 'Montserrat','Century Gothic',sans-serif;
     margin-bottom: 5px;
     text-shadow: 0 1px rgba(255,255,255,0.4);
     -webkit-font-smoothing: antialiased
@@ -9526,7 +9527,7 @@ textarea,input[type="text"],input[type="url"],input[type="email"],input[type="pa
     border-radius: 3px;
     box-shadow: 0 1px 0 0 rgba(255,255,255,0.6),inset 0 0 3px 0 rgba(0,0,0,0.1);
     box-sizing: border-box;
-    font: italic 300 1rem/1.6rem 'Montserrat',"Century Gothic",sans-serif;
+    font: italic 300 1rem/1.6rem 'Montserrat','Century Gothic',sans-serif;
     height: 35px;
     padding: 5px 12px;
     vertical-align: top;
@@ -11768,7 +11769,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .highlighted-courses .courses .course .info .desc section,.find-courses .courses .course .info .desc section {
     color: #313131;
-    font: normal 1em/1.6em 'Montserrat',"Century Gothic",sans-serif;
+    font: normal 1em/1.6em 'Montserrat','Century Gothic',sans-serif;
     margin: 0;
     height: 100%;
     overflow: hidden;
@@ -13036,7 +13037,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 
 .home .more-info .news .press-links a {
     line-height: 1.6em;
-    font-family: 'Montserrat',"Century Gothic",sans-serif;
+    font-family: 'Montserrat','Century Gothic',sans-serif;
     font-style: italic;
     margin-left: 10px
 }
@@ -15970,7 +15971,7 @@ a.fade-cover {
     background: #f5f5f5;
     background-image: none;
     background-size: cover;
-    border-bottom: 1px solid #646464;
+    border-bottom: 2px solid #7CB518;
     box-shadow: inset 0 1px 5px 0 rgba(0,0,0,0.1);
     height: 100%;
     overflow: hidden;
@@ -16334,6 +16335,7 @@ a.fade-cover {
     color: #313131;
     font-family: 'Poppins';
     font-weight: 500;
+    font-size: 1.1em;
     margin-bottom: 15px;
     text-transform: none
 }
@@ -16480,7 +16482,7 @@ a.fade-cover {
     box-sizing: border-box;
     color: #fff;
     float: right;
-    font-family: 'Montserrat',"Century Gothic",sans-serif;
+    font-family: 'Montserrat','Century Gothic',sans-serif;
     font-size: 0.9em;
     font-style: italic;
     left: 50%;
@@ -16519,7 +16521,7 @@ a.fade-cover {
 }
 
 .course-info .course-sidebar header h1 {
-    font: 1em 'Montserrat',"Century Gothic",sans-serif;
+    font: 1em 'Montserrat','Century Gothic',sans-serif;
     letter-spacing: 0;
     color: #999;
     margin-bottom: 0
@@ -16739,7 +16741,7 @@ ul.courses-listing {
 }
 
 .container.jobs .jobs-wrapper .jobs-listing .job li,section.jobs.outside-app .jobs-wrapper .jobs-listing .job li,.view-profile .profile-self .wrapper-profile-field-account-privacy .jobs.u-field-account_privacy .jobs-wrapper .jobs-listing .job li,.view-profile .jobs.wrapper-profile-sections .jobs-wrapper .jobs-listing .job li,.view-profile .jobs.badge-set-display .jobs-wrapper .jobs-listing .job li {
-    font-family: 'Montserrat',"Century Gothic",sans-serif;
+    font-family: 'Montserrat','Century Gothic',sans-serif;
     font-size: 1em;
     line-height: 1.6em;
     color: #3c3c3c;
@@ -16838,7 +16840,7 @@ ul.courses-listing {
 
 .mediakit .introduction header h2 .org-name,.mediakit .introduction .home>header .title>.heading-group p .org-name,.mediakit .introduction header section.outside-app h1 .org-name,section.outside-app .mediakit .introduction header h1 .org-name {
     color: #b2b5b9;
-    font-family: 'Montserrat',"Century Gothic",sans-serif;
+    font-family: 'Montserrat','Century Gothic',sans-serif;
     text-transform: none
 }
 
@@ -17004,7 +17006,7 @@ ul.courses-listing {
 .container.about>nav a,section.about.outside-app>nav a,.view-profile .profile-self .wrapper-profile-field-account-privacy .about.u-field-account_privacy>nav a,.view-profile .about.wrapper-profile-sections>nav a,.view-profile .about.badge-set-display>nav a {
     border-bottom: 3px solid transparent;
     color: #646464;
-    font-family: 'Montserrat',"Century Gothic",sans-serif;
+    font-family: 'Montserrat','Century Gothic',sans-serif;
     font-style: italic;
     display: inline-block;
     letter-spacing: 1px;
@@ -17315,7 +17317,7 @@ ul.courses-listing {
 
 .pressrelease .container li,.pressrelease section.outside-app li,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy li,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy li,.pressrelease .view-profile .wrapper-profile-sections li,.view-profile .pressrelease .wrapper-profile-sections li,.pressrelease .view-profile .badge-set-display li,.view-profile .pressrelease .badge-set-display li {
     color: #313131;
-    font: normal 1em/1.6em 'Montserrat',"Century Gothic",sans-serif;
+    font: normal 1em/1.6em 'Montserrat','Century Gothic',sans-serif;
     margin: 0
 }
 
@@ -17353,7 +17355,7 @@ ul.courses-listing {
 }
 
 .pressrelease .container figure figcaption,.pressrelease section.outside-app figure figcaption,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy figure figcaption,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy figure figcaption,.pressrelease .view-profile .wrapper-profile-sections figure figcaption,.view-profile .pressrelease .wrapper-profile-sections figure figcaption,.pressrelease .view-profile .badge-set-display figure figcaption,.view-profile .pressrelease .badge-set-display figure figcaption {
-    font: normal 0.8em/1em 'Montserrat',"Century Gothic",sans-serif;
+    font: normal 0.8em/1em 'Montserrat','Century Gothic',sans-serif;
     padding: 5px
 }
 
