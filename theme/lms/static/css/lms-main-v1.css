@@ -26166,12 +26166,12 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     }
 
     a.help-link {
-        padding: 7px 25px 19px;
+        padding: 7px 25px 23px;
         border-bottom: 4px solid transparent;
     }
 
     a.help-link:hover {
-        border-bottom: 4px solid #7CB518;
+        border-bottom: 4px solid #FB6107;
     }
 
     .global-header .nav-links .secondary a.sign-in-btn,.global-header .nav-links .secondary .nav-item a.shopping-cart {
@@ -26206,36 +26206,39 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
     .global-header .nav-links .secondary .user-image-frame {
         border: 1px solid #e7e7e7;
-        margin: -10px 5px;
+        margin: -10px 10px -10px 0px;
         border-radius: 5px;
         width: 40px
     }
 
     .global-header .nav-links .secondary .toggle-user-dropdown {
-        padding: 10px;
+        padding: 10px 5px;
         text-decoration: none;
         cursor: pointer
     }
 
     .global-header .nav-links .secondary .dropdown-user-menu {
-        border: 1px solid #313131;
         position: absolute;
+        box-shadow: 0px 0px 30px rgb(127 137 161 / 25%);
         background-color: #fff;
         color: #313131;
         right: 30px;
-        top: 55px;
+        top: 65px;
+        padding: 5px 10px;
         z-index: 10
     }
 
     .global-header .nav-links .secondary .dropdown-user-menu .dropdown-item {
+        display: block;
+        margin: auto;
+        padding: 1rem 1.25rem;
+        text-decoration: none;
+        position: relative;
+        transition: all .3s cubic-bezier(.2, 0, 0, 1);
+        z-index: 1;
         cursor: pointer;
         overflow: hidden;
         padding: 0
-    }
-
-    .global-header .nav-links .secondary .dropdown-user-menu .dropdown-item:hover {
-        color: #313131;
-        background-color: #e7e7e7
     }
 
     .global-header .nav-links .secondary .dropdown-user-menu .dropdown-item:not(:last-child) {
@@ -26257,6 +26260,26 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
     .global-header .hamburger-menu {
         display: none
+    }
+
+    .mobile-nav-item.dropdown-item.dropdown-nav-item:after {
+        content: '';
+        display: block;
+        height: 0px;
+        position: absolute;
+        bottom: 0;
+        right: 1.25rem;
+        left: 1.25rem;
+        background-color: #FBB02D;
+        transition: all .3s cubic-bezier(.2, 0, 0, 1);
+        transform-origin: bottom center;
+        z-index: -1;
+    }
+
+    .mobile-nav-item.dropdown-item.dropdown-nav-item:hover:after {
+        right: 0;
+        left: 0;
+        height: 100%;
     }
 }
 

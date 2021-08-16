@@ -74,14 +74,12 @@
           ## which are not technically powered by Open edX.
           % if not hide_openedx_link:
             <div class="footer-about-openedx">
-              <p>
-                <a href="https://docs.tutor.overhang.io" rel="noopener" target="_blank">
-                  <img src="${static.url('images/tutor-logo.png')}" width="140" />
-                </a>
-                <a href="${footer['openedx_link']['url']}" rel="noopener" target="_blank">
-                  <img src="${static.url('images/openedx-logo.png')}" alt="${footer['openedx_link']['title']}" width="140" />
-                </a>
-              </p>
+              <a href="https://docs.tutor.overhang.io" rel="noopener" target="_blank">
+                <img src="${static.url('images/tutor-logo.png')}" width="140" />
+              </a>
+              <a href="${footer['openedx_link']['url']}" rel="noopener" target="_blank">
+                <img src="${static.url('images/openedx-logo.png')}" alt="${footer['openedx_link']['title']}" width="140" />
+              </a>
             </div>
           % endif
         </div>
@@ -134,11 +132,9 @@
         </nav>
 
         <div class="wrapper-logo">
-          <p>
-            <a href="/">
-              <img alt="${_('organization logo')}" src="${footer['logo_image']}">
-            </a>
-          </p>
+          <a href="/">
+            <img alt="${_('organization logo')}" src="${footer['logo_image']}">
+          </a>
         </div>
 
         ## Site operators: Please do not remove this paragraph! This attributes back to edX and makes your acknowledgement of edX's trademarks clear.
@@ -166,14 +162,12 @@
       ## which are not technically powered by OpenEdX.
       % if not hide_openedx_link:
       <div class="footer-about-openedx">
-        <p>
-          <a href="https://docs.tutor.overhang.io" rel="noopener" target="_blank">
-            <img src="${static.url('images/tutor-logo.png')}" height="42" />
-          </a>
-          <a href="${footer['openedx_link']['url']}" rel="noopener" target="_blank">
-            <img src="${static.url('images/openedx-logo.png')}" alt="${footer['openedx_link']['title']}" width="140" />
-          </a>
-        </p>
+        <a href="https://docs.tutor.overhang.io" rel="noopener" target="_blank">
+          <img src="${static.url('images/tutor-logo.png')}" height="42" />
+        </a>
+        <a href="${footer['openedx_link']['url']}" rel="noopener" target="_blank">
+          <img src="${static.url('images/openedx-logo.png')}" alt="${footer['openedx_link']['title']}" width="140" />
+        </a>
       </div>
       % endif
     </footer>
