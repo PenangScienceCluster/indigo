@@ -18804,7 +18804,11 @@ ul.fa-ul i {
     transition: 0.2s ease;
 }
 
-.login-register .action-primary,.financial-assistance-wrapper .financial-assistance-form .action-primary:hover {
+.login-register .action-primary:hover,.financial-assistance-wrapper .financial-assistance-form .action-primary:hover {
+    background-color: #5C8001;
+}
+
+.login-register .action-primary:focus,.financial-assistance-wrapper .financial-assistance-form .action-primary:focus {
     background-color: #5C8001;
 }
 
