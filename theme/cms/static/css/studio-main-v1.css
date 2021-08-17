@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700");
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,400i,600,700");
+@import url("https://fonts.googleapis.com/css?family=Inter:300,400,400i,600,700");
+/* @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700"); */
 *{
     text-rendering:optimizeLegibility
 }
@@ -366,50 +366,50 @@ hr.divide,.sr,.view-uploads .assets-library .pagination .nav-label,.view-uploads
     color:#fff
 }
 @font-face{
-    font-family:'Open Sans';
-    src:url("../fonts/OpenSans/OpenSans-Light-webfont.woff2") format("woff2"),url("../fonts/OpenSans/OpenSans-Light-webfont.woff") format("woff"),url("../fonts/OpenSans/OpenSans-Light-webfont.ttf") format("truetype");
+    font-family:'Poppins';
+    src:url("../fonts/Poppins/Poppins-Light-webfont.woff2") format("woff2"),url("../fonts/Poppins/Poppins-Light-webfont.woff") format("woff"),url("../fonts/Poppins/Poppins-Light-webfont.ttf") format("truetype");
     font-weight:300;
     font-style:normal
 }
 @font-face{
-    font-family:'Open Sans';
-    src:url("../fonts/OpenSans/OpenSans-LightItalic-webfont.woff2") format("woff2"),url("../fonts/OpenSans/OpenSans-LightItalic-webfont.woff") format("woff"),url("../fonts/OpenSans/OpenSans-LightItalic-webfont.ttf") format("truetype");
+    font-family:'Poppins';
+    src:url("../fonts/Poppins/Poppins-LightItalic-webfont.woff2") format("woff2"),url("../fonts/Poppins/Poppins-LightItalic-webfont.woff") format("woff"),url("../fonts/Poppins/Poppins-LightItalic-webfont.ttf") format("truetype");
     font-weight:300;
     font-style:italic
 }
 @font-face{
-    font-family:'Open Sans';
-    src:url("../fonts/OpenSans/OpenSans-Regular-webfont.woff2") format("woff2"),url("../fonts/OpenSans/OpenSans-Regular-webfont.woff") format("woff"),url("../fonts/OpenSans/OpenSans-Regular-webfont.ttf") format("truetype");
+    font-family:'Poppins';
+    src:url("../fonts/Poppins/Poppins-Regular-webfont.woff2") format("woff2"),url("../fonts/Poppins/Poppins-Regular-webfont.woff") format("woff"),url("../fonts/Poppins/Poppins-Regular-webfont.ttf") format("truetype");
     font-weight:400;
     font-style:normal
 }
 @font-face{
-    font-family:'Open Sans';
-    src:url("../fonts/OpenSans/OpenSans-Italic-webfont.woff2") format("woff2"),url("../fonts/OpenSans/OpenSans-Italic-webfont.woff") format("woff"),url("../fonts/OpenSans/OpenSans-Italic-webfont.ttf") format("truetype");
+    font-family:'Poppins';
+    src:url("../fonts/Poppins/Poppins-Italic-webfont.woff2") format("woff2"),url("../fonts/Poppins/Poppins-Italic-webfont.woff") format("woff"),url("../fonts/Poppins/Poppins-Italic-webfont.ttf") format("truetype");
     font-weight:400;
     font-style:italic
 }
 @font-face{
-    font-family:'Open Sans';
-    src:url("../fonts/OpenSans/OpenSans-Semibold-webfont.woff2") format("woff2"),url("../fonts/OpenSans/OpenSans-Semibold-webfont.woff") format("woff"),url("../fonts/OpenSans/OpenSans-Semibold-webfont.ttf") format("truetype");
+    font-family:'Poppins';
+    src:url("../fonts/Poppins/Poppins-Semibold-webfont.woff2") format("woff2"),url("../fonts/Poppins/Poppins-Semibold-webfont.woff") format("woff"),url("../fonts/Poppins/Poppins-Semibold-webfont.ttf") format("truetype");
     font-weight:600;
     font-style:normal
 }
 @font-face{
-    font-family:'Open Sans';
-    src:url("../fonts/OpenSans/OpenSans-SemiboldItalic-webfont.woff2") format("woff2"),url("../fonts/OpenSans/OpenSans-SemiboldItalic-webfont.woff") format("woff"),url("../fonts/OpenSans/OpenSans-SemiboldItalic-webfont.ttf") format("truetype");
+    font-family:'Poppins';
+    src:url("../fonts/Poppins/Poppins-SemiboldItalic-webfont.woff2") format("woff2"),url("../fonts/Poppins/Poppins-SemiboldItalic-webfont.woff") format("woff"),url("../fonts/Poppins/Poppins-SemiboldItalic-webfont.ttf") format("truetype");
     font-weight:600;
     font-style:italic
 }
 @font-face{
-    font-family:'Open Sans';
-    src:url("../fonts/OpenSans/OpenSans-Bold-webfont.woff2") format("woff2"),url("../fonts/OpenSans/OpenSans-Bold-webfont.woff") format("woff"),url("../fonts/OpenSans/OpenSans-Bold-webfont.ttf") format("truetype");
+    font-family:'Poppins';
+    src:url("../fonts/Poppins/Poppins-Bold-webfont.woff2") format("woff2"),url("../fonts/Poppins/Poppins-Bold-webfont.woff") format("woff"),url("../fonts/Poppins/Poppins-Bold-webfont.ttf") format("truetype");
     font-weight:700;
     font-style:normal
 }
 @font-face{
-    font-family:'Open Sans';
-    src:url("../fonts/OpenSans/OpenSans-BoldItalic-webfont.woff2") format("woff2"),url("../fonts/OpenSans/OpenSans-BoldItalic-webfont.woff") format("woff"),url("../fonts/OpenSans/OpenSans-BoldItalic-webfont.ttf") format("truetype");
+    font-family:'Poppins';
+    src:url("../fonts/Poppins/Poppins-BoldItalic-webfont.woff2") format("woff2"),url("../fonts/Poppins/Poppins-BoldItalic-webfont.woff") format("woff"),url("../fonts/Poppins/Poppins-BoldItalic-webfont.ttf") format("truetype");
     font-weight:700;
     font-style:italic
 }
@@ -885,7 +885,7 @@ body{
     color:#333
 }
 body,input,button{
-    font-family:'Open Sans', sans-serif
+    font-family:'Poppins', sans-serif
 }
 [tabindex="-1"]{
     outline:none
@@ -1355,7 +1355,7 @@ h1,.wrapper-xblock.level-element .xblock-header-primary,body.error h1,.modal h2,
     font-weight:300
 }
 body.error h1,.view-howitworks.not-signedin .content-header h1,h1,.section-header,.title-2,.wrapper-mast .mast-wizard .page-header-sub,.wrapper-mast .mast-wizard .page-header-super,.content-primary .title-2,.wrapper-xblock .container-paging-header .pagination .page-divider,.wrapper-xblock .container-paging-footer .pagination .page-divider,.wrapper-assets .assets-library .pagination .page-divider,.form-create .title,.wrapper-sock .sock header .title,.content .introduction .title,.view-uploads .assets-library .pagination .page-divider,.course-updates .update-list>li h1,.course-handouts .title,.view-dashboard .course-item .course-title,.view-export .export-controls .title,.view-export .wrapper-status>.title,.view-howitworks.not-signedin .content-header .tagline,.view-howitworks.not-signedin .content-features .feature .copy h3,.view-import .import-form>.title,.view-import .wrapper-status>.title,.view-static-pages .course-nav-item .course-nav-item-header .title,.view-static-pages .xblock-student_view,.view-container .wrapper-mast .mast .page-header .page-header-title,.view-container .wrapper-mast .mast .page-header .is-editable .incontext-editor-input,.view-team .user-list .user-item .item-metadata .user-username,.view-textbooks .content-primary .textbook .view-textbook .textbook-title,.view-export-git .export-git-controls .title,.view-group-configurations .content-primary .wrapper-groups .title,.view-certificates .content-primary .wrapper-certificates .title,.view-certificates .certificates .certificate-details .title,.view-certificates .certificates .certificate-edit .title,.title-3,.content-modal .title,.wrapper-xblock h2,.add-xblock-component .new-component h5,.outline-complex .outline-section .section-title,.outline-simple .outline-section .section-title,.modal h2,[class*="view-"] .modal-window .title,[class*="view-"] .modal-lg.modal-type-video .xmodule_edit.xmodule_VideoBlock .editor-with-tabs .edit-header .component-name,.view-dashboard .status-creationrights .status-update .value-formal,.view-dashboard .create-course .new-course-name,.view-dashboard .create-library .new-course-name,.view-export .wrapper-status .list-progress .status-detail .title,.view-course-create .mast .page-header-super .course-original-title-id,.view-course-create .rerun-course .rerun-course-name,.view-import .wrapper-status .list-progress .status-detail .title,.view-outline .outline-complex .outline-section .section-header .incontext-editor-input,.view-static-pages .static-page-item .page-name,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field.add-textbook-name label,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field.add-textbook-name label,.view-export-git h3,.view-group-configurations .content-primary .wrapper-collection .collection-header .title,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field.add-collection-name label,.view-certificates .wrapper-collection .collection-edit .field.add-collection-name label,.area-header,.content-primary .title-3,.view-container .content-supplementary .bit-publishing .bar-mod-title,.view-container .content-supplementary .unit-location .bar-mod-title,.view-container .content-supplementary .library-location .bar-mod-title,.outline-complex .outline-subsection .subsection-title,.outline-simple .outline-subsection .subsection-title,.wrapper-sock .sock .support .title,.wrapper-sock .sock .feedback .title,.notice-incontext .title,[class*="view-"] .modal-window .modal-section-title,[class*="view-"] .xblock-visibility_view .is-not-configured .title,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields label,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields label,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields label,[class*="view-"] .course-outline-modal .list-fields label,.course-updates .update-list>li h3,.view-dashboard .courses .title,.view-dashboard .libraries .title,.view-dashboard .archived-courses .title,.view-outline .outline-complex .outline-subsection .subsection-header .incontext-editor-input,.view-team .user-list .user-item .item-metadata .user-email,.page-header .navigation,.page-header .subtitle,.section-header .subtitle,.area-subheader,.title-4,.title-5,.title-6,.window .header,.wrapper-xblock .xblock-license,.wrapper-xblock .xmodule_display.xmodule_HtmlModule .xblock-license,.wrapper-xblock .xmodule_VideoModule .xblock-license,.wrapper-xblock .wrapper-groups .title,.outline-complex .outline-unit .unit-title,.outline-simple .outline-unit .unit-title,.notification .copy .title,.alert .copy .title,.bit h3,.bit .title,.view-signup .content-supplementary .bit h3,.view-signin .content-supplementary .bit h3,.view-util .content-supplementary .bit h3,.course-updates .update-list>li h2,.view-dashboard .status-creationrights .title,.view-dashboard .create-course label,.view-dashboard .create-library label,.view-course-create .rerun-course label,.view-outline .bulkpublish-section-modal .outline-unit .unit-title,.view-outline .bulkpublish-subsection-modal .outline-unit .unit-title,.view-outline .bulkpublish-unit-modal .outline-unit .unit-title,.view-static-pages .course-nav-item .course-nav-item-header .title-sub,.view-container .content-supplementary .bit-publishing .wrapper-release .release-date,.view-container .content-supplementary .bit-publishing .wrapper-visibility .copy,.view-container .content-supplementary .unit-location .wrapper-unit-id .unit-id-value,.view-container .content-supplementary .unit-location .wrapper-unit-id .library-id-value,.view-container .content-supplementary .unit-location .wrapper-library-id .unit-id-value,.view-container .content-supplementary .unit-location .wrapper-library-id .library-id-value,.view-container .content-supplementary .library-location .wrapper-unit-id .unit-id-value,.view-container .content-supplementary .library-location .wrapper-unit-id .library-id-value,.view-container .content-supplementary .library-location .wrapper-library-id .unit-id-value,.view-container .content-supplementary .library-location .wrapper-library-id .library-id-value,.xmodule_display.xmodule_VideoBlock .video .video-wrapper .video-controls .control,.xmodule_display.xmodule_VideoBlock .video .video-wrapper .video-controls .vcr .vidtime,.area-header .subtitle,.view-container .content-supplementary .bit-publishing .bar-mod-content .title,.view-container .content-supplementary .unit-location .bar-mod-content .title,.view-container .content-supplementary .library-location .bar-mod-content .title,[class*="view-"] .modal-window .modal-subsection-title,.view-outline .bulkpublish-section-modal .outline-subsection .subsection-title,.view-outline .bulkpublish-subsection-modal .outline-subsection .subsection-title,.view-outline .bulkpublish-unit-modal .outline-subsection .subsection-title,.view-container .content-supplementary .bit-publishing .wrapper-release .release-with,.view-container .content-supplementary .bit-publishing .wrapper-visibility .inherited-from,.view-container .content-supplementary .bit-publishing .wrapper-visibility .note-visibility,.view-container .content-supplementary label,.area-subheader .subtitle,.view-team .user-list .user-item .flag-role{
-    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif
+    font-family:"Poppins","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 body.error h1{
     font-size:60px;
@@ -1412,7 +1412,7 @@ h1,.section-header,.title-2,.wrapper-mast .mast-wizard .page-header-sub,.wrapper
     line-height:1.628rem
 }
 .ui-loading,body,.content,.wrapper-xblock .container-paging-header .pagination .current-page,.wrapper-xblock .container-paging-footer .pagination .current-page,.wrapper-assets .assets-library .pagination .current-page,.wrapper-xblock .container-paging-header .pagination .page-number-input,.wrapper-xblock .container-paging-footer .pagination .page-number-input,.wrapper-assets .assets-library .pagination .page-number-input,.wrapper-xblock .container-paging-header .pagination .total-pages,.wrapper-xblock .container-paging-footer .pagination .total-pages,.wrapper-assets .assets-library .pagination .total-pages,.wrapper-comp-settings .list-input.settings-list input,.wrapper-comp-settings .list-input.settings-list select,.wrapper-comp-settings .list-input.settings-list input[type="number"],.form-create .list-input .field input,.form-create .list-input .field textarea,.incontext-editor.is-editable .incontext-editor-open-action,.incontext-editor.is-editable .access-button,.ui-widget,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,[class*="view-"] .course-outline-modal .list-fields .field input,[class*="view-"] .course-outline-modal .list-fields .field textarea,.view-signup .content,.view-signin .content,.view-util .content,.view-signup .content-primary form .list-input .field input,.view-signup .content-primary form .list-input .field textarea,.view-signin .content-primary form .list-input .field input,.view-signin .content-primary form .list-input .field textarea,.view-util .content-primary form .list-input .field input,.view-util .content-primary form .list-input .field textarea,.view-uploads .assets-library .pagination .current-page,.view-uploads .assets-library .pagination .page-number-input,.view-uploads .assets-library .pagination .total-pages,.course-updates .update-contents p,.course-updates .update-contents pre,.view-export .wrapper-status .list-progress .status-detail .copy,.view-howitworks.not-signedin .content,.view-howitworks.not-signedin .content-features .feature .copy .list-proofpoints .proofpoint .title,.view-import .wrapper-status .list-progress .status-detail .copy,.view-outline .new-section-name,.view-outline .new-subsection-name-input,.view-outline .course-status .status-release,.view-outline .course-status .status-highlights-enabled,.view-outline .course-status .status-studio-frontend,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,.view-outline .course-outline-modal .list-fields .field input,.view-outline .course-outline-modal .list-fields .field textarea,.view-settings .group-settings .list-input .field input,.view-settings .group-settings .list-input .field textarea,.view-settings .group-settings.grade-range .grade-slider .grade-bar .grades li .letter-grade,.view-settings .group-settings.advanced-policies .CodeMirror,.view-static-pages .content-primary .notice-incontext .copy,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field textarea,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field textarea,.view-export-git .export-git-info-block dd,.view-group-configurations .content-primary .notice-moduledisabled,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field input,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field textarea,.view-certificates .content-primary .notice-moduledisabled,.view-certificates .wrapper-collection .collection-edit .field input,.view-certificates .wrapper-collection .collection-edit .field textarea,.view-certificates .certificates .signatory-edit .field input,.view-certificates .certificates .signatory-edit .field textarea,.wrapper-xblock .xblock-header-primary .header-details .xblock-display-name,.view-howitworks.not-signedin .content-features .feature .copy>p,.view-import .wrapper-file-name .title,.view-settings .settings-details .is-not-editable input,.view-settings .settings-details .is-not-editable textarea,.view-settings .group-settings.basic .note-promotion-courseURL .copy .link-courseURL,.edit-static-page .page-display-name-input,.view-export-git .export-git-info-block dt,.view-group-configurations .content-primary .wrapper-collection .collection-items .item,.view-group-configurations .content-primary .experiment-groups .group-configuration-details .groups .group,.view-certificates .wrapper-collection .collection-items .item,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .progress-bar,body.error .description,.content header .title-sub,.details,.wrapper-xblock .xblock-header-primary .header-details .xblock-group-visibility-label,.wrapper-xblock .wrapper-xblock-message .xblock-message,.wrapper-xblock .wrapper-xblock-message .xblock-message.information,.wrapper-comp-settings .list-input.settings-list .setting-label,.view-container .content-supplementary .bit-publishing .bar-mod-content,.view-container .content-supplementary .unit-location .bar-mod-content,.view-container .content-supplementary .library-location .bar-mod-content,form input[type="file"],.form-create .list-input .field label,.CodeMirror,.message,.wrapper-notification .copy,.wrapper-alert .copy,.prompt .copy,.notification .copy,.alert .action-dismiss .button-copy,.wrapper-message .message,.wrapper-message .message.information,.main-wrapper .alert,.content .introduction .copy,.notice-incontext .copy,.bit,[class*="view-"] .modal-window .message,[class*="view-"] .modal-window .summary-message .copy,[class*="view-"] .modal-window .modal-section .settings-tabs-header li.settings-tab-buttons .settings-tab-button,[class*="view-"] .modal-lg.modal-editor .modal-header .editor-modes .action-item .editor-button,[class*="view-"] .modal-lg.modal-editor .modal-header .editor-modes .action-item .settings-button,[class*="view-"] .modal-lg.modal-editor .modal-header .editor-modes .action-item .plugins-button,[class*="view-"] .modal-lg.modal-type-video .xmodule_edit.xmodule_VideoBlock .editor-with-tabs .edit-header .editor-tabs .inner_tab_wrap a.tab,[class*="view-"] .xblock-visibility_view .is-not-configured .copy,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field-message,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field-message,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field-message,[class*="view-"] .course-outline-modal .list-fields .field-message,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field .tip,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field .tip,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field .tip,[class*="view-"] .course-outline-modal .list-fields .field .tip,.wrapper-assets .assets-library .assets-table tbody .name-col .title,.wrapper-assets .assets-library .assets-table .js-table-body .name-col .title,.view-signup .content .introduction,.view-signin .content .introduction,.view-util .content .introduction,.view-signup .content-primary form .list-input .field label,.view-signin .content-primary form .list-input .field label,.view-util .content-primary form .list-input .field label,.view-signup .content-supplementary .bit,.view-signin .content-supplementary .bit,.view-util .content-supplementary .bit,.view-uploads .assets-library table tbody .name-col .title,.view-uploads .upload-modal .progress-fill,.course-handouts .handouts-content,.view-dashboard .status-creationrights .status-update .value-description,.view-dashboard .wrapper-course.has-status .course-status .value .copy,.view-dashboard .wrapper-course.has-status .status-message,.view-dashboard .wrapper-course.has-status .status-message.has-actions .status-actions .button-copy,.view-dashboard .course-item .course-metadata,.view-export .export-contents .export-includes .item-detail,.view-export .export-contents .export-excludes .item-detail,.view-howitworks.not-signedin .content-features .feature .copy .list-proofpoints,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field label,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field label,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field label,.view-outline .course-outline-modal .list-fields .field label,.view-settings .message,.view-settings .group-settings .instructions,.view-settings .group-settings .message-error,.view-settings .group-settings .list-input .field label,.view-settings .group-settings.basic .note-promotion-courseURL .title,.edit-static-page .page-contents,.view-container .content-supplementary .bit-publishing .wrapper-pub-actions .action-discard,.view-team .content .introduction,.view-team .user-list .user-item .item-actions .action-role .notoggleforyou,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field label,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field label,.view-group-configurations .content-primary .wrapper-groups .copy,.view-group-configurations .content-primary .wrapper-collection .collection-info,.view-group-configurations .content-primary .wrapper-collection .collection-references,.view-group-configurations .content-primary .wrapper-collection .usage-validation,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field label,.view-group-configurations .content-primary .experiment-groups .group-configuration-details .group-configuration-info,.view-certificates .content-primary .wrapper-certificates .copy,.view-certificates .content-primary .wrapper-certificates .instructions,.view-certificates .wrapper-collection .collection-info,.view-certificates .wrapper-collection .collection-references,.view-certificates .wrapper-collection .collection-edit .field label,.view-certificates .certificates .signatory-edit .field label,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .wrapper-transcripts-message .transcripts-error-message,.content-primary header .tip,.window label .description,.content-modal .description,.wrapper-xblock .container-paging-header .meta,.wrapper-xblock.level-element .wrapper-xblock-message .xblock-message.information,.wrapper-comp-settings .list-input.settings-list .setting-help,.wrapper-license .license-types .tip,.wrapper-license .wrapper-license-options .tip,.view-container .content-supplementary .bit-publishing .bar-mod-content .meta,.view-container .content-supplementary .unit-location .bar-mod-content .meta,.view-container .content-supplementary .library-location .bar-mod-content .meta,.outline-complex .outline-section .section-status,.outline-complex .outline-subsection .subsection-status,.outline-complex .outline-unit .unit-status,.outline-simple .outline-section .section-status,.outline-simple .outline-subsection .subsection-status,.outline-simple .outline-unit .unit-status,input[type="text"],input[type="email"],input[type="password"],textarea.text,.form-create .list-input .field .tip,label,.wrapper-footer footer.primary,.wrapper-sock .sock,.wrapper-sock .sock .support .copy,.wrapper-sock .sock .feedback .copy,.content .introduction.has-links .nav-introduction-supplementary,.ui-datepicker,[class*="view-"] .xblock-visibility_view .partition-group-visibility.was-removed .note,[class*="view-"] .wrapper-modal-window-bulkpublish-section .edit-staff-lock .note,[class*="view-"] .wrapper-modal-window-bulkpublish-section .edit-settings-timed-examination .note,[class*="view-"] .wrapper-modal-window-bulkpublish-section .edit-unit-access .note,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .edit-staff-lock .note,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .edit-settings-timed-examination .note,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .edit-unit-access .note,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .edit-staff-lock .note,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .edit-settings-timed-examination .note,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .edit-unit-access .note,[class*="view-"] .course-outline-modal .edit-staff-lock .note,[class*="view-"] .course-outline-modal .edit-settings-timed-examination .note,[class*="view-"] .course-outline-modal .edit-unit-access .note,.wrapper-assets .assets-library .meta,.wrapper-assets .assets-library .assets-table th,.wrapper-assets .assets-library .assets-table .video-head-col,.wrapper-assets .assets-library .assets-table tbody .date-col,.wrapper-assets .assets-library .assets-table .js-table-body .date-col,.wrapper-assets .assets-library .assets-table tbody .embed-col .embeddable-xml-input,.wrapper-assets .assets-library .assets-table .js-table-body .embed-col .embeddable-xml-input,.view-signup .content-primary form .list-input .field .tip,.view-signin .content-primary form .list-input .field .tip,.view-util .content-primary form .list-input .field .tip,.view-uploads .assets-library .meta,.view-uploads .assets-library table th,.view-uploads .assets-library table tbody .thumb-col,.view-uploads .assets-library table tbody .type-col,.view-uploads .assets-library table tbody .date-col,.view-uploads .assets-library table tbody .embed-col,.view-uploads .assets-library table tbody .embed-col .embeddable-xml-input,.view-outline .bulkpublish-section-modal .outline-unit .unit-status,.view-outline .bulkpublish-subsection-modal .outline-unit .unit-status,.view-outline .bulkpublish-unit-modal .outline-unit .unit-status,.view-settings .group-settings header .tip,.view-settings .group-settings .tip,.view-settings .group-settings #field-course-image .current-course-image .msg,.view-settings .group-settings #field-banner-image .current-course-image .msg,.view-settings .group-settings #field-video-thumbnail-image .current-course-image .msg,.view-settings .group-settings.instructor-types .field-group .field-course-instructor-image .msg,.view-container .content-supplementary .unit-publish-history .wrapper-last-publish .copy,.view-container .content-supplementary .unit-location .wrapper-unit-id .tip,.view-container .content-supplementary .unit-location .wrapper-library-id .tip,.view-container .content-supplementary .library-location .wrapper-unit-id .tip,.view-container .content-supplementary .library-location .wrapper-library-id .tip,.view-textbooks .content-primary .textbook .view-textbook .chapters .chapter,.view-textbooks .content-primary .textbook .edit-textbook .copy,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field .tip,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field .tip,.view-group-configurations .content-primary .wrapper-collection .collection-edit .tip,.view-group-configurations .content-primary .wrapper-collection .collection-edit .copy,.view-certificates .wrapper-collection .collection-edit .tip,.view-certificates .wrapper-collection .collection-edit .copy,.view-certificates .certificates .signatory-edit .tip,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .wrapper-transcripts-message .transcripts-message,.view-uploads .nav-actions .fa-cloud-upload,.view-video-uploads .nav-actions .fa-cloud-upload{
-    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif
+    font-family:"Poppins","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 .ui-loading,body,.content,.wrapper-xblock .container-paging-header .pagination .current-page,.wrapper-xblock .container-paging-footer .pagination .current-page,.wrapper-assets .assets-library .pagination .current-page,.wrapper-xblock .container-paging-header .pagination .page-number-input,.wrapper-xblock .container-paging-footer .pagination .page-number-input,.wrapper-assets .assets-library .pagination .page-number-input,.wrapper-xblock .container-paging-header .pagination .total-pages,.wrapper-xblock .container-paging-footer .pagination .total-pages,.wrapper-assets .assets-library .pagination .total-pages,.wrapper-comp-settings .list-input.settings-list input,.wrapper-comp-settings .list-input.settings-list select,.wrapper-comp-settings .list-input.settings-list input[type="number"],.form-create .list-input .field input,.form-create .list-input .field textarea,.incontext-editor.is-editable .incontext-editor-open-action,.incontext-editor.is-editable .access-button,.ui-widget,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,[class*="view-"] .course-outline-modal .list-fields .field input,[class*="view-"] .course-outline-modal .list-fields .field textarea,.view-signup .content,.view-signin .content,.view-util .content,.view-signup .content-primary form .list-input .field input,.view-signup .content-primary form .list-input .field textarea,.view-signin .content-primary form .list-input .field input,.view-signin .content-primary form .list-input .field textarea,.view-util .content-primary form .list-input .field input,.view-util .content-primary form .list-input .field textarea,.view-uploads .assets-library .pagination .current-page,.view-uploads .assets-library .pagination .page-number-input,.view-uploads .assets-library .pagination .total-pages,.course-updates .update-contents p,.course-updates .update-contents pre,.view-export .wrapper-status .list-progress .status-detail .copy,.view-howitworks.not-signedin .content,.view-howitworks.not-signedin .content-features .feature .copy .list-proofpoints .proofpoint .title,.view-import .wrapper-status .list-progress .status-detail .copy,.view-outline .new-section-name,.view-outline .new-subsection-name-input,.view-outline .course-status .status-release,.view-outline .course-status .status-highlights-enabled,.view-outline .course-status .status-studio-frontend,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,.view-outline .course-outline-modal .list-fields .field input,.view-outline .course-outline-modal .list-fields .field textarea,.view-settings .group-settings .list-input .field input,.view-settings .group-settings .list-input .field textarea,.view-settings .group-settings.grade-range .grade-slider .grade-bar .grades li .letter-grade,.view-settings .group-settings.advanced-policies .CodeMirror,.view-static-pages .content-primary .notice-incontext .copy,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field textarea,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field textarea,.view-export-git .export-git-info-block dd,.view-group-configurations .content-primary .notice-moduledisabled,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field input,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field textarea,.view-certificates .content-primary .notice-moduledisabled,.view-certificates .wrapper-collection .collection-edit .field input,.view-certificates .wrapper-collection .collection-edit .field textarea,.view-certificates .certificates .signatory-edit .field input,.view-certificates .certificates .signatory-edit .field textarea{
     font-size:16px;
@@ -2785,7 +2785,7 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     background:#fff;
     color:#333;
     text-align:left;
-    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif
+    font-family:"Poppins","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 .add-xblock-component .new-component-template .button-component:after{
     content:"";
@@ -3302,7 +3302,7 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     margin-top:12px;
     background:#333;
     color:#fff;
-    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:"Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height:1.41575em;
     right:0;
     padding:6px;
@@ -3665,7 +3665,7 @@ input[type="text"],input[type="email"],input[type="password"],textarea.text{
     border-radius:2px;
     background-color:#f2f2f2;
     box-shadow:inset 0 1px 2px rgba(0,0,0,0.1);
-    font-family:'Open Sans', sans-serif;
+    font-family:'Poppins', sans-serif;
     color:#4c4c4c;
     outline:0
 }
@@ -3957,7 +3957,7 @@ input.search{
     border:1px solid #8891a1;
     border-radius:20px;
     background:url("../images/search-icon.png") no-repeat 8px 7px #edf1f5;
-    font-family:'Open Sans', sans-serif;
+    font-family:'Poppins', sans-serif;
     color:#313131;
     outline:0
 }
@@ -5716,7 +5716,7 @@ body.modal-open{
     border-color:#8891a1;
     border-radius:2px;
     background:#fff;
-    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:"Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     box-shadow:0 5px 10px rgba(0,0,0,0.1);
     z-index:100000 !important
 }
@@ -12462,7 +12462,7 @@ body.modal-open{
 }
 .view-video-uploads .thumbnail-wrapper.requirements .requirements-instructions{
     font-size:15px;
-    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:"Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     text-align:left;
     color:#4c4c4c;
     line-height:1.5
@@ -13110,13 +13110,13 @@ body.modal-open{
 }
 .xmodule_display.xmodule_AboutBlock h1{
     color:#313131;
-    font:normal 2em/1.4em "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font:normal 2em/1.4em "Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     letter-spacing:1px;
     margin:0 0 1.416em
 }
 .xmodule_display.xmodule_AboutBlock h2{
     color:#646464;
-    font:normal 1.2em/1.2em "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font:normal 1.2em/1.2em "Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     letter-spacing:1px;
     margin-bottom:15px;
     -webkit-font-smoothing:antialiased
@@ -13521,13 +13521,13 @@ body.modal-open{
 }
 .xmodule_display.xmodule_CourseInfoBlock h1{
     color:#313131;
-    font:normal 2em/1.4em "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font:normal 2em/1.4em "Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     letter-spacing:1px;
     margin:0 0 1.416em
 }
 .xmodule_display.xmodule_CourseInfoBlock h2{
     color:#646464;
-    font:normal 1.2em/1.2em "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font:normal 1.2em/1.2em "Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     letter-spacing:1px;
     margin-bottom:15px;
     -webkit-font-smoothing:antialiased
@@ -13746,13 +13746,13 @@ body.modal-open{
 }
 .xmodule_display.xmodule_HtmlBlock h1{
     color:#313131;
-    font:normal 2em/1.4em "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font:normal 2em/1.4em "Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     letter-spacing:1px;
     margin:0 0 1.416em
 }
 .xmodule_display.xmodule_HtmlBlock h2{
     color:#646464;
-    font:normal 1.2em/1.2em "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font:normal 1.2em/1.2em "Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     letter-spacing:1px;
     margin-bottom:15px;
     -webkit-font-smoothing:antialiased
@@ -14007,7 +14007,7 @@ body.modal-open{
 .xmodule_display.xmodule_LTIBlock div.lti h4.problem-feedback-label{
     font-weight:100;
     font-size:1em;
-    font-family:"Source Sans", "Open Sans", Verdana, Geneva, sans-serif, sans-serif
+    font-family:"Source Sans", "Poppins", Verdana, Geneva, sans-serif, sans-serif
 }
 .xmodule_display.xmodule_LTIBlock div.lti div.problem-feedback{
     margin-top:5px;
@@ -14098,7 +14098,7 @@ body.modal-open{
     color:#333;
     display:inline;
     float:left;
-    font-family:'Open Sans', Verdana, Geneva, sans-serif;
+    font-family:'Poppins', Verdana, Geneva, sans-serif;
     font-size:13px;
     font-style:normal;
     font-variant:normal;
@@ -15563,7 +15563,7 @@ body.modal-open{
     margin-top:12px;
     background:#333;
     color:#fff;
-    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:"Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height:1.41575em;
     right:0;
     padding:6px;
@@ -15720,13 +15720,13 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
 }
 .xmodule_display.xmodule_StaticTabBlock h1{
     color:#313131;
-    font:normal 2em/1.4em "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font:normal 2em/1.4em "Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     letter-spacing:1px;
     margin:0 0 1.416em
 }
 .xmodule_display.xmodule_StaticTabBlock h2{
     color:#646464;
-    font:normal 1.2em/1.2em "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font:normal 1.2em/1.2em "Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     letter-spacing:1px;
     margin-bottom:15px;
     -webkit-font-smoothing:antialiased
@@ -16339,7 +16339,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
 }
 .xmodule_display.xmodule_VideoBlock .video .video-wrapper .video-controls .secondary-controls .speeds .speed-button .label{
     padding:0 6.66667px 0 0;
-    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:"Poppins","Helvetica Neue",Helvetica,Arial,sans-serif;
     color:#e7ecee
 }
 @media (max-width: 1120px){
