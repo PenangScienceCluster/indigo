@@ -13301,6 +13301,13 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     color: #fff;
 }
 
+.dashboard .main-container .my-courses .course .details .course-actions .action.action-unenroll {
+    background-color: transparent;
+    color: #767676;
+    border: none;
+    transition: 0.2s ease;
+}
+
 .dashboard .main-container .my-courses .course .details .course-actions .action.action-unenroll:hover {
     background-color: transparent;
     color: #767676;
