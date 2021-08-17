@@ -22355,7 +22355,7 @@ body.open-modal {
 
 .courses-container .courses .course {
     box-sizing: border-box;
-    transition: all 0.125s linear 0s;
+    transition: all 0.2s linear 0s;
     position: relative;
     border: 2px solid #eee;
     border-bottom: 5px solid #bebebe;
