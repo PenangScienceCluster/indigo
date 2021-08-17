@@ -13301,6 +13301,13 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     color: #fff;
 }
 
+.dashboard .main-container .my-courses .course .details .course-actions .action.action-unenroll:hover {
+    background-color: transparent;
+    color: #767676;
+    border: none;
+    text-decoration: underline;
+}
+
 .dashboard .main-container .my-courses .course .details .course-actions .action.is-disabled,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .is-disabled.entitlement-action,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .is-disabled.entitlement-action {
     color: #e4e4e4
 }
@@ -13340,7 +13347,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     top: 40px;
     right: 19px;
     pointer-events: none;
-    min-width: 140px
+    /* min-width: 140px */
 }
 
 .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .actions-dropdown.is-visible,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .actions-dropdown.is-visible,.entitlement-actions-wrapper .dashboard .main-container .my-courses .course .details .course-actions .wrapper-action-more .is-visible.entitlement-actions-dropdown,.dashboard .main-container .my-courses .course .details .course-actions .entitlement-actions-wrapper .is-visible.entitlement-actions-dropdown {
@@ -16282,18 +16289,18 @@ a.fade-cover {
     float: right;
     padding: 5px 10px;
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: #f0f0f0;
     text-align: right;
-    color: #c2387d
+    color: #FBB02D
 }
 
 .course-info .container .wrap-instructor-info .instructor-info-action:hover,.course-info section.outside-app .wrap-instructor-info .instructor-info-action:hover,.course-info .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy .wrap-instructor-info .instructor-info-action:hover,.view-profile .profile-self .wrapper-profile-field-account-privacy .course-info .u-field-account_privacy .wrap-instructor-info .instructor-info-action:hover,.course-info .view-profile .wrapper-profile-sections .wrap-instructor-info .instructor-info-action:hover,.view-profile .course-info .wrapper-profile-sections .wrap-instructor-info .instructor-info-action:hover,.course-info .view-profile .badge-set-display .wrap-instructor-info .instructor-info-action:hover,.view-profile .course-info .badge-set-display .wrap-instructor-info .instructor-info-action:hover {
-    background-color: #c2387d;
+    background-color: #FBB02D;
     color: #fff
 }
 
 .course-info .details {
-    font: normal 1em/1.6em 'Inter',"Century Gothic",sans-serif
+    font: normal 1em/1.6em 'Inter','Century Gothic',sans-serif
 }
 
 @media (min-width: 768px) {
@@ -16358,7 +16365,7 @@ a.fade-cover {
 }
 
 .course-info .details .inner-wrapper .prerequisites ul li,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .prerequisites ul li,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .prerequisites ul li,.course-info .details .inner-wrapper .syllabus ul li,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .syllabus ul li,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .syllabus ul li {
-    font: normal 1em/1.6em 'Inter',"Century Gothic",sans-serif
+    font: normal 1em/1.6em 'Inter','Century Gothic',sans-serif
 }
 
 .course-info .details .inner-wrapper .prerequisites ul ul,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .prerequisites ul ul,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .prerequisites ul ul,.course-info .details .inner-wrapper .syllabus ul ul,.course-info .details .entitlement-unenrollment-modal .entitlement-unenrollment-modal-inner-wrapper .syllabus ul ul,.entitlement-unenrollment-modal .course-info .details .entitlement-unenrollment-modal-inner-wrapper .syllabus ul ul {
@@ -17322,7 +17329,7 @@ ul.courses-listing {
 }
 
 .pressrelease .container li a,.pressrelease section.outside-app li a,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy li a,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy li a,.pressrelease .view-profile .wrapper-profile-sections li a,.view-profile .pressrelease .wrapper-profile-sections li a,.pressrelease .view-profile .badge-set-display li a,.view-profile .pressrelease .badge-set-display li a {
-    font: 1em 'Inter',"Century Gothic",sans-serif
+    font: 1em 'Inter','Century Gothic',sans-serif
 }
 
 .pressrelease .container li+li,.pressrelease section.outside-app li+li,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy li+li,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy li+li,.pressrelease .view-profile .wrapper-profile-sections li+li,.view-profile .pressrelease .wrapper-profile-sections li+li,.pressrelease .view-profile .badge-set-display li+li,.view-profile .pressrelease .badge-set-display li+li {
@@ -17360,7 +17367,7 @@ ul.courses-listing {
 }
 
 .pressrelease .container figure figcaption a,.pressrelease section.outside-app figure figcaption a,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy figure figcaption a,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy figure figcaption a,.pressrelease .view-profile .wrapper-profile-sections figure figcaption a,.view-profile .pressrelease .wrapper-profile-sections figure figcaption a,.pressrelease .view-profile .badge-set-display figure figcaption a,.view-profile .pressrelease .badge-set-display figure figcaption a {
-    font: normal 1em 'Inter',"Century Gothic",sans-serif
+    font: normal 1em 'Inter','Century Gothic',sans-serif
 }
 
 .pressrelease .container p+h2,.pressrelease section.outside-app p+h2,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy p+h2,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy p+h2,.pressrelease .view-profile .wrapper-profile-sections p+h2,.view-profile .pressrelease .wrapper-profile-sections p+h2,.pressrelease .view-profile .badge-set-display p+h2,.view-profile .pressrelease .badge-set-display p+h2,.pressrelease .container .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease .container p+p,.pressrelease section.outside-app .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease section.outside-app p+p,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy p+p,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy .home>header .title>.heading-group p+p,.home>header .title>.heading-group .view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy p+p,.pressrelease .view-profile .wrapper-profile-sections .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease .view-profile .wrapper-profile-sections p+p,.view-profile .pressrelease .wrapper-profile-sections .home>header .title>.heading-group p+p,.home>header .title>.heading-group .view-profile .pressrelease .wrapper-profile-sections p+p,.pressrelease .view-profile .badge-set-display .home>header .title>.heading-group p+p,.home>header .title>.heading-group .pressrelease .view-profile .badge-set-display p+p,.view-profile .pressrelease .badge-set-display .home>header .title>.heading-group p+p,.home>header .title>.heading-group .view-profile .pressrelease .badge-set-display p+p,section.outside-app .pressrelease .container p+h1,.pressrelease section.outside-app p+h1,.pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy section.outside-app p+h1,section.outside-app .pressrelease .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy p+h1,.view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy section.outside-app p+h1,section.outside-app .view-profile .profile-self .wrapper-profile-field-account-privacy .pressrelease .u-field-account_privacy p+h1,section.outside-app .pressrelease .view-profile .wrapper-profile-sections p+h1,section.outside-app .view-profile .pressrelease .wrapper-profile-sections p+h1,section.outside-app .pressrelease .view-profile .badge-set-display p+h1,section.outside-app .view-profile .pressrelease .badge-set-display p+h1 {
@@ -17423,7 +17430,7 @@ section.outside-app h1 {
 section.outside-app p,section.outside-app ul,section.outside-app form {
     max-width: 600px;
     margin: 0 auto;
-    font: normal 1em/1.6em 'Inter',"Century Gothic",sans-serif
+    font: normal 1em/1.6em 'Inter','Century Gothic',sans-serif
 }
 
 section.outside-app li {
@@ -17494,7 +17501,7 @@ section.outside-app li {
     display: none;
     color: #3c3c3c;
     padding-left: 16px;
-    font-family: 'Inter',"Century Gothic",sans-serif
+    font-family: 'Inter','Century Gothic',sans-serif
 }
 
 .static-container.help section.questions .responses .response .answer li {
