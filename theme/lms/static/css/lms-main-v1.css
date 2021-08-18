@@ -9420,7 +9420,7 @@ body.error h1 {
 }
 
 .u-field .message-error {
-    color: #d44040
+    color: #D90429
 }
 
 .u-field .message-validation-error {
@@ -17649,7 +17649,7 @@ section.outside-app li {
 }
 
 .wrapper-account-settings .ui-loading-indicator .message-error,.wrapper-account-settings .ui-loading-error .message-error {
-    color: #d44040
+    color: #D90429
 }
 
 .wrapper-account-settings .wrapper-header {
@@ -17739,7 +17739,7 @@ section.outside-app li {
 }
 
 .account-settings-sections .section .account-settings-header-subtitle-warning {
-    color: #d44040
+    color: #D90429
 }
 
 .account-settings-sections .section .account-settings-section-body .u-field {
@@ -22840,7 +22840,7 @@ body.open-modal {
 }
 
 .contact-us-wrapper .has-error label {
-    color: #d44040
+    color: #D90429
 }
 
 @media only screen and (min-width: 768px) {
@@ -24880,7 +24880,7 @@ a:not(.btn):disabled,a.is-disabled:not(.btn),a.disabled:not(.btn),a:visited:not(
 }
 
 .wrapper-msg.alert {
-    border-top: 3px solid #d44040
+    border-top: 3px solid #D90429
 }
 
 .wrapper-msg.error {

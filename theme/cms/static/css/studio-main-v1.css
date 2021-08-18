@@ -153,14 +153,14 @@ abbr[title]{
     transition:all 0.15s;
     text-align:center;
     border-radius:5px;
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     padding:1px 10px 2px 10px;
     background-color:#fff;
-    color:#0075b4
+    color:#219EBC
 }
 .wrapper-comp-settings .file-uploader .upload-setting:hover,.wrapper-comp-settings .list-input.settings-list .metadata-list-enum .create-setting:hover,.wrapper-comp-settings .list-input.settings-list .metadata-dict .create-setting:hover,.outline-content .add-item .button-new:hover,.bit .external-help-button:hover,.view-outline .new-subsection-item:hover,.view-outline .new-unit-item:hover,.view-outline .outline-complex .outline-subsection .subsection-header-actions .actions-list .proctoring-configuration-button:hover,.view-outline .outline-complex .add-item .button-new:hover,.view-settings .group-settings #field-course-image .wrapper-input .action-upload-image:hover,.view-settings .group-settings #field-banner-image .wrapper-input .action-upload-image:hover,.view-settings .group-settings #field-video-thumbnail-image .wrapper-input .action-upload-image:hover,.view-settings .group-settings.instructor-types .field-group .wrapper-input .action-upload-instructor-image:hover,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field-group .field .action-upload:hover,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field-group .field .action-upload:hover,.view-textbooks .content-primary .textbook .edit-textbook .action-add-chapter:hover,.view-group-configurations .content-primary .wrapper-collection .action-add-item:hover,.view-group-configurations .content-primary .action-add:hover,.view-certificates .wrapper-collection .collection-edit .action-add-signatory:hover,.view-certificates .wrapper-collection .action-add-item:hover,.view-certificates .action-add:hover,.view-certificates .certificates .signatory-edit .field .signature-upload-wrapper .action-upload-signature:hover,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .create-setting:hover,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .upload-setting:hover,.wrapper-comp-settings .file-uploader .upload-setting:focus,.wrapper-comp-settings .list-input.settings-list .metadata-list-enum .create-setting:focus,.wrapper-comp-settings .list-input.settings-list .metadata-dict .create-setting:focus,.outline-content .add-item .button-new:focus,.bit .external-help-button:focus,.view-outline .new-subsection-item:focus,.view-outline .new-unit-item:focus,.view-outline .outline-complex .outline-subsection .subsection-header-actions .actions-list .proctoring-configuration-button:focus,.view-outline .outline-complex .add-item .button-new:focus,.view-settings .group-settings #field-course-image .wrapper-input .action-upload-image:focus,.view-settings .group-settings #field-banner-image .wrapper-input .action-upload-image:focus,.view-settings .group-settings #field-video-thumbnail-image .wrapper-input .action-upload-image:focus,.view-settings .group-settings.instructor-types .field-group .wrapper-input .action-upload-instructor-image:focus,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field-group .field .action-upload:focus,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field-group .field .action-upload:focus,.view-textbooks .content-primary .textbook .edit-textbook .action-add-chapter:focus,.view-group-configurations .content-primary .wrapper-collection .action-add-item:focus,.view-group-configurations .content-primary .action-add:focus,.view-certificates .wrapper-collection .collection-edit .action-add-signatory:focus,.view-certificates .wrapper-collection .action-add-item:focus,.view-certificates .action-add:focus,.view-certificates .certificates .signatory-edit .field .signature-upload-wrapper .action-upload-signature:focus,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .create-setting:focus,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .upload-setting:focus{
-    border:1px solid #065683;
-    background-color:#065683;
+    border:1px solid #219EBC;
+    background-color:#219EBC;
     color:#fff
 }
 .wrapper-comp-settings .file-uploader .is-disabled.upload-setting,.wrapper-comp-settings .list-input.settings-list .metadata-list-enum .is-disabled.create-setting,.wrapper-comp-settings .list-input.settings-list .metadata-dict .is-disabled.create-setting,.outline-content .add-item .is-disabled.button-new,.bit .is-disabled.external-help-button,.view-outline .is-disabled.new-subsection-item,.view-outline .is-disabled.new-unit-item,.view-outline .outline-complex .outline-subsection .subsection-header-actions .actions-list .is-disabled.proctoring-configuration-button,.view-outline .outline-complex .add-item .is-disabled.button-new,.view-settings .group-settings #field-course-image .wrapper-input .is-disabled.action-upload-image,.view-settings .group-settings #field-banner-image .wrapper-input .is-disabled.action-upload-image,.view-settings .group-settings #field-video-thumbnail-image .wrapper-input .is-disabled.action-upload-image,.view-settings .group-settings.instructor-types .field-group .wrapper-input .is-disabled.action-upload-instructor-image,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field-group .field .is-disabled.action-upload,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field-group .field .is-disabled.action-upload,.view-textbooks .content-primary .textbook .edit-textbook .is-disabled.action-add-chapter,.view-group-configurations .content-primary .wrapper-collection .is-disabled.action-add-item,.view-group-configurations .content-primary .is-disabled.action-add,.view-certificates .wrapper-collection .collection-edit .is-disabled.action-add-signatory,.view-certificates .wrapper-collection .is-disabled.action-add-item,.view-certificates .is-disabled.action-add,.view-certificates .certificates .signatory-edit .field .signature-upload-wrapper .is-disabled.action-upload-signature,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .is-disabled.create-setting,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .is-disabled.upload-setting,.wrapper-comp-settings .file-uploader [disabled="disabled"].upload-setting,.wrapper-comp-settings .list-input.settings-list .metadata-list-enum [disabled="disabled"].create-setting,.wrapper-comp-settings .list-input.settings-list .metadata-dict [disabled="disabled"].create-setting,.outline-content .add-item [disabled="disabled"].button-new,.bit [disabled="disabled"].external-help-button,.view-outline [disabled="disabled"].new-subsection-item,.view-outline [disabled="disabled"].new-unit-item,.view-outline .outline-complex .outline-subsection .subsection-header-actions .actions-list [disabled="disabled"].proctoring-configuration-button,.view-outline .outline-complex .add-item [disabled="disabled"].button-new,.view-settings .group-settings #field-course-image .wrapper-input [disabled="disabled"].action-upload-image,.view-settings .group-settings #field-banner-image .wrapper-input [disabled="disabled"].action-upload-image,.view-settings .group-settings #field-video-thumbnail-image .wrapper-input [disabled="disabled"].action-upload-image,.view-settings .group-settings.instructor-types .field-group .wrapper-input [disabled="disabled"].action-upload-instructor-image,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field-group .field [disabled="disabled"].action-upload,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field-group .field [disabled="disabled"].action-upload,.view-textbooks .content-primary .textbook .edit-textbook [disabled="disabled"].action-add-chapter,.view-group-configurations .content-primary .wrapper-collection [disabled="disabled"].action-add-item,.view-group-configurations .content-primary [disabled="disabled"].action-add,.view-certificates .wrapper-collection .collection-edit [disabled="disabled"].action-add-signatory,.view-certificates .wrapper-collection [disabled="disabled"].action-add-item,.view-certificates [disabled="disabled"].action-add,.view-certificates .certificates .signatory-edit .field .signature-upload-wrapper [disabled="disabled"].action-upload-signature,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations [disabled="disabled"].create-setting,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations [disabled="disabled"].upload-setting{
@@ -175,16 +175,17 @@ abbr[title]{
     display:inline-block;
     vertical-align:middle;
     border:none;
-    padding:3px 10px;
+    border-radius:5px;
+    padding:5px 10px 0px;
     background:none;
     color:#999
 }
 .incontext-editor.is-editable .incontext-editor-open-action:hover,.incontext-editor.is-editable .access-button:hover,.view-group-configurations .content-primary .wrapper-collection .collection-details .actions .action .edit:hover,.view-certificates .wrapper-collection .collection-details .actions .action .edit:hover,.view-certificates .wrapper-collection .collection-details .actions .action .edit-signatory:hover,.wrapper-comp-settings .file-uploader .download-setting:hover,.view-team .user-list .user-item .item-actions .delete:hover,.view-textbooks .content-primary .textbook .view-textbook .actions .action .delete:hover,.view-group-configurations .content-primary .wrapper-collection .collection-details .actions .action .delete:hover,.view-video-uploads .button:hover,.view-certificates .wrapper-collection .collection-details .actions .action .delete:hover,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .download-setting:hover,.incontext-editor.is-editable .incontext-editor-open-action:focus,.incontext-editor.is-editable .access-button:focus,.view-group-configurations .content-primary .wrapper-collection .collection-details .actions .action .edit:focus,.view-certificates .wrapper-collection .collection-details .actions .action .edit:focus,.view-certificates .wrapper-collection .collection-details .actions .action .edit-signatory:focus,.wrapper-comp-settings .file-uploader .download-setting:focus,.view-team .user-list .user-item .item-actions .delete:focus,.view-textbooks .content-primary .textbook .view-textbook .actions .action .delete:focus,.view-group-configurations .content-primary .wrapper-collection .collection-details .actions .action .delete:focus,.view-video-uploads .button:focus,.view-certificates .wrapper-collection .collection-details .actions .action .delete:focus,.xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .download-setting:focus{
-    background-color:#999;
+    background-color:#7CB518;
     color:#fff
 }
 .incontext-editor.is-editable .incontext-editor-open-action:hover,.incontext-editor.is-editable .access-button:hover,.view-group-configurations .content-primary .wrapper-collection .collection-details .actions .action .edit:hover,.view-certificates .wrapper-collection .collection-details .actions .action .edit:hover,.view-certificates .wrapper-collection .collection-details .actions .action .edit-signatory:hover,.incontext-editor.is-editable .incontext-editor-open-action:focus,.incontext-editor.is-editable .access-button:focus,.view-group-configurations .content-primary .wrapper-collection .collection-details .actions .action .edit:focus,.view-certificates .wrapper-collection .collection-details .actions .action .edit:focus,.view-certificates .wrapper-collection .collection-details .actions .action .edit-signatory:focus{
-    background-color:#0075b4;
+    background-color:#7CB518;
     color:#fff
 }
 [class*="view-"] .xblock-visibility_view .is-not-configured,.view-outline .content-primary .no-content,.view-static-pages .content-primary .add-pages,.view-container .content-primary .no-container-content,.view-textbooks .content-primary .no-textbook-content,.view-group-configurations .content-primary .no-content,.view-certificates .content-primary .no-content,.ui-loading,.notice-incontext,.view-uploads .no-asset-content,.view-import .wrapper-file-name,.view-group-configurations .content-primary .notice-moduledisabled,.view-certificates .content-primary .notice-moduledisabled{
@@ -1322,7 +1323,7 @@ p:last-child,ul:last-child,ol:last-child,dl:last-child{
 }
 .content-modal .action-modal-close:hover,.content-modal .action-modal-close:active{
     top:0;
-    background:#0075b4
+    background:#219EBC
 }
 .content-modal img{
     box-sizing:border-box;
@@ -1548,13 +1549,13 @@ body.error .description{
     padding:5px 10px 6.66667px 10px
 }
 .wrapper-mast .mast.has-actions .nav-actions .button,.wrapper-sock .sock .support .list-actions .action-primary,.wrapper-sock .sock .feedback .list-actions .action-primary,.notice-incontext.has-actions .list-actions .action-primary,.notice-instruction.has-actions .list-actions .action-primary,.view-dashboard .status-creationrights .list-actions .action-primary,.view-dashboard .status-creationrights .form-actions .action-primary,.view-export .export-controls .action-export,.view-export .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .action-primary,.view-import .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .action-primary,.view-outline .course-status .status-highlights-enabled-value.button,.view-settings .group-settings.basic .note-promotion-courseURL .list-actions .action-primary,.view-container .content-supplementary .bit-publishing .wrapper-pub-actions .action-publish,.view-export-git .export-git-controls .action-export-git,.view-group-configurations .content-primary .wrapper-collection .collection-edit .actions .action-primary,.view-video-uploads .course-video-settings-container .button,.view-certificates .wrapper-collection .collection-edit .actions .action-primary,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .action{
-    background:#0075b4;
-    border-color:#0075b4;
+    background:#FBB02D;
+    border-color:#FBB02D;
     color:#fff
 }
 .wrapper-mast .mast.has-actions .nav-actions .button:hover,.wrapper-sock .sock .support .list-actions .action-primary:hover,.wrapper-sock .sock .feedback .list-actions .action-primary:hover,.notice-incontext.has-actions .list-actions .action-primary:hover,.notice-instruction.has-actions .list-actions .action-primary:hover,.view-dashboard .status-creationrights .list-actions .action-primary:hover,.view-dashboard .status-creationrights .form-actions .action-primary:hover,.view-export .export-controls .action-export:hover,.view-export .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .action-primary:hover,.view-import .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .action-primary:hover,.view-outline .course-status .status-highlights-enabled-value.button:hover,.view-settings .group-settings.basic .note-promotion-courseURL .list-actions .action-primary:hover,.view-container .content-supplementary .bit-publishing .wrapper-pub-actions .action-publish:hover,.view-export-git .export-git-controls .action-export-git:hover,.view-group-configurations .content-primary .wrapper-collection .collection-edit .actions .action-primary:hover,.view-video-uploads .course-video-settings-container .button:hover,.view-certificates .wrapper-collection .collection-edit .actions .action-primary:hover,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .action:hover,.wrapper-mast .mast.has-actions .nav-actions .button:active,.wrapper-sock .sock .support .list-actions .action-primary:active,.wrapper-sock .sock .feedback .list-actions .action-primary:active,.notice-incontext.has-actions .list-actions .action-primary:active,.notice-instruction.has-actions .list-actions .action-primary:active,.view-dashboard .status-creationrights .list-actions .action-primary:active,.view-dashboard .status-creationrights .form-actions .action-primary:active,.view-export .export-controls .action-export:active,.view-export .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .action-primary:active,.view-import .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .action-primary:active,.view-outline .course-status .status-highlights-enabled-value.button:active,.view-settings .group-settings.basic .note-promotion-courseURL .list-actions .action-primary:active,.view-container .content-supplementary .bit-publishing .wrapper-pub-actions .action-publish:active,.view-export-git .export-git-controls .action-export-git:active,.view-group-configurations .content-primary .wrapper-collection .collection-edit .actions .action-primary:active,.view-video-uploads .course-video-settings-container .button:active,.view-certificates .wrapper-collection .collection-edit .actions .action-primary:active,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .action:active{
-    background:#065683;
-    border-color:#065683
+    background:#DC8D04;
+    border-color:#DC8D04
 }
 .wrapper-mast .mast.has-actions .nav-actions .current.button,.wrapper-sock .sock .support .list-actions .current.action-primary,.wrapper-sock .sock .feedback .list-actions .current.action-primary,.notice-incontext.has-actions .list-actions .current.action-primary,.notice-instruction.has-actions .list-actions .current.action-primary,.view-dashboard .status-creationrights .list-actions .current.action-primary,.view-dashboard .status-creationrights .form-actions .current.action-primary,.view-export .export-controls .current.action-export,.view-export .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .current.action-primary,.view-import .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .current.action-primary,.view-outline .course-status .current.status-highlights-enabled-value.button,.view-settings .group-settings.basic .note-promotion-courseURL .list-actions .current.action-primary,.view-container .content-supplementary .bit-publishing .wrapper-pub-actions .current.action-publish,.view-export-git .export-git-controls .current.action-export-git,.view-group-configurations .content-primary .wrapper-collection .collection-edit .actions .current.action-primary,.view-video-uploads .course-video-settings-container .current.button,.view-certificates .wrapper-collection .collection-edit .actions .current.action-primary,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .current.action,.wrapper-mast .mast.has-actions .nav-actions .active.button,.wrapper-sock .sock .support .list-actions .active.action-primary,.wrapper-sock .sock .feedback .list-actions .active.action-primary,.notice-incontext.has-actions .list-actions .active.action-primary,.notice-instruction.has-actions .list-actions .active.action-primary,.view-dashboard .status-creationrights .list-actions .active.action-primary,.view-dashboard .status-creationrights .form-actions .active.action-primary,.view-export .export-controls .active.action-export,.view-export .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .active.action-primary,.view-import .wrapper-status .list-progress .item-progresspoint.has-actions .list-actions .active.action-primary,.view-outline .course-status .active.status-highlights-enabled-value.button,.view-settings .group-settings.basic .note-promotion-courseURL .list-actions .active.action-primary,.view-container .content-supplementary .bit-publishing .wrapper-pub-actions .active.action-publish,.view-export-git .export-git-controls .active.action-export-git,.view-group-configurations .content-primary .wrapper-collection .collection-edit .actions .active.action-primary,.view-video-uploads .course-video-settings-container .active.button,.view-certificates .wrapper-collection .collection-edit .actions .active.action-primary,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .active.action{
     background:#065683;
@@ -1664,7 +1665,7 @@ body.error .description{
     color:#666
 }
 .wrapper-xblock .wrapper-xblock .header-actions .actions-list .action-item .action-button:hover,.wrapper-xblock .wrapper-xblock-message .xblock-message-actions .actions-list .action-item .action-button:hover,.wrapper-message .message-actions .actions-list .action-item .action-button:hover,[class*="view-"] .modal-window .modal-section-content .list-actions .action-item .action-button:hover,.view-uploads .actions-list .action-item .action-button:hover,.view-outline .course-status .status-actions .action-item .action-button:hover,.view-outline .outline-complex .outline-section .section-header-actions .actions-list .action-item .action-button:hover,.view-outline .outline-complex .outline-subsection .subsection-header-actions .actions-list .action-item .action-button:hover,.view-outline .outline-complex .outline-unit .unit-header-actions .actions-list .action-item .action-button:hover,.view-video-uploads .assets-library .actions-list .action-item .action-button:hover{
-    background-color:#0075b4;
+    background-color:#457B9D;
     color:#f9f9f9
 }
 .wrapper-xblock .wrapper-xblock .header-actions .actions-list .action-item .action-button .action-button-text,.wrapper-xblock .wrapper-xblock-message .xblock-message-actions .actions-list .action-item .action-button .action-button-text,.wrapper-message .message-actions .actions-list .action-item .action-button .action-button-text,[class*="view-"] .modal-window .modal-section-content .list-actions .action-item .action-button .action-button-text,.view-uploads .actions-list .action-item .action-button .action-button-text,.view-outline .course-status .status-actions .action-item .action-button .action-button-text,.view-outline .outline-complex .outline-section .section-header-actions .actions-list .action-item .action-button .action-button-text,.view-outline .outline-complex .outline-subsection .subsection-header-actions .actions-list .action-item .action-button .action-button-text,.view-outline .outline-complex .outline-unit .unit-header-actions .actions-list .action-item .action-button .action-button-text,.view-video-uploads .assets-library .actions-list .action-item .action-button .action-button-text{
@@ -1672,7 +1673,7 @@ body.error .description{
     text-transform:uppercase
 }
 .wrapper-xblock .wrapper-xblock .header-actions .actions-list .action-item .action-button.delete-button:hover,.wrapper-xblock .wrapper-xblock-message .xblock-message-actions .actions-list .action-item .action-button.delete-button:hover,.wrapper-message .message-actions .actions-list .action-item .action-button.delete-button:hover,[class*="view-"] .modal-window .modal-section-content .list-actions .action-item .action-button.delete-button:hover,.view-uploads .actions-list .action-item .action-button.delete-button:hover,.view-outline .course-status .status-actions .action-item .action-button.delete-button:hover,.view-outline .outline-complex .outline-section .section-header-actions .actions-list .action-item .action-button.delete-button:hover,.view-outline .outline-complex .outline-subsection .subsection-header-actions .actions-list .action-item .action-button.delete-button:hover,.view-outline .outline-complex .outline-unit .unit-header-actions .actions-list .action-item .action-button.delete-button:hover,.view-video-uploads .assets-library .actions-list .action-item .action-button.delete-button:hover{
-    background-color:#999
+    background-color:#D90429
 }
 .wrapper-xblock .wrapper-xblock .header-actions .actions-list .action-item .action-button .icon,.wrapper-xblock .wrapper-xblock-message .xblock-message-actions .actions-list .action-item .action-button .icon,.wrapper-message .message-actions .actions-list .action-item .action-button .icon,[class*="view-"] .modal-window .modal-section-content .list-actions .action-item .action-button .icon,.view-uploads .actions-list .action-item .action-button .icon,.view-outline .course-status .status-actions .action-item .action-button .icon,.view-outline .outline-complex .outline-section .section-header-actions .actions-list .action-item .action-button .icon,.view-outline .outline-complex .outline-subsection .subsection-header-actions .actions-list .action-item .action-button .icon,.view-outline .outline-complex .outline-unit .unit-header-actions .actions-list .action-item .action-button .icon,.view-video-uploads .assets-library .actions-list .action-item .action-button .icon{
     font-style:normal
@@ -1701,7 +1702,7 @@ body.error .description{
     vertical-align:top
 }
 .wrapper-xblock .wrapper-xblock.is-collapsible .expand-collapse:hover,.wrapper-xblock .wrapper-xblock.xblock-type-container .expand-collapse:hover,.view-outline .expand-collapse:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .wrapper-xblock .wrapper-xblock.is-collapsible .expand-collapse .ui-toggle-expansion,.wrapper-xblock .wrapper-xblock.xblock-type-container .expand-collapse .ui-toggle-expansion,.view-outline .expand-collapse .ui-toggle-expansion{
     transition:all 0.25s ease-in-out 0s;
@@ -1726,7 +1727,7 @@ body.error .description{
     transition:all 0.25s ease-in-out 0s
 }
 .view-outline .outline-complex .outline-section.is-collapsible .ui-toggle-expansion:hover,.view-outline .outline-complex .outline-subsection.is-collapsible .ui-toggle-expansion:hover,.view-outline .outline-complex .outline-section.is-collapsible .ui-toggle-expansion:active,.view-outline .outline-complex .outline-subsection.is-collapsible .ui-toggle-expansion:active{
-    color:#0075b4
+    color:#7CB518
 }
 .view-outline .outline-complex .is-collapsed.outline-section.is-collapsible .ui-toggle-expansion .icon,.view-outline .outline-complex .is-collapsed.outline-subsection.is-collapsible .ui-toggle-expansion .icon{
     transform:rotate(-90deg);
@@ -1767,7 +1768,7 @@ body.error .description{
     border:1px solid #333
 }
 .is-dragging.valid-drop{
-    border-color:#0075b4;
+    border-color:#219EBC;
     box-shadow:0 1px 2px 0 rgba(0,117,180,0.5)
 }
 .was-dragging{
@@ -1787,7 +1788,7 @@ body.error .description{
 }
 .was-dropped{
     animation:was-dropped 0.75s ease-in-out 1;
-    border-color:#0075b4;
+    border-color:#219EBC;
     box-shadow:0 1px 2px 0 rgba(0,117,180,0.5)
 }
 .wrapper-xblock .container-paging-header .pagination,.wrapper-xblock .container-paging-footer .pagination,.wrapper-assets .assets-library .pagination{
@@ -1825,7 +1826,7 @@ body.error .description{
     margin-left:10px
 }
 .wrapper-xblock .container-paging-header .pagination .nav-link:hover,.wrapper-xblock .container-paging-footer .pagination .nav-link:hover,.wrapper-assets .assets-library .pagination .nav-link:hover{
-    background-color:#0075b4;
+    background-color:#219EBC;
     border-radius:3px;
     color:#fff
 }
@@ -1954,7 +1955,7 @@ body.error .description{
     color:#999
 }
 .wrapper-xblock .xblock-header-secondary .actions-list .action-item .action-button:hover{
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#f9f9f9
 }
 .wrapper-xblock .xblock-header-secondary .actions-list .action-item .action-button .action-button-text{
@@ -2056,11 +2057,11 @@ body.error .description{
     color:#fd7e14
 }
 .wrapper-xblock .wrapper-xblock-message .xblock-message.validation.has-errors{
-    border-top:3px solid #d16a70
+    border-top:3px solid #D90429
 }
 .wrapper-xblock .wrapper-xblock-message .xblock-message.validation.has-errors .fa-exclamation-circle{
     margin-right:10px;
-    color:#d16a70
+    color:#D90429
 }
 .wrapper-xblock .wrapper-xblock-message .xblock-message-list{
     margin-bottom:0
@@ -2132,7 +2133,7 @@ body.error .description{
     box-shadow:none
 }
 .wrapper-xblock.level-element:hover{
-    border-color:#0075b4
+    border-color:#219EBC
 }
 .wrapper-xblock.level-element .xblock-header{
     display:block
@@ -2212,10 +2213,10 @@ body.error .description{
     padding:10px;
     width:49%;
     text-align:center;
-    color:#0075b4
+    color:#219EBC
 }
 .wrapper-comp-settings .file-uploader .download-setting:hover{
-    background-color:#0075b4
+    background-color:#219EBC
 }
 .wrapper-comp-settings .file-uploader .wrapper-uploader-actions{
     width:45%;
@@ -2274,7 +2275,7 @@ body.error .description{
     margin-right:10px
 }
 .wrapper-comp-settings .list-input.settings-list .setting-label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 .wrapper-comp-settings .list-input.settings-list input,.wrapper-comp-settings .list-input.settings-list select,.wrapper-comp-settings .list-input.settings-list input[type="number"]{
     height:100%;
@@ -2331,8 +2332,8 @@ body.error .description{
 .wrapper-comp-settings .list-input.settings-list .action.setting-clear:hover{
     box-shadow:0 1px 1px rgba(0,0,0,0.2);
     transition:opacity 0.25s ease-in-out 0s;
-    background-color:#0075b4;
-    border:1px solid #0075b4;
+    background-color:#219EBC;
+    border:1px solid #219EBC;
     color:#fff
 }
 .wrapper-comp-settings .list-input.settings-list .action.setting-clear.inactive{
@@ -2390,7 +2391,7 @@ body.error .description{
     color:#BEEC6F
 }
 .wrapper-comp-settings .list-input.settings-list .metadata-list-enum .remove-setting:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .wrapper-comp-settings .list-input.settings-list .metadata-dict *{
     box-sizing:border-box
@@ -2438,7 +2439,7 @@ body.error .description{
     color:#BEEC6F
 }
 .wrapper-comp-settings .list-input.settings-list .metadata-dict .remove-setting:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .wrapper-comp-plugins{
     display:none
@@ -2517,9 +2518,9 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff
 }
 .wrapper-license .license-types .action.license-button.is-selected.disabled,.wrapper-license .license-types .action.license-button.is-selected.is-disabled{
@@ -2615,13 +2616,13 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     color:#4c4c4c
 }
 .view-container .content-supplementary .bit-publishing.is-live{
-    border-top:5px solid #0075b4
+    border-top:5px solid #219EBC
 }
 .view-container .content-supplementary .bit-publishing.is-live .bar-mod-title{
     background-color:rgba(0,117,180,0.125)
 }
 .view-container .content-supplementary .bit-publishing.is-ready{
-    border-top:5px solid #008100
+    border-top:5px solid #7CB518
 }
 .view-container .content-supplementary .bit-publishing.is-ready .bar-mod-title{
     background-color:#e6f2e6
@@ -2633,7 +2634,7 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     background-color:#fff2e8
 }
 .view-container .content-supplementary .bit-publishing.has-errors{
-    border-top:5px solid #d16a70
+    border-top:5px solid #D90429
 }
 .view-container .content-supplementary .bit-publishing.has-errors .bar-mod-title{
     background-color:#f7e6e7
@@ -2657,7 +2658,7 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
 }
 .add-xblock-component .new-component h5{
     margin-bottom:15px;
-    color:#008100
+    color:#7CB518
 }
 .add-xblock-component .new-component .new-component-type:after{
     content:"";
@@ -2747,7 +2748,7 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     padding-right:10px
 }
 .add-xblock-component .new-component-templates .support-documentation .support-documentation-link{
-    color:#0075b4;
+    color:#219EBC;
     text-decoration:none;
     padding-right:10px
 }
@@ -2886,10 +2887,10 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     color:#000
 }
 .outline-complex .has-warnings.outline-section>.section-status .status-message .icon,.outline-complex .has-warnings.outline-subsection>.section-status .status-message .icon,.outline-complex .has-warnings.outline-unit>.section-status .status-message .icon,.outline-complex .has-warnings.outline-section>.subsection-status .status-message .icon,.outline-complex .has-warnings.outline-subsection>.subsection-status .status-message .icon,.outline-complex .has-warnings.outline-unit>.subsection-status .status-message .icon,.outline-complex .has-warnings.outline-section>.unit-status .status-message .icon,.outline-complex .has-warnings.outline-subsection>.unit-status .status-message .icon,.outline-complex .has-warnings.outline-unit>.unit-status .status-message .icon{
-    color:#feb272
+    color:#FB6107
 }
 .outline-complex .has-errors.outline-section>.section-status .status-message,.outline-complex .has-errors.outline-subsection>.section-status .status-message,.outline-complex .has-errors.outline-unit>.section-status .status-message,.outline-complex .has-errors.outline-section>.subsection-status .status-message,.outline-complex .has-errors.outline-subsection>.subsection-status .status-message,.outline-complex .has-errors.outline-unit>.subsection-status .status-message,.outline-complex .has-errors.outline-section>.unit-status .status-message,.outline-complex .has-errors.outline-subsection>.unit-status .status-message,.outline-complex .has-errors.outline-unit>.unit-status .status-message,.outline-complex .has-errors.outline-section>.section-status .status-message-copy,.outline-complex .has-errors.outline-subsection>.section-status .status-message-copy,.outline-complex .has-errors.outline-unit>.section-status .status-message-copy,.outline-complex .has-errors.outline-section>.subsection-status .status-message-copy,.outline-complex .has-errors.outline-subsection>.subsection-status .status-message-copy,.outline-complex .has-errors.outline-unit>.subsection-status .status-message-copy,.outline-complex .has-errors.outline-section>.unit-status .status-message-copy,.outline-complex .has-errors.outline-subsection>.unit-status .status-message-copy,.outline-complex .has-errors.outline-unit>.unit-status .status-message-copy{
-    color:#d16a70
+    color:#D90429
 }
 .outline-simple .outline-section,.outline-simple .outline-subsection,.outline-simple .outline-unit{
     border:1px solid #e5e5e5
@@ -2901,7 +2902,7 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     color:#4c4c4c
 }
 .outline-simple .outline-section .item-title a:hover,.outline-simple .outline-subsection .item-title a:hover,.outline-simple .outline-unit .item-title a:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .outline-complex .outline-section{
     transition:border-left-width 0.25s linear 0s,border-left-color 0.25s linear 0s,padding-left 0.25s linear 0s;
@@ -2914,10 +2915,10 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     padding-left:20px
 }
 .outline-complex .outline-section.is-collapsed.is-ready{
-    border-left-color:#008100
+    border-left-color:#7CB518
 }
 .outline-complex .outline-section.is-collapsed.is-live{
-    border-left-color:#0075b4
+    border-left-color:#219EBC
 }
 .outline-complex .outline-section.is-collapsed.is-staff-only{
     border-left-color:#000
@@ -2929,7 +2930,7 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     border-left-color:#feb272
 }
 .outline-complex .outline-section.is-collapsed.has-errors{
-    border-left-color:#d16a70
+    border-left-color:#D90429
 }
 .outline-complex .outline-section .section-title{
     color:#4c4c4c
@@ -2963,10 +2964,10 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     padding:15px
 }
 .outline-complex .outline-subsection.is-ready{
-    border-left-color:#008100
+    border-left-color:#7CB518
 }
 .outline-complex .outline-subsection.is-live{
-    border-left-color:#0075b4
+    border-left-color:#219EBC
 }
 .outline-complex .outline-subsection.is-staff-only{
     border-left-color:#000
@@ -2975,10 +2976,10 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     border-left-color:#000
 }
 .outline-complex .outline-subsection.has-warnings{
-    border-left-color:#feb272
+    border-left-color:#FB6107
 }
 .outline-complex .outline-subsection.has-errors{
-    border-left-color:#d16a70
+    border-left-color:#D90429
 }
 .outline-complex .outline-subsection:hover,.outline-complex .outline-subsection:active{
     box-shadow:0 1px 1px rgba(0,0,0,0.05)
@@ -3207,7 +3208,7 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     margin-bottom:5px
 }
 .jump-nav .nav-item .title:hover,.jump-nav .nav-item .title:active{
-    color:#0075b4
+    color:#219EBC
 }
 .jump-nav .nav-item .spacer{
     margin-right:20px;
@@ -3419,7 +3420,7 @@ body.touch-based-device .sequence-nav ol li button:hover p{
 }
 .sequence-nav-button.focused,.sequence-nav-button:hover,.sequence-nav-button:active,.sequence-nav-button.active,.sequence-nav button.focused,.sequence-nav button:hover,.sequence-nav button:active,.sequence-nav button.active{
     padding-top:2px;
-    background-color:#0075b4
+    background-color:#219EBC
 }
 .sequence-nav-button.focused .icon,.sequence-nav-button:hover .icon,.sequence-nav-button:active .icon,.sequence-nav-button.active .icon,.sequence-nav button.focused .icon,.sequence-nav button:hover .icon,.sequence-nav button:active .icon,.sequence-nav button.active .icon{
     color:#fff
@@ -3517,7 +3518,7 @@ body.touch-based-device .sequence-nav ol li button:hover p{
     color:#7f7f7f
 }
 .wrapper-mast .mast.has-navigation .navigation-link:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .wrapper-mast .mast.has-navigation .navigation-item::before{
     content:" / ";
@@ -3653,7 +3654,7 @@ form .field-checkbox .input-checkbox ~ label,form .field-radio .input-radio ~ la
     color:#4c4c4c
 }
 form .field-checkbox .input-checkbox:checked ~ label,form .field-radio .input-radio:checked ~ label{
-    color:#0075b4
+    color:#219EBC
 }
 input[type="text"],input[type="email"],input[type="password"],textarea.text{
     box-sizing:border-box;
@@ -3680,7 +3681,7 @@ input[type="text"]:focus,input[type="email"]:focus,input[type="password"]:focus,
     pointer-events:none
 }
 .field.error input,.field.error textarea{
-    border-color:#b20610
+    border-color:#D90429
 }
 form .checkbox-cosmetic .input-checkbox-checked,form .checkbox-cosmetic .input-checkbox-unchecked,form .checkbox-cosmetic .label{
     display:inline-block;
@@ -3733,7 +3734,7 @@ form .note.has-actions:after{
     margin:0 0 5px 0
 }
 .form-create .list-input .field label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 .form-create .list-input .field input,.form-create .list-input .field textarea{
     transition:all 0.25s ease-in-out 0s;
@@ -3777,14 +3778,14 @@ form .note.has-actions:after{
     float:none
 }
 .form-create .list-input .field.error label{
-    color:#b20610
+    color:#D90429
 }
 .form-create .list-input .field.error .tip-error{
     display:block;
-    color:#b20610
+    color:#D90429
 }
 .form-create .list-input .field.error input{
-    border-color:#b20610
+    border-color:#D90429
 }
 .form-create .list-input .field-inline input,.form-create .list-input .field-inline textarea,.form-create .list-input .field-inline select{
     width:62%;
@@ -3844,9 +3845,9 @@ form .note.has-actions:after{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff
 }
 .form-create .actions .action-primary.disabled,.form-create .actions .action-primary.is-disabled{
@@ -3917,7 +3918,7 @@ form .note.has-actions:after{
     padding-top:2px
 }
 .incontext-editor.is-editable .incontext-editor-open-action .icon.icon,.incontext-editor.is-editable .access-button .icon.icon{
-    vertical-align:baseline
+    vertical-align:top
 }
 .incontext-editor.is-editable .incontext-editor-form{
     display:none
@@ -4247,10 +4248,10 @@ code{
     color:#5c677a
 }
 .nav-item.is-current,body.howitworks .nav-not-signedin-hiw,body.dashboard .nav-account-dashboard,body.course.view-outline .nav-course-courseware .title,body.course.view-updates .nav-course-courseware .title,body.course.view-static-pages .nav-course-courseware .title,body.course.view-uploads .nav-course-courseware .title,body.course.view-textbooks .nav-course-courseware .title,body.course.view-video-uploads .nav-course-courseware .title,body.course.view-outline .nav-course-courseware-outline,body.course.view-updates .nav-course-courseware-updates,body.course.view-static-pages .nav-course-courseware-pages,body.course.view-uploads .nav-course-courseware-uploads,body.course.view-textbooks .nav-course-courseware-textbooks,body.course.view-video-uploads .nav-course-courseware-videos,body.course.schedule .nav-course-settings .title,body.course.grading .nav-course-settings .title,body.course.view-team .nav-course-settings .title,body.course.view-group-configurations .nav-course-settings .title,body.course.advanced .nav-course-settings .title,body.course.view-certificates .nav-course-settings .title,body.course.schedule .nav-course-settings-schedule,body.course.grading .nav-course-settings-grading,body.course.view-team .nav-course-settings-team,body.course.view-group-configurations .nav-course-settings-group-configurations,body.course.advanced .nav-course-settings-advanced,body.course.view-certificates .nav-course-settings-certificates,body.course.view-import .nav-course-tools .title,body.course.view-export .nav-course-tools .title,body.course.view-export-git .nav-course-tools .title,body.course.view-import .nav-course-tools-import,body.course.view-export .nav-course-tools-export,body.course.view-export-git .nav-course-tools-export-git,body.course.view-team .nav-library-settings .title,body.course.view-team .nav-library-settings-team,body.course.view-checklists .nav-course-tools .title,body.course.view-checklists .nav-course-tools-checklists{
-    color:#0075b4
+    color:#219EBC
 }
 .nav-item.is-current a,body.howitworks .nav-not-signedin-hiw a,body.dashboard .nav-account-dashboard a,body.course.view-outline .nav-course-courseware .title a,body.course.view-updates .nav-course-courseware .title a,body.course.view-static-pages .nav-course-courseware .title a,body.course.view-uploads .nav-course-courseware .title a,body.course.view-textbooks .nav-course-courseware .title a,body.course.view-video-uploads .nav-course-courseware .title a,body.course.view-outline .nav-course-courseware-outline a,body.course.view-updates .nav-course-courseware-updates a,body.course.view-static-pages .nav-course-courseware-pages a,body.course.view-uploads .nav-course-courseware-uploads a,body.course.view-textbooks .nav-course-courseware-textbooks a,body.course.view-video-uploads .nav-course-courseware-videos a,body.course.schedule .nav-course-settings .title a,body.course.grading .nav-course-settings .title a,body.course.view-team .nav-course-settings .title a,body.course.view-group-configurations .nav-course-settings .title a,body.course.advanced .nav-course-settings .title a,body.course.view-certificates .nav-course-settings .title a,body.course.schedule .nav-course-settings-schedule a,body.course.grading .nav-course-settings-grading a,body.course.view-team .nav-course-settings-team a,body.course.view-group-configurations .nav-course-settings-group-configurations a,body.course.advanced .nav-course-settings-advanced a,body.course.view-certificates .nav-course-settings-certificates a,body.course.view-import .nav-course-tools .title a,body.course.view-export .nav-course-tools .title a,body.course.view-export-git .nav-course-tools .title a,body.course.view-import .nav-course-tools-import a,body.course.view-export .nav-course-tools-export a,body.course.view-export-git .nav-course-tools-export-git a,body.course.view-team .nav-library-settings .title a,body.course.view-team .nav-library-settings-team a,body.course.view-checklists .nav-course-tools .title a,body.course.view-checklists .nav-course-tools-checklists a{
-    color:#0075b4;
+    color:#219EBC;
     pointer-events:none
 }
 .wrapper-footer{
@@ -4546,9 +4547,9 @@ code{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     border-color:#00466c
 }
@@ -4577,10 +4578,10 @@ code{
     color:#fff !important
 }
 .alert.confirm button,.notification.confirm button,.prompt.confirm button{
-    color:#0075b4
+    color:#219EBC
 }
 .alert.confirm button:hover,.notification.confirm button:hover,.prompt.confirm button:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .alert.warning .nav-actions .action-primary,.notification.warning .nav-actions .action-primary,.prompt.warning .nav-actions .action-primary{
     transition:background-color 0.15s,box-shadow 0.15s;
@@ -4638,7 +4639,7 @@ code{
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
     border:1px solid #8e050d;
     border-radius:3px;
-    background-color:#b20610;
+    background-color:#D90429;
     color:#fff;
     border-color:#6b040a
 }
@@ -4670,7 +4671,7 @@ code{
     color:#c13840
 }
 .alert.error button:hover,.notification.error button:hover,.prompt.error button:hover{
-    color:#b20610
+    color:#D90429
 }
 .alert.announcement .nav-actions .action-primary,.notification.announcement .nav-actions .action-primary,.prompt.announcement .nav-actions .action-primary{
     transition:background-color 0.15s,box-shadow 0.15s;
@@ -4680,9 +4681,9 @@ code{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     border-color:#00466c
 }
@@ -4711,10 +4712,10 @@ code{
     color:#fff !important
 }
 .alert.announcement button,.notification.announcement button,.prompt.announcement button{
-    color:#0075b4
+    color:#219EBC
 }
 .alert.announcement button:hover,.notification.announcement button:hover,.prompt.announcement button:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .alert.confirmation .nav-actions .action-primary,.notification.confirmation .nav-actions .action-primary,.prompt.confirmation .nav-actions .action-primary{
     transition:background-color 0.15s,box-shadow 0.15s;
@@ -4725,9 +4726,9 @@ code{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #008100;
+    border:1px solid #7CB518;
     border-radius:3px;
-    background-color:#008100;
+    background-color:#7CB518;
     color:#fff;
     border-color:#004d00
 }
@@ -4756,10 +4757,10 @@ code{
     box-shadow:none
 }
 .alert.confirmation button,.notification.confirmation button,.prompt.confirmation button{
-    color:#008100
+    color:#7CB518
 }
 .alert.confirmation button:hover,.notification.confirmation button:hover,.prompt.confirmation button:hover{
-    color:#008100
+    color:#7CB518
 }
 .alert.step-required .nav-actions .action-primary,.notification.step-required .nav-actions .action-primary,.prompt.step-required .nav-actions .action-primary{
     transition:background-color 0.15s,box-shadow 0.15s;
@@ -4831,7 +4832,7 @@ code{
     text-align:left
 }
 .wrapper-prompt .prompt .copy{
-    border-top:4px solid #0075b4;
+    border-top:4px solid #219EBC;
     padding:20px
 }
 .wrapper-prompt .prompt .nav-actions{
@@ -4854,10 +4855,10 @@ code{
     border-top-color:#c13840
 }
 .wrapper-prompt .prompt.confirmation .feedback-symbol{
-    color:#008100
+    color:#7CB518
 }
 .wrapper-prompt .prompt.confirmation .copy{
-    border-top-color:#008100
+    border-top-color:#7CB518
 }
 .wrapper-prompt .prompt.warning .feedback-symbol{
     color:#fd7e14
@@ -4866,7 +4867,7 @@ code{
     border-top-color:#fd7e14
 }
 .wrapper-notification{
-    box-shadow:0 -1px 3px rgba(0,0,0,0.2),inset 0 3px 1px #0075b4;
+    box-shadow:0 -1px 3px rgba(0,0,0,0.2),inset 0 3px 1px #219EBC;
     position:fixed;
     bottom:0;
     width:100%;
@@ -4890,10 +4891,10 @@ code{
     color:#c13840
 }
 .wrapper-notification.wrapper-notification-confirmation{
-    box-shadow:0 -1px 3px rgba(0,0,0,0.2),inset 0 3px 1px #008100
+    box-shadow:0 -1px 3px rgba(0,0,0,0.2),inset 0 3px 1px #7CB518
 }
 .wrapper-notification.wrapper-notification-confirmation .feedback-symbol{
-    color:#008100
+    color:#7CB518
 }
 .wrapper-notification.wrapper-notification-mini{
     box-shadow:0 -1px 3px rgba(0,0,0,0.2),inset 0 3px 1px #c2387d
@@ -5028,9 +5029,9 @@ code{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     border-color:#00466c
 }
@@ -5077,7 +5078,7 @@ code{
 }
 .wrapper-alert{
     box-sizing:border-box;
-    box-shadow:0 1px 1px #fff,inset 0 2px 2px rgba(0,0,0,0.4),inset 0 -4px 1px #0075b4;
+    box-shadow:0 1px 1px #fff,inset 0 2px 2px rgba(0,0,0,0.4),inset 0 -4px 1px #219EBC;
     position:relative;
     overflow:hidden;
     width:100%;
@@ -5102,16 +5103,16 @@ code{
     color:#c13840
 }
 .wrapper-alert.wrapper-alert-confirmation{
-    box-shadow:0 1px 1px #fff,inset 0 2px 2px rgba(0,0,0,0.4),inset 0 -4px 1px #008100
+    box-shadow:0 1px 1px #fff,inset 0 2px 2px rgba(0,0,0,0.4),inset 0 -4px 1px #7CB518
 }
 .wrapper-alert.wrapper-alert-confirmation .feedback-symbol{
-    color:#008100
+    color:#7CB518
 }
 .wrapper-alert.wrapper-alert-announcement{
-    box-shadow:0 1px 1px #fff,inset 0 2px 2px rgba(0,0,0,0.4),inset 0 -4px 1px #0075b4
+    box-shadow:0 1px 1px #fff,inset 0 2px 2px rgba(0,0,0,0.4),inset 0 -4px 1px #219EBC
 }
 .wrapper-alert.wrapper-alert-announcement .feedback-symbol{
-    color:#0075b4
+    color:#219EBC
 }
 .wrapper-alert.wrapper-alert-step-required{
     box-shadow:0 1px 1px #fff,inset 0 2px 2px rgba(0,0,0,0.4),inset 0 -4px 1px #c2387d
@@ -5256,11 +5257,11 @@ code{
     color:#fd7e14
 }
 .wrapper-message .message.has-errors{
-    border-bottom:3px solid #d16a70
+    border-bottom:3px solid #D90429
 }
 .wrapper-message .message.has-errors .fa-exclamation-circle{
     margin-right:10px;
-    color:#d16a70
+    color:#D90429
 }
 .wrapper-message .message-list{
     margin-bottom:0
@@ -5394,9 +5395,9 @@ body.error .back-button{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     padding:14px 40px 18px
 }
@@ -5525,10 +5526,10 @@ body.error .back-button.disabled,body.error .back-button.is-disabled{
     background-color:#e6f2e6
 }
 .notice-confirmation .status-indicator{
-    background:#008100
+    background:#7CB518
 }
 .notice-confirmation .title{
-    color:#008100
+    color:#7CB518
 }
 .notice-confirmation .copy{
     color:#7f7f7f
@@ -5620,9 +5621,9 @@ body.error .back-button.disabled,body.error .back-button.is-disabled{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     margin:13px 6px 0 13px
 }
@@ -5721,7 +5722,7 @@ body.modal-open{
 }
 .ui-datepicker .ui-state-default{
     border-color:#b0b6c2;
-    color:#0075b4;
+    color:#219EBC;
     transition:none
 }
 .ui-datepicker .ui-state-default.ui-state-hover{
@@ -5730,8 +5731,8 @@ body.modal-open{
     color:#fff
 }
 .ui-datepicker .ui-state-highlight{
-    background:#0075b4;
-    border-color:#0075b4;
+    background:#219EBC;
+    border-color:#219EBC;
     color:#fff
 }
 .ui-datepicker .ui-state-active{
@@ -5828,7 +5829,7 @@ body.modal-open{
 }
 .ui-autocomplete li.ui-menu-item a.ui-state-focus{
     border:none;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff
 }
 .btn-default:disabled,.btn-primary:disabled,.btn-brand:disabled,.btn-upgrade:disabled,.is-disabled.btn-default,.is-disabled.btn-primary,.is-disabled.btn-brand,.is-disabled.btn-upgrade{
@@ -5870,7 +5871,7 @@ body.modal-open{
 [class*="view-"] .modal-window .message-status.error{
     border:0;
     background-color:#fff;
-    color:#b20610
+    color:#D90429
 }
 [class*="view-"] .modal-window .message-status.success{
     border:0;
@@ -5930,11 +5931,11 @@ body.modal-open{
 }
 [class*="view-"] .modal-window .modal-section .settings-tabs-header li.settings-tab-buttons .settings-tab-button:hover{
     background-color:#fff;
-    color:#0075b4
+    color:#219EBC
 }
 [class*="view-"] .modal-window .modal-section .settings-tabs-header li.settings-tab-buttons .settings-tab-button.active{
-    border-bottom:4px solid #0075b4;
-    color:#0075b4
+    border-bottom:4px solid #219EBC;
+    color:#219EBC
 }
 [class*="view-"] .modal-window .modal-section-title{
     margin:0 0 10px 0;
@@ -5975,9 +5976,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     border-color:#005e90;
     color:#fff
@@ -6279,7 +6280,7 @@ body.modal-open{
     margin-bottom:5px
 }
 [class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field label.is-focused,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field label.is-focused,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field label.is-focused,[class*="view-"] .course-outline-modal .list-fields .field label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 [class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,[class*="view-"] .course-outline-modal .list-fields .field input,[class*="view-"] .course-outline-modal .list-fields .field textarea{
     transition:all 0.25s ease-in-out 0s;
@@ -6386,11 +6387,11 @@ body.modal-open{
     margin-left:5px
 }
 [class*="view-"] .edit-unit-access .modal-section-content .label.deleted,[class*="view-"] .edit-staff-lock .modal-section-content .label.deleted{
-    color:#b20610
+    color:#D90429
 }
 [class*="view-"] .edit-unit-access .modal-section-content .deleted-group-message,[class*="view-"] .edit-staff-lock .modal-section-content .deleted-group-message{
     display:block;
-    color:#b20610;
+    color:#D90429;
     font-size:14px;
     font-size:1.4rem
 }
@@ -6417,11 +6418,11 @@ body.modal-open{
     margin-left:5px
 }
 [class*="view-"] .edit-unit-access .modal-section-content .label.deleted,[class*="view-"] .edit-staff-lock .modal-section-content .label.deleted{
-    color:#b20610
+    color:#D90429
 }
 [class*="view-"] .edit-unit-access .modal-section-content .deleted-group-message,[class*="view-"] .edit-staff-lock .modal-section-content .deleted-group-message{
     display:block;
-    color:#b20610;
+    color:#D90429;
     font-size:14px;
     font-size:1.4rem
 }
@@ -6496,7 +6497,7 @@ body.modal-open{
     color:#666
 }
 .wrapper-assets .assets-library .assets-table tbody tr a:hover,.wrapper-assets .assets-library .assets-table tbody .video-row a:hover,.wrapper-assets .assets-library .assets-table .js-table-body tr a:hover,.wrapper-assets .assets-library .assets-table .js-table-body .video-row a:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .wrapper-assets .assets-library .assets-table tbody tr.is-locked,.wrapper-assets .assets-library .assets-table tbody .video-row.is-locked,.wrapper-assets .assets-library .assets-table .js-table-body tr.is-locked,.wrapper-assets .assets-library .assets-table .js-table-body .video-row.is-locked{
     background-image:url("../images/bg-micro-stripes.png");
@@ -6677,9 +6678,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     transition:all 0.125s linear 0s;
     display:block;
@@ -6729,7 +6730,7 @@ body.modal-open{
     margin:0 0 5px 0
 }
 .view-signup .content-primary form .list-input .field label.is-focused,.view-signin .content-primary form .list-input .field label.is-focused,.view-util .content-primary form .list-input .field label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 .view-signup .content-primary form .list-input .field input,.view-signup .content-primary form .list-input .field textarea,.view-signin .content-primary form .list-input .field input,.view-signin .content-primary form .list-input .field textarea,.view-util .content-primary form .list-input .field input,.view-util .content-primary form .list-input .field textarea{
     height:100%;
@@ -6758,7 +6759,7 @@ body.modal-open{
     color:#666
 }
 .view-signup .content-primary form .list-input .field input:focus+.tip-error,.view-signup .content-primary form .list-input .field textarea:focus+.tip-error,.view-signin .content-primary form .list-input .field input:focus+.tip-error,.view-signin .content-primary form .list-input .field textarea:focus+.tip-error,.view-util .content-primary form .list-input .field input:focus+.tip-error,.view-util .content-primary form .list-input .field textarea:focus+.tip-error{
-    color:#b20610
+    color:#D90429
 }
 .view-signup .content-primary form .list-input .field textarea.long,.view-signin .content-primary form .list-input .field textarea.long,.view-util .content-primary form .list-input .field textarea.long{
     height:100px
@@ -6779,7 +6780,7 @@ body.modal-open{
     color:#666
 }
 .view-signup .content-primary form .list-input .field .tip-error,.view-signin .content-primary form .list-input .field .tip-error,.view-util .content-primary form .list-input .field .tip-error{
-    color:#b20610
+    color:#D90429
 }
 .view-signup .content-primary form .list-input .field-group,.view-signin .content-primary form .list-input .field-group,.view-util .content-primary form .list-input .field-group{
     margin:0 0 10px 0
@@ -6895,7 +6896,7 @@ body.modal-open{
     margin-left:10px
 }
 .view-uploads .assets-library .pagination .nav-link:hover{
-    background-color:#0075b4;
+    background-color:#219EBC;
     border-radius:3px;
     color:#fff
 }
@@ -6960,7 +6961,7 @@ body.modal-open{
 }
 .view-uploads .assets-library table th .column-sort-link,.view-uploads .assets-library table th .column-selected-link{
     cursor:pointer;
-    color:#0075b4
+    color:#219EBC
 }
 .view-uploads .assets-library table th .current-sort{
     border-bottom:1px solid #ccc
@@ -7002,7 +7003,7 @@ body.modal-open{
     color:#666
 }
 .view-uploads .assets-library table th.nav-dd .wrapper-nav-sub .nav-sub .nav-item a:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .view-uploads .assets-library table td{
     padding:10px;
@@ -7028,7 +7029,7 @@ body.modal-open{
     color:#666
 }
 .view-uploads .assets-library table tbody tr a:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .view-uploads .assets-library table tbody tr.is-locked{
     background-image:url("../images/bg-micro-stripes.png");
@@ -7101,7 +7102,7 @@ body.modal-open{
     width:30px
 }
 .view-uploads .actions-list .action-item.action-lock label:hover{
-    background-color:#0075b4
+    background-color:#219EBC
 }
 .view-uploads .actions-list .action-item.action-lock .lock-checkbox{
     position:absolute;
@@ -7112,7 +7113,7 @@ body.modal-open{
     opacity:0
 }
 .view-uploads .actions-list .action-item.action-lock .lock-checkbox:hover ~ .action-button{
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#f9f9f9
 }
 .view-uploads .actions-list .action-item.action-lock .lock-checkbox ~ .action-button .fa-lock{
@@ -7141,9 +7142,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff
 }
 .view-uploads .show-xml.disabled,.view-uploads .show-xml.is-disabled{
@@ -7195,9 +7196,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     padding:10px 82px 12px
 }
@@ -7230,7 +7231,7 @@ body.modal-open{
     width:300px;
     height:35px;
     margin:20px auto;
-    border:1px solid #008100;
+    border:1px solid #7CB518;
     border-radius:40px
 }
 .view-uploads .upload-modal .progress-bar.loaded{
@@ -7243,7 +7244,7 @@ body.modal-open{
     width:0%;
     height:30px;
     border-radius:40px;
-    background:#008100;
+    background:#7CB518;
     padding-top:5px;
     color:#fff
 }
@@ -7259,7 +7260,7 @@ body.modal-open{
 .view-uploads .upload-modal .close-button:hover{
     background:none;
     box-shadow:none;
-    color:#0075b4
+    color:#219EBC
 }
 .view-uploads .upload-modal .embeddable{
     display:none;
@@ -7452,9 +7453,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     margin-top:0
 }
@@ -7663,9 +7664,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     margin-top:0
 }
@@ -7838,7 +7839,7 @@ body.modal-open{
 }
 .view-dashboard .status-creationrights .list-actions .action-request.has-error,.view-dashboard .status-creationrights .form-actions .action-request.has-error{
     padding-left:40px;
-    background:#b20610;
+    background:#D90429;
     border-color:#8e050d
 }
 .view-dashboard .status-creationrights .list-actions .action-request.has-error .fa-cog,.view-dashboard .status-creationrights .form-actions .action-request.has-error .fa-cog{
@@ -8043,7 +8044,7 @@ body.modal-open{
     color:#b2b2b2
 }
 .view-dashboard .course-item.has-error .course-status{
-    color:#b20610
+    color:#D90429
 }
 .view-dashboard .course-item.has-error ~ .status-message{
     background:#c13840;
@@ -8338,10 +8339,10 @@ body.modal-open{
     opacity:0
 }
 .view-export .wrapper-status .list-progress .item-progresspoint.is-complete .icon{
-    color:#008100
+    color:#7CB518
 }
 .view-export .wrapper-status .list-progress .item-progresspoint.is-complete .status-detail .title{
-    color:#008100
+    color:#7CB518
 }
 .view-export .wrapper-status .list-progress .item-progresspoint.is-complete .list-actions{
     display:block
@@ -8355,10 +8356,10 @@ body.modal-open{
     opacity:1
 }
 .view-export .wrapper-status .list-progress .item-progresspoint.has-error .icon{
-    color:#b20610
+    color:#D90429
 }
 .view-export .wrapper-status .list-progress .item-progresspoint.has-error .status-detail .title,.view-export .wrapper-status .list-progress .item-progresspoint.has-error .status-detail .copy{
-    color:#b20610
+    color:#D90429
 }
 .view-howitworks.not-signedin .wrapper-header{
     margin-bottom:0
@@ -8703,9 +8704,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff
 }
 .view-course-create .rerun-course .rerun-course-save.disabled,.view-course-create .rerun-course .rerun-course-save.is-disabled{
@@ -8794,9 +8795,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff
 }
 .view-course-create .rerun-course .actions .action-primary.disabled,.view-course-create .rerun-course .actions .action-primary.is-disabled{
@@ -9006,10 +9007,10 @@ body.modal-open{
     opacity:0
 }
 .view-import .wrapper-status .list-progress .item-progresspoint.is-complete .icon{
-    color:#008100
+    color:#7CB518
 }
 .view-import .wrapper-status .list-progress .item-progresspoint.is-complete .status-detail .title{
-    color:#008100
+    color:#7CB518
 }
 .view-import .wrapper-status .list-progress .item-progresspoint.is-complete .list-actions{
     display:block
@@ -9023,10 +9024,10 @@ body.modal-open{
     opacity:1
 }
 .view-import .wrapper-status .list-progress .item-progresspoint.has-error .icon{
-    color:#b20610
+    color:#D90429
 }
 .view-import .wrapper-status .list-progress .item-progresspoint.has-error .status-detail .title,.view-import .wrapper-status .list-progress .item-progresspoint.has-error .status-detail .copy{
-    color:#b20610
+    color:#D90429
 }
 .view-outline .outline-complex .outline-section .section-header,.view-outline .outline-complex .outline-subsection .subsection-header,.view-outline .outline-complex .outline-unit .unit-header{
     line-height:0
@@ -9060,7 +9061,7 @@ body.modal-open{
 }
 .view-outline .outline-complex .outline-section .section-header .is-editable .incontext-editor-input:focus,.view-outline .outline-complex .outline-subsection .subsection-header .is-editable .incontext-editor-input:focus,.view-outline .outline-complex .outline-unit .unit-header .is-editable .incontext-editor-input:focus{
     box-shadow:0 0 2px 2px rgba(0,117,180,0.5) inset;
-    color:#0075b4
+    color:#219EBC
 }
 .view-outline .outline-complex .outline-section .section-header .is-editable:hover .incontext-editor-open-action,.view-outline .outline-complex .outline-subsection .subsection-header .is-editable:hover .incontext-editor-open-action,.view-outline .outline-complex .outline-unit .unit-header .is-editable:hover .incontext-editor-open-action,.view-outline .outline-complex .outline-section .section-header .is-editable:focus .incontext-editor-open-action,.view-outline .outline-complex .outline-subsection .subsection-header .is-editable:focus .incontext-editor-open-action,.view-outline .outline-complex .outline-unit .unit-header .is-editable:focus .incontext-editor-open-action{
     opacity:1
@@ -9100,9 +9101,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     margin:0 5px;
     padding:4px 20px 7px;
@@ -9223,7 +9224,7 @@ body.modal-open{
     margin-top:0
 }
 .view-outline .outline-complex .outline-item.is-collapsible:nth-child(1) .ui-toggle-expansion:hover,.view-outline .outline-complex .outline-item.is-collapsible:nth-child(1) .ui-toggle-expansion:active,.view-outline .outline-complex .outline-item.is-collapsible:nth-child(1) .item-title:hover,.view-outline .outline-complex .outline-item.is-collapsible:nth-child(1) .item-title:active{
-    color:#0075b4
+    color:#219EBC
 }
 .view-outline .outline-complex .outline-item.is-collapsible.is-dragging{
     transition-property:none
@@ -9238,7 +9239,7 @@ body.modal-open{
     opacity:1
 }
 .view-outline .outline-complex .outline-item.was-dropped{
-    border-color:#0075b4
+    border-color:#219EBC
 }
 .view-outline .outline-complex .outline-section{
     padding:15px 20px 15px 24px
@@ -9261,7 +9262,6 @@ body.modal-open{
 .view-outline .outline-complex .outline-section .section-header-details .action-edit.action-inline .icon{
     margin-right:0;
     transform:none;
-    vertical-align:middle
 }
 .view-outline .outline-complex .outline-section .section-header-actions{
     float:right;
@@ -9279,7 +9279,7 @@ body.modal-open{
     color:#ccc
 }
 .view-outline .outline-complex .outline-section.was-dropped{
-    border-left-color:#0075b4
+    border-left-color:#219EBC
 }
 .view-outline .outline-complex .list-subsections{
     margin:20px 0 0 0
@@ -9306,7 +9306,6 @@ body.modal-open{
 .view-outline .outline-complex .outline-subsection .subsection-header-details .action-edit.action-inline .icon{
     transform:none;
     margin-right:0;
-    vertical-align:middle
 }
 .view-outline .outline-complex .outline-subsection .subsection-header-actions{
     float:right;
@@ -9405,7 +9404,7 @@ body.modal-open{
     position:absolute;
     top:-12px;
     left:-5px;
-    color:#0075b4
+    color:#219EBC
 }
 .view-outline .ui-splint-indicator .draggable-drop-indicator-before{
     top:-10px
@@ -9415,14 +9414,14 @@ body.modal-open{
 }
 .view-outline .highlights-button{
     cursor:pointer;
-    color:#0075b4;
+    color:#7CB518;
     border:none;
     background:none;
     padding:0;
     font-weight:600
 }
 .view-outline .number-highlights{
-    background:#0075b4;
+    background:#7CB518;
     border-radius:50%;
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
@@ -9460,7 +9459,7 @@ body.modal-open{
     font-weight:600
 }
 .view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field label.is-focused,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field label.is-focused,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field label.is-focused,.view-outline .course-outline-modal .list-fields .field label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 .view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,.view-outline .course-outline-modal .list-fields .field input,.view-outline .course-outline-modal .list-fields .field textarea{
     transition:all 0.25s ease-in-out 0s;
@@ -9617,7 +9616,7 @@ body.modal-open{
     display:block;
     margin-top:5px;
     margin-bottom:10px;
-    color:#b20610
+    color:#D90429
 }
 .view-settings .group-settings .remove-item{
     transition:background-color 0.15s,box-shadow 0.15s;
@@ -9693,7 +9692,7 @@ body.modal-open{
     margin:0 0 5px 0
 }
 .view-settings .group-settings .list-input .field label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 .view-settings .group-settings .list-input .field input,.view-settings .group-settings .list-input .field textarea{
     height:100%;
@@ -9710,7 +9709,7 @@ body.modal-open{
     color:#e5e5e5
 }
 .view-settings .group-settings .list-input .field input.error,.view-settings .group-settings .list-input .field textarea.error{
-    border-color:#b20610
+    border-color:#D90429
 }
 .view-settings .group-settings .list-input .field input:focus+.tip,.view-settings .group-settings .list-input .field textarea:focus+.tip{
     color:#666
@@ -9840,7 +9839,7 @@ body.modal-open{
     overflow:hidden;
     white-space:nowrap;
     text-overflow:ellipsis;
-    color:#0075b4
+    color:#219EBC
 }
 .view-settings .group-settings.basic .note-promotion-courseURL .copy .link-courseURL:hover{
     color:#065683
@@ -10477,7 +10476,7 @@ body.modal-open{
     color:#ccc
 }
 .view-static-pages .wrapper-actions-list .actions-list .action-item .action-button:hover,.view-static-pages .wrapper-actions-list .actions-list .action-item .toggle-actions-view:hover{
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#f9f9f9
 }
 .view-static-pages .wrapper-actions-list .actions-list .action-item.action-visible{
@@ -10491,7 +10490,7 @@ body.modal-open{
     width:30px
 }
 .view-static-pages .wrapper-actions-list .actions-list .action-item.action-visible label:hover{
-    background-color:#0075b4
+    background-color:#219EBC
 }
 .view-static-pages .wrapper-actions-list .actions-list .action-item.action-visible .toggle-checkbox{
     position:absolute;
@@ -10502,7 +10501,7 @@ body.modal-open{
     opacity:0
 }
 .view-static-pages .wrapper-actions-list .actions-list .action-item.action-visible .toggle-checkbox:hover ~ .action-button,.view-static-pages .wrapper-actions-list .actions-list .action-item.action-visible .toggle-checkbox:checked:hover ~ .action-button{
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#f9f9f9
 }
 .view-static-pages .wrapper-actions-list .actions-list .action-item.action-visible .toggle-checkbox ~ .action-button .fa-eye{
@@ -10573,9 +10572,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     margin-top:0
 }
@@ -10731,7 +10730,7 @@ body.modal-open{
     text-transform:uppercase
 }
 .view-static-pages .component .component-actions .action-item .action-button:hover,.view-static-pages .component .course-nav-item-actions .action-item .action-button:hover,.view-static-pages .course-nav-item .component-actions .action-item .action-button:hover,.view-static-pages .course-nav-item .course-nav-item-actions .action-item .action-button:hover{
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#f9f9f9
 }
 .view-static-pages .component .component-actions .action-item .action-button .action-button-text,.view-static-pages .component .course-nav-item-actions .action-item .action-button .action-button-text,.view-static-pages .course-nav-item .component-actions .action-item .action-button .action-button-text,.view-static-pages .course-nav-item .course-nav-item-actions .action-item .action-button .action-button-text{
@@ -10840,7 +10839,7 @@ body.modal-open{
 }
 .view-container .wrapper-mast .mast .page-header .is-editable .incontext-editor-input:focus{
     box-shadow:0 0 2px 2px rgba(0,117,180,0.5) inset;
-    color:#0075b4
+    color:#219EBC
 }
 .view-container .wrapper-mast .mast .page-header .container-access{
     font-size:14px;
@@ -10931,7 +10930,7 @@ body.modal-open{
     color:#666
 }
 .view-container .content-supplementary .unit-location .wrapper-unit-tree-location .item-title a,.view-container .content-supplementary .library-location .wrapper-unit-tree-location .item-title a{
-    color:#0075b4
+    color:#219EBC
 }
 .view-container .content-supplementary .unit-location .wrapper-unit-tree-location .item-title a:hover,.view-container .content-supplementary .library-location .wrapper-unit-tree-location .item-title a:hover{
     color:#ca6510
@@ -11145,9 +11144,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     transition:all 0.15s;
     display:inline-block;
@@ -11254,10 +11253,10 @@ body.modal-open{
     vertical-align:text-bottom
 }
 .view-textbooks .content-primary .textbook .view-textbook.is-selectable:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .view-textbooks .content-primary .textbook .view-textbook.is-selectable:hover .ui-toggle-expansion{
-    color:#0075b4
+    color:#219EBC
 }
 .view-textbooks .content-primary .textbook .view-textbook .chapters{
     margin-left:20px
@@ -11299,9 +11298,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff
 }
 .view-textbooks .content-primary .textbook .view-textbook .actions .action .view.disabled,.view-textbooks .content-primary .textbook .view-textbook .actions .action .view.is-disabled{
@@ -11336,9 +11335,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff
 }
 .view-textbooks .content-primary .textbook .view-textbook .actions .action .edit.disabled,.view-textbooks .content-primary .textbook .view-textbook .actions .action .edit.is-disabled{
@@ -11400,9 +11399,9 @@ body.modal-open{
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff;
     transition:all 0.15s;
     display:inline-block;
@@ -11491,7 +11490,7 @@ body.modal-open{
     margin:0 0 5px 0
 }
 .view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field label.is-focused,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 .view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field textarea,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field textarea{
     height:100%;
@@ -11538,10 +11537,10 @@ body.modal-open{
     color:#666
 }
 .view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field.error label,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field.error label{
-    color:#b20610
+    color:#D90429
 }
 .view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field.error input,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field.error input{
-    border-color:#b20610
+    border-color:#D90429
 }
 .view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field-group,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field-group{
     margin:0 0 10px 0
@@ -11579,7 +11578,7 @@ body.modal-open{
     color:#BEEC6F
 }
 .view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field-group .action-close:hover,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field-group .action-close:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .view-textbooks .content-primary .textbook .edit-textbook .action-add-chapter{
     display:block;
@@ -11608,10 +11607,10 @@ body.modal-open{
     margin-bottom:20px
 }
 .view-export-git .export-git-info-block .course_text{
-    color:#008100
+    color:#7CB518
 }
 .view-export-git .export-git-info-block .giturl_text{
-    color:#0075b4
+    color:#219EBC
 }
 .view-export-git .export-git-controls{
     box-sizing:border-box;
@@ -11678,7 +11677,7 @@ body.modal-open{
     color:#000
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-header .title .toggle:hover,.view-group-configurations .content-primary .wrapper-collection .collection-header .title .toggle:focus{
-    color:#0075b4
+    color:#219EBC
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-header .title .toggle .ui-toggle-expansion{
     transition:rotate 0.15s ease-in-out 0.25s;
@@ -11688,10 +11687,10 @@ body.modal-open{
     vertical-align:baseline
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-header .title .toggle.is-selectable:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-header .title .toggle.is-selectable:hover .ui-toggle-expansion{
-    color:#0075b4
+    color:#219EBC
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-info{
     margin-left:20px;
@@ -11787,7 +11786,7 @@ body.modal-open{
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-references .usage .usage-unit .fa-times-circle{
     margin:5px 10px 0 30px;
-    color:#d16a70
+    color:#D90429
 }
 .view-group-configurations .content-primary .wrapper-collection .usage-validation{
     padding:20px 30px 20px 30px;
@@ -11844,7 +11843,7 @@ body.modal-open{
     margin:0 0 5px 0
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-edit .field label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-edit .field input,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field textarea{
     height:100%;
@@ -11873,10 +11872,10 @@ body.modal-open{
     color:#666
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-edit .field.error label{
-    color:#b20610
+    color:#D90429
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-edit .field.error input{
-    border-color:#b20610
+    border-color:#D90429
 }
 .view-group-configurations .content-primary .wrapper-collection .collection-edit label.required::after{
     margin-left:5px;
@@ -12032,7 +12031,7 @@ body.modal-open{
     vertical-align:middle
 }
 .view-group-configurations .content-primary .experiment-groups .group-configuration-edit .field-group .action-close:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .view-group-configurations .content-supplementary{
     width:23.40426%
@@ -12056,7 +12055,7 @@ body.modal-open{
     cursor:pointer
 }
 .view-video-uploads .message-error{
-    color:#b20610
+    color:#D90429
 }
 .view-video-uploads .video-transcripts-wrapper{
     display:block
@@ -12078,10 +12077,10 @@ body.modal-open{
     margin-left:5px
 }
 .view-video-uploads .video-transcript-content .transcript-upload-status-container.error{
-    color:#d16a70
+    color:#D90429
 }
 .view-video-uploads .video-transcript-content .transcript-upload-status-container.success{
-    color:#008100
+    color:#7CB518
 }
 .view-video-uploads .video-transcript-content .transcript-language-menu{
     display:block;
@@ -12156,10 +12155,10 @@ body.modal-open{
     margin-left:15px
 }
 .view-video-uploads .course-video-settings-container .course-video-settings-wrapper .transcript-preferance-wrapper.error .transcript-preferance-label{
-    color:#d16a70
+    color:#D90429
 }
 .view-video-uploads .course-video-settings-container .course-video-settings-wrapper .error-info,.view-video-uploads .course-video-settings-container .course-video-settings-wrapper .error-icon .fa-info-circle{
-    color:#d16a70
+    color:#D90429
 }
 .view-video-uploads .course-video-settings-container .course-video-settings-wrapper .error-info{
     font-size:16px;
@@ -12336,10 +12335,10 @@ body.modal-open{
     background-color:#fff
 }
 .view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload .video-detail-progress::-webkit-progress-value{
-    background-color:#008100
+    background-color:#7CB518
 }
 .view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload .video-detail-progress::-moz-progress-bar{
-    background-color:#008100
+    background-color:#7CB518
 }
 .view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload:hover{
     transition:all 0.125s;
@@ -12349,24 +12348,24 @@ body.modal-open{
     visibility:hidden
 }
 .view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload.error .video-upload-status{
-    color:#d16a70
+    color:#D90429
 }
 .view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload.error .video-detail-progress::-webkit-progress-value{
-    background-color:#d16a70
+    background-color:#D90429
 }
 .view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload.error .video-detail-progress::-moz-progress-bar{
-    background-color:#d16a70
+    background-color:#D90429
 }
 .view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload.error .more-details-action,.view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload.error .upload-failure{
     display:inline-block;
-    color:#d16a70
+    color:#D90429
 }
 .view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload.error .more-details-action{
     margin-top:4px;
     float:right
 }
 .view-video-uploads .active-video-upload-container .active-video-upload-list .active-video-upload.success .video-upload-status{
-    color:#008100
+    color:#7CB518
 }
 .view-video-uploads .assets-library .js-table-body .video-id-col{
     word-break:break-all
@@ -12410,7 +12409,7 @@ body.modal-open{
 .view-video-uploads .thumbnail-error-wrapper{
     display:table-row;
     white-space:nowrap;
-    color:#b20610
+    color:#D90429
 }
 .view-video-uploads .thumbnail-error-wrapper .icon{
     margin:15px 5px 0 10px
@@ -12461,7 +12460,7 @@ body.modal-open{
     display:block
 }
 .view-video-uploads .thumbnail-wrapper.upload .thumbnail-action{
-    color:#0075b4
+    color:#219EBC
 }
 .view-video-uploads .thumbnail-wrapper.progress .thumbnail-action .action-icon{
     font-size:20px;
@@ -12518,10 +12517,10 @@ body.modal-open{
     background-color:black
 }
 .view-video-uploads .thumbnail-wrapper.focused{
-    box-shadow:0 0 4px 1px #0075b4
+    box-shadow:0 0 4px 1px #219EBC
 }
 .view-video-uploads .thumbnail-wrapper.error{
-    box-shadow:0 0 4px 1px #b20610
+    box-shadow:0 0 4px 1px #D90429
 }
 .view-certificates .content-primary,.view-certificates .content-supplementary{
     box-sizing:border-box;
@@ -12637,7 +12636,7 @@ body.modal-open{
 }
 .view-certificates .wrapper-collection .collection-references .usage .usage-unit .fa-times-circle{
     margin:5px 10px 0 30px;
-    color:#d16a70
+    color:#D90429
 }
 .view-certificates .wrapper-collection .collection-edit{
     box-sizing:border-box;
@@ -12690,7 +12689,7 @@ body.modal-open{
     margin:0 0 5px 0
 }
 .view-certificates .wrapper-collection .collection-edit .field label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 .view-certificates .wrapper-collection .collection-edit .field input,.view-certificates .wrapper-collection .collection-edit .field textarea{
     height:100%;
@@ -12719,10 +12718,10 @@ body.modal-open{
     color:#4c4c4c
 }
 .view-certificates .wrapper-collection .collection-edit .field.error label{
-    color:#b20610
+    color:#D90429
 }
 .view-certificates .wrapper-collection .collection-edit .field.error input{
-    border-color:#b20610
+    border-color:#D90429
 }
 .view-certificates .wrapper-collection .collection-edit label.required::after{
     margin-left:5px;
@@ -12852,7 +12851,7 @@ body.modal-open{
     vertical-align:middle
 }
 .view-certificates .certificates .certificate-edit .field-group .action-close:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .view-certificates .certificates .signatory-details,.view-certificates .certificates .signatory-edit{
     border-color:#e5e5e5
@@ -12909,7 +12908,7 @@ body.modal-open{
     margin:0 0 5px 0
 }
 .view-certificates .certificates .signatory-edit .field label.is-focused{
-    color:#0075b4
+    color:#219EBC
 }
 .view-certificates .certificates .signatory-edit .field input,.view-certificates .certificates .signatory-edit .field textarea{
     height:100%;
@@ -12938,13 +12937,13 @@ body.modal-open{
     color:#666
 }
 .view-certificates .certificates .signatory-edit .field.error label{
-    color:#b20610
+    color:#D90429
 }
 .view-certificates .certificates .signatory-edit .field.error input{
-    border-color:#b20610
+    border-color:#D90429
 }
 .view-certificates .certificates .signatory-edit .field.error .message-error{
-    color:#b20610
+    color:#D90429
 }
 .view-certificates .certificates .signatory-edit .field .signature-upload-wrapper{
     width:100%
@@ -13149,7 +13148,7 @@ body.modal-open{
     list-style:disc outside none
 }
 .xmodule_display.xmodule_AboutBlock a:link,.xmodule_display.xmodule_AboutBlock a:visited,.xmodule_display.xmodule_AboutBlock a:hover,.xmodule_display.xmodule_AboutBlock a:active,.xmodule_display.xmodule_AboutBlock a:focus{
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_display.xmodule_AboutBlock img{
     max-width:100%
@@ -13560,7 +13559,7 @@ body.modal-open{
     list-style:disc outside none
 }
 .xmodule_display.xmodule_CourseInfoBlock a:link,.xmodule_display.xmodule_CourseInfoBlock a:visited,.xmodule_display.xmodule_CourseInfoBlock a:hover,.xmodule_display.xmodule_CourseInfoBlock a:active,.xmodule_display.xmodule_CourseInfoBlock a:focus{
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_display.xmodule_CourseInfoBlock img{
     max-width:100%
@@ -13785,7 +13784,7 @@ body.modal-open{
     list-style:disc outside none
 }
 .xmodule_display.xmodule_HtmlBlock a:link,.xmodule_display.xmodule_HtmlBlock a:visited,.xmodule_display.xmodule_HtmlBlock a:hover,.xmodule_display.xmodule_HtmlBlock a:active,.xmodule_display.xmodule_HtmlBlock a:focus{
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_display.xmodule_HtmlBlock img{
     max-width:100%
@@ -14219,10 +14218,10 @@ body.modal-open{
     margin-right:5px
 }
 .xmodule_display.xmodule_ProblemBlock .feedback-hint-incorrect .icon{
-    color:#b20610
+    color:#D90429
 }
 .xmodule_display.xmodule_ProblemBlock .feedback-hint-partially-correct .icon,.xmodule_display.xmodule_ProblemBlock .feedback-hint-correct .icon{
-    color:#008100
+    color:#7CB518
 }
 .xmodule_display.xmodule_ProblemBlock .feedback-hint-text{
     color:#646464
@@ -14329,34 +14328,34 @@ body.modal-open{
     margin:5px 10px 5px 5px
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:focus+label,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:hover+label,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label{
-    border:2px solid #0075b4
+    border:2px solid #219EBC
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:focus+label.choicegroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicegroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+label.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+section.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+section.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:hover+label.choicegroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicegroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+label.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+section.choicetextgroup_correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+section.choicetextgroup_correct{
-    border:2px solid #008100
+    border:2px solid #7CB518
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:focus+label.choicegroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicegroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+label.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+section.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+section.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:hover+label.choicegroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicegroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+label.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+section.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+section.choicetextgroup_correct .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:focus+label.choicegroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicegroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+label.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+section.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+section.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:hover+label.choicegroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicegroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+label.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+section.choicetextgroup_partially-correct,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+section.choicetextgroup_partially-correct{
-    border:2px solid #008100
+    border:2px solid #7CB518
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:focus+label.choicegroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicegroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+label.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+section.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+section.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:hover+label.choicegroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicegroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+label.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+section.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+section.choicetextgroup_partially-correct .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:focus+label.choicegroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicegroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+label.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+section.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+section.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:hover+label.choicegroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicegroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+label.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+section.choicetextgroup_incorrect,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+section.choicetextgroup_incorrect{
-    border:2px solid #b20610
+    border:2px solid #D90429
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:focus+label.choicegroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicegroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+label.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+section.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+section.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:hover+label.choicegroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicegroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+label.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+section.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+section.choicetextgroup_incorrect .status-icon::after{
-    color:#b20610;
+    color:#D90429;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:focus+label.choicegroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicegroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+label.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+label.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:focus+section.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:focus+section.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input:hover+label.choicegroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicegroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+label.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+label.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input:hover+section.choicetextgroup_submitted,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input:hover+section.choicetextgroup_submitted{
-    border:2px solid #0075b4
+    border:2px solid #219EBC
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup .field{
     position:relative
@@ -14394,17 +14393,17 @@ body.modal-open{
     width:20px
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .indicator-container .status.correct .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .indicator-container .status.partially-correct .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .indicator-container .status.incorrect .status-icon::after{
-    color:#b20610;
+    color:#D90429;
     font-size:1.2em;
     content:""
 }
@@ -14439,25 +14438,25 @@ body.modal-open{
     font-style:normal
 }
 .xmodule_display.xmodule_ProblemBlock div.problem div p span.clarification i:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_display.xmodule_ProblemBlock div.problem div.correct input,.xmodule_display.xmodule_ProblemBlock div.problem div.ui-icon-check input{
-    border-color:#008100
+    border-color:#7CB518
 }
 .xmodule_display.xmodule_ProblemBlock div.problem div.partially-correct input,.xmodule_display.xmodule_ProblemBlock div.problem div.ui-icon-check input{
-    border-color:#008100
+    border-color:#7CB518
 }
 .xmodule_display.xmodule_ProblemBlock div.problem div.processing input{
     border-color:#aaa
 }
 .xmodule_display.xmodule_ProblemBlock div.problem div.ui-icon-close input{
-    border-color:#b20610
+    border-color:#D90429
 }
 .xmodule_display.xmodule_ProblemBlock div.problem div.incorrect input,.xmodule_display.xmodule_ProblemBlock div.problem div.incomplete input{
-    border-color:#b20610
+    border-color:#D90429
 }
 .xmodule_display.xmodule_ProblemBlock div.problem div.submitted input,.xmodule_display.xmodule_ProblemBlock div.problem div.ui-icon-check input{
-    border-color:#0075b4
+    border-color:#219EBC
 }
 .xmodule_display.xmodule_ProblemBlock div.problem div p.answer{
     display:inline-block;
@@ -14714,31 +14713,31 @@ body.modal-open{
     background:none
 }
 .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.incorrect input,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.incorrect input{
-    border:2px solid #b20610
+    border:2px solid #D90429
 }
 .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.incorrect .status .status-icon::after,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.incorrect .status .status-icon::after{
-    color:#b20610;
+    color:#D90429;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.partially-correct input,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.partially-correct input{
-    border:2px solid #008100
+    border:2px solid #7CB518
 }
 .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.partially-correct .status .status-icon::after,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.partially-correct .status .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.correct input,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.correct input{
-    border:2px solid #008100
+    border:2px solid #7CB518
 }
 .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.correct .status .status-icon::after,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.correct .status .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.submitted input,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.submitted input{
-    border:2px solid #0075b4
+    border:2px solid #219EBC
 }
 .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.submitted .status,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.submitted .status{
     content:''
@@ -14844,7 +14843,7 @@ body.modal-open{
     max-width:110px
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .action .problem-action-btn:hover,.xmodule_display.xmodule_ProblemBlock div.problem .action .problem-action-btn:focus,.xmodule_display.xmodule_ProblemBlock div.problem .action .problem-action-btn:active{
-    color:#0075b4 !important
+    color:#219EBC !important
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .action .problem-action-btn .icon{
     margin-bottom:2px;
@@ -14873,12 +14872,12 @@ body.modal-open{
     white-space:nowrap
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .action .submit-attempt-container .submit-cta-description{
-    color:#0075b4;
+    color:#219EBC;
     font-size:small;
     padding-right:10px
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .action .submit-attempt-container .submit-cta-link-button{
-    color:#0075b4;
+    color:#219EBC;
     padding-right:5px
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .action .submission-feedback{
@@ -14945,18 +14944,18 @@ body.modal-open{
     line-height:1.5em
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .notification.success{
-    border-top:3px solid #008100
+    border-top:3px solid #7CB518
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .notification.success .icon{
     margin-right:15px;
-    color:#008100
+    color:#7CB518
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .notification.error{
-    border-top:3px solid #b20610
+    border-top:3px solid #D90429
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .notification.error .icon{
     margin-right:15px;
-    color:#b20610
+    color:#D90429
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .notification.warning{
     border-top:3px solid #e2c01f
@@ -14966,11 +14965,11 @@ body.modal-open{
     color:#e2c01f
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .notification.general{
-    border-top:3px solid #0075b4
+    border-top:3px solid #219EBC
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .notification.general .icon{
     margin-right:15px;
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .notification.problem-hint{
     border:1px solid #d9d9d9;
@@ -15031,10 +15030,10 @@ body.modal-open{
     background-color:#065683
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .review-btn{
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .review-btn.sr,.xmodule_display.xmodule_ProblemBlock div.problem .view-uploads .assets-library .pagination .review-btn.nav-label,.view-uploads .assets-library .pagination .xmodule_display.xmodule_ProblemBlock div.problem .review-btn.nav-label,.xmodule_display.xmodule_ProblemBlock div.problem .view-uploads .assets-library .pagination .pagination-form .review-btn.page-number-label,.view-uploads .assets-library .pagination .pagination-form .xmodule_display.xmodule_ProblemBlock div.problem .review-btn.page-number-label,.xmodule_display.xmodule_ProblemBlock div.problem .view-uploads .assets-library .pagination .pagination-form .review-btn.submit-pagination-form,.view-uploads .assets-library .pagination .pagination-form .xmodule_display.xmodule_ProblemBlock div.problem .review-btn.submit-pagination-form{
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_display.xmodule_ProblemBlock div.problem div.capa_reset{
     padding:25px;
@@ -15338,10 +15337,10 @@ body.modal-open{
     margin-bottom:0.5em
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup label.choicetextgroup_correct input[type="text"],.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup section.choicetextgroup_correct input[type="text"]{
-    border-color:#008100
+    border-color:#7CB518
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup label.choicetextgroup_partially-correct input[type="text"],.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup section.choicetextgroup_partially-correct input[type="text"]{
-    border-color:#008100
+    border-color:#7CB518
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup label.choicetextgroup_show_correct::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup section.choicetextgroup_show_correct::after{
     margin-left:15px;
@@ -15364,17 +15363,17 @@ body.modal-open{
     display:none
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .imageinput.capa_inputtype .correct .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .imageinput.capa_inputtype .incorrect .status-icon::after{
-    color:#b20610;
+    color:#D90429;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .imageinput.capa_inputtype .partially-correct .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
@@ -15395,17 +15394,17 @@ body.modal-open{
     display:none
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .annotation-input .correct .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .annotation-input .incorrect .status-icon::after{
-    color:#b20610;
+    color:#D90429;
     font-size:1.2em;
     content:""
 }
 .xmodule_display.xmodule_ProblemBlock div.problem .annotation-input .partially-correct .status-icon::after{
-    color:#008100;
+    color:#7CB518;
     font-size:1.2em;
     content:""
 }
@@ -15674,7 +15673,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
 }
 .xmodule_display.xmodule_SequenceBlock .sequence-nav-button.focused,.xmodule_display.xmodule_SequenceBlock .sequence-nav-button:hover,.xmodule_display.xmodule_SequenceBlock .sequence-nav-button:active,.xmodule_display.xmodule_SequenceBlock .sequence-nav-button.active,.xmodule_display.xmodule_SequenceBlock .sequence-nav button.focused,.xmodule_display.xmodule_SequenceBlock .sequence-nav button:hover,.xmodule_display.xmodule_SequenceBlock .sequence-nav button:active,.xmodule_display.xmodule_SequenceBlock .sequence-nav button.active{
     padding-top:2px;
-    background-color:#0075b4
+    background-color:#219EBC
 }
 .xmodule_display.xmodule_SequenceBlock .sequence-nav-button.focused .icon,.xmodule_display.xmodule_SequenceBlock .sequence-nav-button:hover .icon,.xmodule_display.xmodule_SequenceBlock .sequence-nav-button:active .icon,.xmodule_display.xmodule_SequenceBlock .sequence-nav-button.active .icon,.xmodule_display.xmodule_SequenceBlock .sequence-nav button.focused .icon,.xmodule_display.xmodule_SequenceBlock .sequence-nav button:hover .icon,.xmodule_display.xmodule_SequenceBlock .sequence-nav button:active .icon,.xmodule_display.xmodule_SequenceBlock .sequence-nav button.active .icon{
     color:#fff
@@ -15759,7 +15758,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     list-style:disc outside none
 }
 .xmodule_display.xmodule_StaticTabBlock a:link,.xmodule_display.xmodule_StaticTabBlock a:visited,.xmodule_display.xmodule_StaticTabBlock a:hover,.xmodule_display.xmodule_StaticTabBlock a:active,.xmodule_display.xmodule_StaticTabBlock a:focus{
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_display.xmodule_StaticTabBlock img{
     max-width:100%
@@ -16017,7 +16016,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     position:relative
 }
 .xmodule_display.xmodule_VideoBlock .video .video-wrapper:hover .btn-play{
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_display.xmodule_VideoBlock .video .video-wrapper:hover .btn-play::after{
     background:#fff
@@ -16596,7 +16595,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     width:80px
 }
 .xmodule_display.xmodule_VideoBlock .video .video-pre-roll .btn-play.btn-pre-roll:hover,.xmodule_display.xmodule_VideoBlock .video .video-pre-roll .btn-play.btn-pre-roll:focus{
-    background:#0075b4
+    background:#219EBC
 }
 .xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_partially-correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_partially-correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_partially-correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_partially-correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_partially-correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_partially-correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_incorrect .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicegroup_incorrect .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+label.choicetextgroup_incorrect .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+label.choicetextgroup_incorrect .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup .choicegroup input+section.choicetextgroup_incorrect .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .choicetextgroup input+section.choicetextgroup_incorrect .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .indicator-container .status.correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .indicator-container .status.correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .indicator-container .status.partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .indicator-container .status.partially-correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .indicator-container .status.incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .indicator-container .status.incorrect .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.incorrect .status .status-icon::after,.xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.incorrect .status .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.incorrect .status .status-icon::after,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.incorrect .status .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.partially-correct .status .status-icon::after,.xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.partially-correct .status .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.partially-correct .status .status-icon::after,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.partially-correct .status .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.correct .status .status-icon::after,.xmodule_display.xmodule_ProblemBlock .problem .capa_inputtype.textline>.correct .status .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.correct .status .status-icon::after,.xmodule_display.xmodule_ProblemBlock .problem .inputtype.formulaequationinput>.correct .status .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .imageinput.capa_inputtype .correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .imageinput.capa_inputtype .correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .imageinput.capa_inputtype .incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .imageinput.capa_inputtype .incorrect .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .imageinput.capa_inputtype .partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .imageinput.capa_inputtype .partially-correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .annotation-input .correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .annotation-input .correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .annotation-input .incorrect .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .annotation-input .incorrect .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .xmodule_display.xmodule_ProblemBlock div.problem .annotation-input .partially-correct .status-icon::after,.xmodule_display.xmodule_ProblemBlock div.problem .annotation-input .partially-correct .xmodule_display.xmodule_VideoBlock .status-icon::after,.xmodule_display.xmodule_VideoBlock .video-tracks .a11y-menu-container>a::after{
     font-family:FontAwesome;
@@ -17287,7 +17286,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     padding:18px 20px;
     top:0 !important;
     right:0;
-    background-color:#0075b4;
+    background-color:#219EBC;
     border-bottom:1px solid #00466c;
     color:#fff
 }
@@ -17325,14 +17324,14 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     border:1px solid #005e90;
     border-radius:3px;
     padding:5px 20px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     font-weight:bold;
     color:#fff
 }
 .xmodule_edit.xmodule_VideoBlock .editor-with-tabs .edit-header .editor-tabs .inner_tab_wrap a.tab.current{
-    background-color:#0075b4;
-    background-image:-webkit-linear-gradient(#0075b4,#0075b4);
-    background-image:linear-gradient(#0075b4,#0075b4);
+    background-color:#219EBC;
+    background-image:-webkit-linear-gradient(#219EBC,#219EBC);
+    background-image:linear-gradient(#219EBC,#219EBC);
     color:#005e90;
     box-shadow:inset 0 1px 2px 1px rgba(0,0,0,0.1);
     background-color:#001724;
@@ -17389,9 +17388,9 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     border-radius:3px;
-    background-color:#0075b4;
+    background-color:#219EBC;
     color:#fff
 }
 .xmodule_edit.xmodule_VideoBlock .component-tab .blue-button:hover:not(:disabled){
@@ -17564,16 +17563,16 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     margin-top:10px
 }
 .xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .wrapper-transcripts-message .transcripts-message-status{
-    color:#008100
+    color:#7CB518
 }
 .xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .wrapper-transcripts-message .transcripts-message-status.status-error{
-    color:#b20610
+    color:#D90429
 }
 .xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .wrapper-transcripts-message .transcripts-message-status .icon,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .wrapper-transcripts-message .transcripts-message-status [class*=" fa-"]{
     margin-right:5px
 }
 .xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .wrapper-transcripts-message .transcripts-error-message{
-    background:#b20610;
+    background:#D90429;
     color:#fff;
     padding:6.66667px
 }
@@ -17596,7 +17595,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     display:block;
     height:30px;
     margin:10px 0;
-    border:1px solid #0075b4;
+    border:1px solid #219EBC;
     text-align:center
 }
 .xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .progress-bar.is-invisible{
@@ -17612,7 +17611,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     display:block;
     width:0%;
     height:30px;
-    background:#0075b4;
+    background:#219EBC;
     color:#fff;
     line-height:28px
 }
@@ -17673,10 +17672,10 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     padding:10px;
     width:49%;
     text-align:center;
-    color:#0075b4
+    color:#219EBC
 }
 .xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .download-setting:hover{
-    background-color:#0075b4
+    background-color:#219EBC
 }
 .xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .remove-setting{
     transition:color 0.25s ease-in-out;
@@ -17685,7 +17684,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     color:#BEEC6F
 }
 .xmodule_VideoBlock .wrapper-comp-settings .list-input.settings-list .metadata-video-translations .remove-setting:hover{
-    color:#0075b4
+    color:#219EBC
 }
 .view-dashboard .wrapper-authorshiprights .ui-toggle-control{
     transition-duration:0.25s;
@@ -17699,7 +17698,7 @@ body.touch-based-device .xmodule_display.xmodule_SequenceBlock .sequence-nav ol 
     border-color:#333
 }
 .outline-section.valid-drop,.outline-subsection.valid-drop{
-    border-color:#0075b4
+    border-color:#219EBC
 }
 #page-prompt .wrapper-prompt::before{
     display:inline-block
@@ -17771,24 +17770,24 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
 .btn-default{
     border-color:transparent;
     background:transparent;
-    color:#0075b4
+    color:#219EBC
 }
 .btn-default:hover,.btn-default.is-hovered,.btn-default:focus,.btn-default.is-focused{
-    border-color:#0075b4;
+    border-color:#219EBC;
     background-color:transparent;
-    color:#0075b4
+    color:#219EBC
 }
 .btn-default:active,.btn-default.is-pressed,.btn-default.is-active{
-    border-color:#0075b4;
-    color:#0075b4
+    border-color:#219EBC;
+    color:#219EBC
 }
 .btn-default:disabled,.btn-default.is-disabled{
     border-color:#d2d0d0;
     color:#6b6969
 }
 .btn-primary,.btn-brand{
-    border-color:#0075b4;
-    background:#0075b4;
+    border-color:#219EBC;
+    background:#219EBC;
     color:#fcfcfc
 }
 .btn-primary:hover,.btn-brand:hover,.btn-primary.is-hovered,.is-hovered.btn-brand,.btn-primary:focus,.btn-brand:focus,.btn-primary.is-focused,.is-focused.btn-brand{
@@ -17797,8 +17796,8 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     color:#fcfcfc
 }
 .btn-primary:active,.btn-brand:active,.btn-primary.is-pressed,.is-pressed.btn-brand,.btn-primary.is-active,.is-active.btn-brand{
-    border-color:#0075b4;
-    background:#0075b4
+    border-color:#219EBC;
+    background:#219EBC
 }
 .btn-primary:disabled,.btn-brand:disabled,.btn-primary.is-disabled,.is-disabled.btn-brand{
     border-color:#d2d0d0;
@@ -17806,8 +17805,8 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     color:#676666
 }
 .btn-upgrade{
-    border-color:#008100;
-    background:#008100;
+    border-color:#7CB518;
+    background:#7CB518;
     color:#fcfcfc
 }
 .btn-upgrade:hover,.btn-upgrade.is-hovered,.btn-upgrade:focus,.btn-upgrade.is-focused{
