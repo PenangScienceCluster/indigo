@@ -3875,13 +3875,20 @@ form .note.has-actions:after{
     color:#fff !important
 }
 .form-create .actions .action-secondary{
-    transition: background-color 0.15s,box-shadow 0.15s;
-    display: inline-block;
-    padding: 4px 20px 5px;
-    border: 1px solid #b6c2b0;
-    border-radius: 5px;
-    background-color: #e0ebdf;
-    color: #616161;
+    transition:background-color 0.15s,box-shadow 0.15s;
+    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 0 0 transparent;
+    display:inline-block;
+    padding:4px 20px 5px;
+    background-color:rgba(255,255,255,0.6);
+    background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
+    background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
+    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
+    border:1px solid #464646;
+    border-radius:3px;
+    background-color:#d1dae3;
+    color:#6d788b;
+    text-shadow:0 1px 0 rgba(255,255,255,0.5);
+    margin-top:0
 }
 .form-create .actions .action-secondary.disabled,.form-create .actions .action-secondary.is-disabled{
     border:1px solid #999 !important;
@@ -3898,7 +3905,7 @@ form .note.has-actions:after{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .form-create .actions .action-secondary:hover{
-    background-color:#E7F8C9;
+    background-color:#d9e3ee;
     color:#6d788b
 }
 .incontext-editor.is-editable .access-editor-action-wrapper{
@@ -7712,8 +7719,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .edit-handouts-form .cancel-button:hover,.edit-handouts-form .cancel-button:focus{
-    background-color:#E7F8C9;
-    color:#616161
+    background-color:#d9e3ee;
+    color:#6d788b
 }
 .edit-handouts-form textarea{
     height:300px
@@ -10717,7 +10724,7 @@ body.modal-open{
 }
 .view-static-pages .component .component-actions .action-item .action-button .action-button-text,.view-static-pages .component .course-nav-item-actions .action-item .action-button .action-button-text,.view-static-pages .course-nav-item .component-actions .action-item .action-button .action-button-text,.view-static-pages .course-nav-item .course-nav-item-actions .action-item .action-button .action-button-text{
     padding-left:1px;
-    vertical-align:bottom;
+    vertical-align:middle;
     line-height:17px
 }
 .view-static-pages .component .component-actions .action-item .action-button.delete-button:hover,.view-static-pages .component .course-nav-item-actions .action-item .action-button.delete-button:hover,.view-static-pages .course-nav-item .component-actions .action-item .action-button.delete-button:hover,.view-static-pages .course-nav-item .course-nav-item-actions .action-item .action-button.delete-button:hover{
@@ -10725,7 +10732,7 @@ body.modal-open{
 }
 .view-static-pages .component .component-actions .action-item .icon,.view-static-pages .component .course-nav-item-actions .action-item .icon,.view-static-pages .course-nav-item .component-actions .action-item .icon,.view-static-pages .course-nav-item .course-nav-item-actions .action-item .icon{
     display:inline-block;
-    vertical-align:bottom
+    vertical-align:middle
 }
 .view-static-pages .component .component-actions .action-item.action-duplicate,.view-static-pages .component .component-actions .action-item.action-move,.view-static-pages .component .course-nav-item-actions .action-item.action-duplicate,.view-static-pages .component .course-nav-item-actions .action-item.action-move,.view-static-pages .course-nav-item .component-actions .action-item.action-duplicate,.view-static-pages .course-nav-item .component-actions .action-item.action-move,.view-static-pages .course-nav-item .course-nav-item-actions .action-item.action-duplicate,.view-static-pages .course-nav-item .course-nav-item-actions .action-item.action-move{
     display:none
