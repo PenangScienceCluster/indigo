@@ -12572,9 +12572,12 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     float: left;
     padding-right: 55px;
     padding-left: 10px;
-    border: 2px solid #c8c8c8;
-    border-radius: 3px;
+    border: none;
+    border-bottom: 2px solid #313131;
+    border-radius: 5px 5px 0 0;
+    background-color: #f5f5f5;
     box-shadow: none;
+    transition: 0.2s ease;
     width: 100%;
     height: 55px;
     color: #000;
@@ -12583,7 +12586,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
 }
 
 .home>header .title .course-search .search-input:focus {
-    border-color: #1790c7
+    border-color: #5C8001
 }
 
 .home>header .title .course-search .search-button {
@@ -12601,17 +12604,18 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     -moz-border-bottomleft-radius: 1px;
     border-bottom-left-radius: 1px;
     position: absolute;
-    border: 2px solid #1790c7;
+    border: none;
     box-shadow: none;
-    background: #009ee7;
+    background: none;
     padding: 0 14px;
     height: 55px;
-    color: #fff;
+    color: #7CB518;
+    transition: 0.2s ease;
     text-shadow: none
 }
 
 .home>header .title .course-search .search-button:hover,.home>header .title .course-search .search-button:focus {
-    background: #2bace6
+    background: #5C8001
 }
 
 .home>header .actions {
@@ -15636,9 +15640,11 @@ a.fade-cover {
     -moz-border-radius: 3px;
     -ms-border-radius: 3px;
     -o-border-radius: 3px;
-    border-radius: 3px;
+    border-radius: 5px 5px 0 0;
     padding-right: 55px;
-    border: 2px solid #c8c8c8;
+    background-color: #f5f5f5;
+    border: none;
+    border-bottom: 2px solid #313131;
     width: 100%;
     height: 55px;
     color: #000;
@@ -15647,7 +15653,7 @@ a.fade-cover {
 
 .find-courses .discovery-input:focus {
     box-shadow: none;
-    border-color: #256a97
+    border-color: #5C8001
 }
 
 .find-courses .discovery-submit {
@@ -15655,18 +15661,19 @@ a.fade-cover {
     right: 0;
     position: absolute;
     top: 0;
-    border: 2px solid #256a97;
-    border-radius: 2px;
+    border: none;
     height: 55px;
     padding: 0 14px;
-    background: #0075b4;
+    background: none;
     box-shadow: none;
-    color: #fff;
-    text-shadow: none
+    color: #7CB518;
+    text-shadow: none;
+    transition: 0.2s ease;
 }
 
 .find-courses .discovery-submit:hover,.find-courses .discovery-submit:focus {
-    background: #009ee7
+    background: none;
+    color: #5C8001;
 }
 
 .find-courses .loading-spinner {
