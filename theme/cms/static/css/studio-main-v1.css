@@ -893,10 +893,10 @@ body,input,button{
 a{
     transition:color 0.25s ease-in-out 0s;
     text-decoration:none;
-    color:#0075b4
+    color:#7CB518
 }
 a:hover{
-    color:#065683
+    color:#5C8001
 }
 .waiting{
     opacity:0.1
@@ -1364,8 +1364,8 @@ body.error h1{
     line-height:8.88rem
 }
 .view-howitworks.not-signedin .content-header h1{
-    font-size:48px;
-    font-size:4.8rem;
+    font-size:38px;
+    font-size:3.8rem;
     line-height:71.04px;
     line-height:7.104rem
 }
@@ -1412,7 +1412,7 @@ h1,.section-header,.title-2,.wrapper-mast .mast-wizard .page-header-sub,.wrapper
     line-height:1.628rem
 }
 .ui-loading,body,.content,.wrapper-xblock .container-paging-header .pagination .current-page,.wrapper-xblock .container-paging-footer .pagination .current-page,.wrapper-assets .assets-library .pagination .current-page,.wrapper-xblock .container-paging-header .pagination .page-number-input,.wrapper-xblock .container-paging-footer .pagination .page-number-input,.wrapper-assets .assets-library .pagination .page-number-input,.wrapper-xblock .container-paging-header .pagination .total-pages,.wrapper-xblock .container-paging-footer .pagination .total-pages,.wrapper-assets .assets-library .pagination .total-pages,.wrapper-comp-settings .list-input.settings-list input,.wrapper-comp-settings .list-input.settings-list select,.wrapper-comp-settings .list-input.settings-list input[type="number"],.form-create .list-input .field input,.form-create .list-input .field textarea,.incontext-editor.is-editable .incontext-editor-open-action,.incontext-editor.is-editable .access-button,.ui-widget,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,[class*="view-"] .course-outline-modal .list-fields .field input,[class*="view-"] .course-outline-modal .list-fields .field textarea,.view-signup .content,.view-signin .content,.view-util .content,.view-signup .content-primary form .list-input .field input,.view-signup .content-primary form .list-input .field textarea,.view-signin .content-primary form .list-input .field input,.view-signin .content-primary form .list-input .field textarea,.view-util .content-primary form .list-input .field input,.view-util .content-primary form .list-input .field textarea,.view-uploads .assets-library .pagination .current-page,.view-uploads .assets-library .pagination .page-number-input,.view-uploads .assets-library .pagination .total-pages,.course-updates .update-contents p,.course-updates .update-contents pre,.view-export .wrapper-status .list-progress .status-detail .copy,.view-howitworks.not-signedin .content,.view-howitworks.not-signedin .content-features .feature .copy .list-proofpoints .proofpoint .title,.view-import .wrapper-status .list-progress .status-detail .copy,.view-outline .new-section-name,.view-outline .new-subsection-name-input,.view-outline .course-status .status-release,.view-outline .course-status .status-highlights-enabled,.view-outline .course-status .status-studio-frontend,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,.view-outline .course-outline-modal .list-fields .field input,.view-outline .course-outline-modal .list-fields .field textarea,.view-settings .group-settings .list-input .field input,.view-settings .group-settings .list-input .field textarea,.view-settings .group-settings.grade-range .grade-slider .grade-bar .grades li .letter-grade,.view-settings .group-settings.advanced-policies .CodeMirror,.view-static-pages .content-primary .notice-incontext .copy,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field textarea,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field textarea,.view-export-git .export-git-info-block dd,.view-group-configurations .content-primary .notice-moduledisabled,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field input,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field textarea,.view-certificates .content-primary .notice-moduledisabled,.view-certificates .wrapper-collection .collection-edit .field input,.view-certificates .wrapper-collection .collection-edit .field textarea,.view-certificates .certificates .signatory-edit .field input,.view-certificates .certificates .signatory-edit .field textarea,.wrapper-xblock .xblock-header-primary .header-details .xblock-display-name,.view-howitworks.not-signedin .content-features .feature .copy>p,.view-import .wrapper-file-name .title,.view-settings .settings-details .is-not-editable input,.view-settings .settings-details .is-not-editable textarea,.view-settings .group-settings.basic .note-promotion-courseURL .copy .link-courseURL,.edit-static-page .page-display-name-input,.view-export-git .export-git-info-block dt,.view-group-configurations .content-primary .wrapper-collection .collection-items .item,.view-group-configurations .content-primary .experiment-groups .group-configuration-details .groups .group,.view-certificates .wrapper-collection .collection-items .item,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .progress-bar,body.error .description,.content header .title-sub,.details,.wrapper-xblock .xblock-header-primary .header-details .xblock-group-visibility-label,.wrapper-xblock .wrapper-xblock-message .xblock-message,.wrapper-xblock .wrapper-xblock-message .xblock-message.information,.wrapper-comp-settings .list-input.settings-list .setting-label,.view-container .content-supplementary .bit-publishing .bar-mod-content,.view-container .content-supplementary .unit-location .bar-mod-content,.view-container .content-supplementary .library-location .bar-mod-content,form input[type="file"],.form-create .list-input .field label,.CodeMirror,.message,.wrapper-notification .copy,.wrapper-alert .copy,.prompt .copy,.notification .copy,.alert .action-dismiss .button-copy,.wrapper-message .message,.wrapper-message .message.information,.main-wrapper .alert,.content .introduction .copy,.notice-incontext .copy,.bit,[class*="view-"] .modal-window .message,[class*="view-"] .modal-window .summary-message .copy,[class*="view-"] .modal-window .modal-section .settings-tabs-header li.settings-tab-buttons .settings-tab-button,[class*="view-"] .modal-lg.modal-editor .modal-header .editor-modes .action-item .editor-button,[class*="view-"] .modal-lg.modal-editor .modal-header .editor-modes .action-item .settings-button,[class*="view-"] .modal-lg.modal-editor .modal-header .editor-modes .action-item .plugins-button,[class*="view-"] .modal-lg.modal-type-video .xmodule_edit.xmodule_VideoBlock .editor-with-tabs .edit-header .editor-tabs .inner_tab_wrap a.tab,[class*="view-"] .xblock-visibility_view .is-not-configured .copy,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field-message,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field-message,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field-message,[class*="view-"] .course-outline-modal .list-fields .field-message,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field .tip,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field .tip,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field .tip,[class*="view-"] .course-outline-modal .list-fields .field .tip,.wrapper-assets .assets-library .assets-table tbody .name-col .title,.wrapper-assets .assets-library .assets-table .js-table-body .name-col .title,.view-signup .content .introduction,.view-signin .content .introduction,.view-util .content .introduction,.view-signup .content-primary form .list-input .field label,.view-signin .content-primary form .list-input .field label,.view-util .content-primary form .list-input .field label,.view-signup .content-supplementary .bit,.view-signin .content-supplementary .bit,.view-util .content-supplementary .bit,.view-uploads .assets-library table tbody .name-col .title,.view-uploads .upload-modal .progress-fill,.course-handouts .handouts-content,.view-dashboard .status-creationrights .status-update .value-description,.view-dashboard .wrapper-course.has-status .course-status .value .copy,.view-dashboard .wrapper-course.has-status .status-message,.view-dashboard .wrapper-course.has-status .status-message.has-actions .status-actions .button-copy,.view-dashboard .course-item .course-metadata,.view-export .export-contents .export-includes .item-detail,.view-export .export-contents .export-excludes .item-detail,.view-howitworks.not-signedin .content-features .feature .copy .list-proofpoints,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field label,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field label,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field label,.view-outline .course-outline-modal .list-fields .field label,.view-settings .message,.view-settings .group-settings .instructions,.view-settings .group-settings .message-error,.view-settings .group-settings .list-input .field label,.view-settings .group-settings.basic .note-promotion-courseURL .title,.edit-static-page .page-contents,.view-container .content-supplementary .bit-publishing .wrapper-pub-actions .action-discard,.view-team .content .introduction,.view-team .user-list .user-item .item-actions .action-role .notoggleforyou,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field label,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field label,.view-group-configurations .content-primary .wrapper-groups .copy,.view-group-configurations .content-primary .wrapper-collection .collection-info,.view-group-configurations .content-primary .wrapper-collection .collection-references,.view-group-configurations .content-primary .wrapper-collection .usage-validation,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field label,.view-group-configurations .content-primary .experiment-groups .group-configuration-details .group-configuration-info,.view-certificates .content-primary .wrapper-certificates .copy,.view-certificates .content-primary .wrapper-certificates .instructions,.view-certificates .wrapper-collection .collection-info,.view-certificates .wrapper-collection .collection-references,.view-certificates .wrapper-collection .collection-edit .field label,.view-certificates .certificates .signatory-edit .field label,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .wrapper-transcripts-message .transcripts-error-message,.content-primary header .tip,.window label .description,.content-modal .description,.wrapper-xblock .container-paging-header .meta,.wrapper-xblock.level-element .wrapper-xblock-message .xblock-message.information,.wrapper-comp-settings .list-input.settings-list .setting-help,.wrapper-license .license-types .tip,.wrapper-license .wrapper-license-options .tip,.view-container .content-supplementary .bit-publishing .bar-mod-content .meta,.view-container .content-supplementary .unit-location .bar-mod-content .meta,.view-container .content-supplementary .library-location .bar-mod-content .meta,.outline-complex .outline-section .section-status,.outline-complex .outline-subsection .subsection-status,.outline-complex .outline-unit .unit-status,.outline-simple .outline-section .section-status,.outline-simple .outline-subsection .subsection-status,.outline-simple .outline-unit .unit-status,input[type="text"],input[type="email"],input[type="password"],textarea.text,.form-create .list-input .field .tip,label,.wrapper-footer footer.primary,.wrapper-sock .sock,.wrapper-sock .sock .support .copy,.wrapper-sock .sock .feedback .copy,.content .introduction.has-links .nav-introduction-supplementary,.ui-datepicker,[class*="view-"] .xblock-visibility_view .partition-group-visibility.was-removed .note,[class*="view-"] .wrapper-modal-window-bulkpublish-section .edit-staff-lock .note,[class*="view-"] .wrapper-modal-window-bulkpublish-section .edit-settings-timed-examination .note,[class*="view-"] .wrapper-modal-window-bulkpublish-section .edit-unit-access .note,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .edit-staff-lock .note,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .edit-settings-timed-examination .note,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .edit-unit-access .note,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .edit-staff-lock .note,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .edit-settings-timed-examination .note,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .edit-unit-access .note,[class*="view-"] .course-outline-modal .edit-staff-lock .note,[class*="view-"] .course-outline-modal .edit-settings-timed-examination .note,[class*="view-"] .course-outline-modal .edit-unit-access .note,.wrapper-assets .assets-library .meta,.wrapper-assets .assets-library .assets-table th,.wrapper-assets .assets-library .assets-table .video-head-col,.wrapper-assets .assets-library .assets-table tbody .date-col,.wrapper-assets .assets-library .assets-table .js-table-body .date-col,.wrapper-assets .assets-library .assets-table tbody .embed-col .embeddable-xml-input,.wrapper-assets .assets-library .assets-table .js-table-body .embed-col .embeddable-xml-input,.view-signup .content-primary form .list-input .field .tip,.view-signin .content-primary form .list-input .field .tip,.view-util .content-primary form .list-input .field .tip,.view-uploads .assets-library .meta,.view-uploads .assets-library table th,.view-uploads .assets-library table tbody .thumb-col,.view-uploads .assets-library table tbody .type-col,.view-uploads .assets-library table tbody .date-col,.view-uploads .assets-library table tbody .embed-col,.view-uploads .assets-library table tbody .embed-col .embeddable-xml-input,.view-outline .bulkpublish-section-modal .outline-unit .unit-status,.view-outline .bulkpublish-subsection-modal .outline-unit .unit-status,.view-outline .bulkpublish-unit-modal .outline-unit .unit-status,.view-settings .group-settings header .tip,.view-settings .group-settings .tip,.view-settings .group-settings #field-course-image .current-course-image .msg,.view-settings .group-settings #field-banner-image .current-course-image .msg,.view-settings .group-settings #field-video-thumbnail-image .current-course-image .msg,.view-settings .group-settings.instructor-types .field-group .field-course-instructor-image .msg,.view-container .content-supplementary .unit-publish-history .wrapper-last-publish .copy,.view-container .content-supplementary .unit-location .wrapper-unit-id .tip,.view-container .content-supplementary .unit-location .wrapper-library-id .tip,.view-container .content-supplementary .library-location .wrapper-unit-id .tip,.view-container .content-supplementary .library-location .wrapper-library-id .tip,.view-textbooks .content-primary .textbook .view-textbook .chapters .chapter,.view-textbooks .content-primary .textbook .edit-textbook .copy,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field .tip,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field .tip,.view-group-configurations .content-primary .wrapper-collection .collection-edit .tip,.view-group-configurations .content-primary .wrapper-collection .collection-edit .copy,.view-certificates .wrapper-collection .collection-edit .tip,.view-certificates .wrapper-collection .collection-edit .copy,.view-certificates .certificates .signatory-edit .tip,.xmodule_VideoBlock .wrapper-comp-settings.basic_metadata_edit .transcripts-status .wrapper-transcripts-message .transcripts-message,.view-uploads .nav-actions .fa-cloud-upload,.view-video-uploads .nav-actions .fa-cloud-upload{
-    font-family:"Poppins","Helvetica Neue",Helvetica,Arial,sans-serif
+    font-family:"Inter","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 .ui-loading,body,.content,.wrapper-xblock .container-paging-header .pagination .current-page,.wrapper-xblock .container-paging-footer .pagination .current-page,.wrapper-assets .assets-library .pagination .current-page,.wrapper-xblock .container-paging-header .pagination .page-number-input,.wrapper-xblock .container-paging-footer .pagination .page-number-input,.wrapper-assets .assets-library .pagination .page-number-input,.wrapper-xblock .container-paging-header .pagination .total-pages,.wrapper-xblock .container-paging-footer .pagination .total-pages,.wrapper-assets .assets-library .pagination .total-pages,.wrapper-comp-settings .list-input.settings-list input,.wrapper-comp-settings .list-input.settings-list select,.wrapper-comp-settings .list-input.settings-list input[type="number"],.form-create .list-input .field input,.form-create .list-input .field textarea,.incontext-editor.is-editable .incontext-editor-open-action,.incontext-editor.is-editable .access-button,.ui-widget,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field input,[class*="view-"] .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,[class*="view-"] .course-outline-modal .list-fields .field input,[class*="view-"] .course-outline-modal .list-fields .field textarea,.view-signup .content,.view-signin .content,.view-util .content,.view-signup .content-primary form .list-input .field input,.view-signup .content-primary form .list-input .field textarea,.view-signin .content-primary form .list-input .field input,.view-signin .content-primary form .list-input .field textarea,.view-util .content-primary form .list-input .field input,.view-util .content-primary form .list-input .field textarea,.view-uploads .assets-library .pagination .current-page,.view-uploads .assets-library .pagination .page-number-input,.view-uploads .assets-library .pagination .total-pages,.course-updates .update-contents p,.course-updates .update-contents pre,.view-export .wrapper-status .list-progress .status-detail .copy,.view-howitworks.not-signedin .content,.view-howitworks.not-signedin .content-features .feature .copy .list-proofpoints .proofpoint .title,.view-import .wrapper-status .list-progress .status-detail .copy,.view-outline .new-section-name,.view-outline .new-subsection-name-input,.view-outline .course-status .status-release,.view-outline .course-status .status-highlights-enabled,.view-outline .course-status .status-studio-frontend,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-section .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-subsection .list-fields .field textarea,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field input,.view-outline .wrapper-modal-window-bulkpublish-unit .list-fields .field textarea,.view-outline .course-outline-modal .list-fields .field input,.view-outline .course-outline-modal .list-fields .field textarea,.view-settings .group-settings .list-input .field input,.view-settings .group-settings .list-input .field textarea,.view-settings .group-settings.grade-range .grade-slider .grade-bar .grades li .letter-grade,.view-settings .group-settings.advanced-policies .CodeMirror,.view-static-pages .content-primary .notice-incontext .copy,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .chapters-fields .field textarea,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field input,.view-textbooks .content-primary .textbook .edit-textbook .textbook-fields .field textarea,.view-export-git .export-git-info-block dd,.view-group-configurations .content-primary .notice-moduledisabled,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field input,.view-group-configurations .content-primary .wrapper-collection .collection-edit .field textarea,.view-certificates .content-primary .notice-moduledisabled,.view-certificates .wrapper-collection .collection-edit .field input,.view-certificates .wrapper-collection .collection-edit .field textarea,.view-certificates .certificates .signatory-edit .field input,.view-certificates .certificates .signatory-edit .field textarea{
     font-size:16px;
@@ -4047,7 +4047,7 @@ code{
     color:#666
 }
 .wrapper-header nav .nav-item a:hover{
-    color:#065683
+    color:#FB6107
 }
 .wrapper-header .nav-dd .title{
     transition:all 0.25s ease-in-out 0s
@@ -4188,59 +4188,15 @@ code{
 .not-signedin .wrapper-header .nav-pitch .nav-item:last-child,.view-util .wrapper-header .nav-pitch .nav-item:last-child{
     margin-right:0
 }
-.not-signedin .wrapper-header .nav-pitch .action-signup,.view-util .wrapper-header .nav-pitch .action-signup{
-    transition:background-color 0.15s,box-shadow 0.15s;
-    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 0 0 transparent;
-    display:inline-block;
-    padding:4px 20px 5px;
-    background-color:rgba(255,255,255,0.3);
-    background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
-    background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    border:1px solid #0075b4;
-    border-radius:3px;
-    background-color:#0075b4;
-    color:#fff;
-    padding:5px 10px;
-    text-transform:uppercase
-}
-.not-signedin .wrapper-header .nav-pitch .action-signup.disabled,.not-signedin .wrapper-header .nav-pitch .action-signup.is-disabled,.view-util .wrapper-header .nav-pitch .action-signup.disabled,.view-util .wrapper-header .nav-pitch .action-signup.is-disabled{
-    border:1px solid #999 !important;
-    border-radius:3px !important;
-    background:#999 !important;
-    color:#666 !important;
-    pointer-events:none;
-    cursor:none
-}
-.not-signedin .wrapper-header .nav-pitch .action-signup.disabled:hover,.not-signedin .wrapper-header .nav-pitch .action-signup.disabled:focus,.not-signedin .wrapper-header .nav-pitch .action-signup.is-disabled:hover,.not-signedin .wrapper-header .nav-pitch .action-signup.is-disabled:focus,.view-util .wrapper-header .nav-pitch .action-signup.disabled:hover,.view-util .wrapper-header .nav-pitch .action-signup.disabled:focus,.view-util .wrapper-header .nav-pitch .action-signup.is-disabled:hover,.view-util .wrapper-header .nav-pitch .action-signup.is-disabled:focus{
-    box-shadow:0 0 0 0 !important
-}
-.not-signedin .wrapper-header .nav-pitch .action-signup:hover,.not-signedin .wrapper-header .nav-pitch .action-signup:focus,.not-signedin .wrapper-header .nav-pitch .action-signup:active,.view-util .wrapper-header .nav-pitch .action-signup:hover,.view-util .wrapper-header .nav-pitch .action-signup:focus,.view-util .wrapper-header .nav-pitch .action-signup:active{
-    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
-}
-.not-signedin .wrapper-header .nav-pitch .action-signup:hover,.not-signedin .wrapper-header .nav-pitch .action-signup:focus,.not-signedin .wrapper-header .nav-pitch .action-signup:active,.view-util .wrapper-header .nav-pitch .action-signup:hover,.view-util .wrapper-header .nav-pitch .action-signup:focus,.view-util .wrapper-header .nav-pitch .action-signup:active{
-    background-color:#065683;
-    color:#fff
-}
-.not-signedin .wrapper-header .nav-pitch .action-signup.disabled,.not-signedin .wrapper-header .nav-pitch .action-signup.is-disabled,.view-util .wrapper-header .nav-pitch .action-signup.disabled,.view-util .wrapper-header .nav-pitch .action-signup.is-disabled{
-    box-shadow:none;
-    border:1px solid #99c8e1 !important;
-    background:#99c8e1 !important;
-    color:#fff !important
-}
 .not-signedin .wrapper-header .nav-pitch .action-signin,.view-util .wrapper-header .nav-pitch .action-signin{
     transition:background-color 0.15s,box-shadow 0.15s;
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 0 0 transparent;
     display:inline-block;
     padding:4px 20px 5px;
-    background-color:rgba(255,255,255,0.6);
-    background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
-    background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
-    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #0075b4;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
-    text-shadow:0 1px 0 rgba(255,255,255,0.5);
+    background-color:#0075b4;
+    color:#fff;
     padding:5px 10px;
     text-transform:uppercase
 }
@@ -4258,7 +4214,45 @@ code{
 .not-signedin .wrapper-header .nav-pitch .action-signin:hover,.not-signedin .wrapper-header .nav-pitch .action-signin:focus,.not-signedin .wrapper-header .nav-pitch .action-signin:active,.view-util .wrapper-header .nav-pitch .action-signin:hover,.view-util .wrapper-header .nav-pitch .action-signin:focus,.view-util .wrapper-header .nav-pitch .action-signin:active{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
-.not-signedin .wrapper-header .nav-pitch .action-signin:hover,.not-signedin .wrapper-header .nav-pitch .action-signin:focus,.view-util .wrapper-header .nav-pitch .action-signin:hover,.view-util .wrapper-header .nav-pitch .action-signin:focus{
+.not-signedin .wrapper-header .nav-pitch .action-signin:hover,.not-signedin .wrapper-header .nav-pitch .action-signin:focus,.not-signedin .wrapper-header .nav-pitch .action-signin:active,.view-util .wrapper-header .nav-pitch .action-signin:hover,.view-util .wrapper-header .nav-pitch .action-signin:focus,.view-util .wrapper-header .nav-pitch .action-signin:active{
+    background-color:#065683;
+    color:#fff
+}
+.not-signedin .wrapper-header .nav-pitch .action-signin.disabled,.not-signedin .wrapper-header .nav-pitch .action-signin.is-disabled,.view-util .wrapper-header .nav-pitch .action-signin.disabled,.view-util .wrapper-header .nav-pitch .action-signin.is-disabled{
+    box-shadow:none;
+    border:1px solid #99c8e1 !important;
+    background:#99c8e1 !important;
+    color:#fff !important
+}
+.not-signedin .wrapper-header .nav-pitch .action-signup,.view-util .wrapper-header .nav-pitch .action-signup{
+    transition:background-color 0.15s,box-shadow 0.15s;
+    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 0 0 transparent;
+    display:inline-block;
+    padding:4px 20px 5px;
+    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
+    border:1px solid #b0b6c2;
+    border-radius:3px;
+    background-color:#dfe5eb;
+    color:#5c677a;
+    text-shadow:0 1px 0 rgba(255,255,255,0.5);
+    padding:5px 10px;
+    text-transform:uppercase
+}
+.not-signedin .wrapper-header .nav-pitch .action-signup.disabled,.not-signedin .wrapper-header .nav-pitch .action-signup.is-disabled,.view-util .wrapper-header .nav-pitch .action-signup.disabled,.view-util .wrapper-header .nav-pitch .action-signup.is-disabled{
+    border:1px solid #999 !important;
+    border-radius:3px !important;
+    background:#999 !important;
+    color:#666 !important;
+    pointer-events:none;
+    cursor:none
+}
+.not-signedin .wrapper-header .nav-pitch .action-signup.disabled:hover,.not-signedin .wrapper-header .nav-pitch .action-signup.disabled:focus,.not-signedin .wrapper-header .nav-pitch .action-signup.is-disabled:hover,.not-signedin .wrapper-header .nav-pitch .action-signup.is-disabled:focus,.view-util .wrapper-header .nav-pitch .action-signup.disabled:hover,.view-util .wrapper-header .nav-pitch .action-signup.disabled:focus,.view-util .wrapper-header .nav-pitch .action-signup.is-disabled:hover,.view-util .wrapper-header .nav-pitch .action-signup.is-disabled:focus{
+    box-shadow:0 0 0 0 !important
+}
+.not-signedin .wrapper-header .nav-pitch .action-signup:hover,.not-signedin .wrapper-header .nav-pitch .action-signup:focus,.not-signedin .wrapper-header .nav-pitch .action-signup:active,.view-util .wrapper-header .nav-pitch .action-signup:hover,.view-util .wrapper-header .nav-pitch .action-signup:focus,.view-util .wrapper-header .nav-pitch .action-signup:active{
+    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
+}
+.not-signedin .wrapper-header .nav-pitch .action-signup:hover,.not-signedin .wrapper-header .nav-pitch .action-signup:focus,.view-util .wrapper-header .nav-pitch .action-signup:hover,.view-util .wrapper-header .nav-pitch .action-signup:focus{
     background-color:#deecf7;
     color:#5c677a
 }
@@ -8416,11 +8410,9 @@ body.modal-open{
     color:#333
 }
 .view-howitworks.not-signedin .wrapper-content-header{
-    background-color:#3391c3;
-    background-image:-webkit-linear-gradient(#3391c3,#0075b4,#005e90);
-    background-image:linear-gradient(#3391c3,#0075b4,#005e90);
-    padding-bottom:80px;
-    padding-top:80px
+    background-color:#7CB518;
+    padding-bottom:40px;
+    padding-top:30px
 }
 .view-howitworks.not-signedin .content-header{
     position:relative;
@@ -8430,7 +8422,7 @@ body.modal-open{
 .view-howitworks.not-signedin .content-header h1{
     float:none;
     margin:0 0 10px 0;
-    border-bottom:1px solid #3391c3;
+    border-bottom:2px solid #639211;
     padding:0;
     color:#fff
 }
@@ -8442,7 +8434,8 @@ body.modal-open{
 }
 .view-howitworks.not-signedin .content-header .tagline{
     margin:0;
-    color:#99c8e1
+    color:#99c8e1;
+    font-size: 2rem;
 }
 .view-howitworks.not-signedin .arrow_box{
     position:relative;
