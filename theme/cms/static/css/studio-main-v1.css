@@ -7690,10 +7690,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b6c2b0;
+    border:1px solid #464646;
     border-radius:3px;
-    background-color:#e0ebdf;
-    color:#616161;
+    background-color:#d1dae3;
+    color:#6d788b;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     margin-top:0
 }
@@ -9606,19 +9606,14 @@ body.modal-open{
     color:#D90429
 }
 .view-settings .group-settings .remove-item{
-    transition:background-color 0.15s,box-shadow 0.15s;
-    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 0 0 transparent;
-    display:inline-block;
-    padding:4px 20px 5px;
-    background-color:rgba(255,255,255,0.6);
-    background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
-    background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
-    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b6c2b0;
-    border-radius:3px;
-    background-color:#e0ebdf;
-    color:#616161;
-    text-shadow:0 1px 0 rgba(255,255,255,0.5)
+    transition: background-color 0.15s,box-shadow 0.15s;
+    display: inline-block;
+    padding: 4px 20px 5px;
+    border: 1px solid #D90429;
+    border-radius: 5px;
+    background-color: #D90429;
+    color: #fff;
+    border-color: #D90429;
 }
 .view-settings .group-settings .remove-item.disabled,.view-settings .group-settings .remove-item.is-disabled{
     border:1px solid #999 !important;
@@ -9635,8 +9630,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .view-settings .group-settings .remove-item:hover,.view-settings .group-settings .remove-item:focus{
-    background-color:#E7F8C9;
-    color:#616161
+    background-color:#A1021D;
+    color:#fff
 }
 .view-settings .group-settings .list-input .show-data .heading{
     border:1px solid #e0e0e0;
@@ -9734,7 +9729,7 @@ body.modal-open{
 .view-settings .group-settings .list-input.enum .field-group{
     box-sizing:border-box;
     border-radius:3px;
-    background:#f2f2f2;
+    background:#f8f8f8;
     padding:20px
 }
 .view-settings .group-settings .list-input.enum .field-group:last-child{
