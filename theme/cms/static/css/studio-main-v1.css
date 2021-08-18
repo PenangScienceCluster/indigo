@@ -3874,18 +3874,13 @@ form .note.has-actions:after{
     color:#fff !important
 }
 .form-create .actions .action-secondary{
-    transition:background-color 0.15s,box-shadow 0.15s;
-    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 0 0 transparent;
-    display:inline-block;
-    padding:4px 20px 5px;
-    background-color:rgba(255,255,255,0.3);
-    background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
-    background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
-    box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #4c4c4c;
-    border-radius:3px;
-    background-color:#d1dae3;
-    color:#6d788b
+    transition: background-color 0.15s,box-shadow 0.15s;
+    display: inline-block;
+    padding: 4px 20px 5px;
+    border: 1px solid #b6c2b0;
+    border-radius: 5px;
+    background-color: #e0ebdf;
+    color: #5c677a;
 }
 .form-create .actions .action-secondary.disabled,.form-create .actions .action-secondary.is-disabled{
     border:1px solid #999 !important;
@@ -3902,7 +3897,7 @@ form .note.has-actions:after{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .form-create .actions .action-secondary:hover{
-    background-color:#d9e3ee;
+    background-color:#E7F8C9;
     color:#6d788b
 }
 .incontext-editor.is-editable .access-editor-action-wrapper{
