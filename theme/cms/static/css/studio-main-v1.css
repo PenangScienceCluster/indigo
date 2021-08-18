@@ -1246,7 +1246,7 @@ p:last-child,ul:last-child,ol:last-child,dl:last-child{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.4),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.4),rgba(255,255,255,0));
     padding:6px 14px;
-    border-bottom:1px solid #b0b6c2;
+    border-bottom:1px solid #b6c2b0;
     border-radius:2px 2px 0 0;
     background-color:#c5cfdf;
     box-shadow:0 1px 0 rgba(255,255,255,0.2) inset;
@@ -2689,7 +2689,7 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     display:none;
     margin:20px 40px;
     border-radius:3px;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     background-color:#fff;
     box-shadow:0 1px 1px rgba(0,0,0,0.2),0 1px 0 rgba(255,255,255,0.4) inset
 }
@@ -2707,10 +2707,10 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     margin:20px 0 10px 10px
 }
@@ -2729,8 +2729,8 @@ div.wrapper-comp-editor.is-inactive ~ div.launch-latex-compiler{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .add-xblock-component .new-component-templates .cancel-button:hover,.add-xblock-component .new-component-templates .cancel-button:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .add-xblock-component .new-component-templates .problem-type-tabs{
     display:none
@@ -3881,7 +3881,7 @@ form .note.has-actions:after{
     border: 1px solid #b6c2b0;
     border-radius: 5px;
     background-color: #e0ebdf;
-    color: #5c677a;
+    color: #616161;
 }
 .form-create .actions .action-secondary.disabled,.form-create .actions .action-secondary.is-disabled{
     border:1px solid #999 !important;
@@ -3970,7 +3970,7 @@ code{
     min-height:80px;
     padding:10px;
     box-sizing:border-box;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     background-color:rgba(255,255,255,0);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0),rgba(255,255,255,0.3));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0),rgba(255,255,255,0.3));
@@ -4224,7 +4224,7 @@ code{
     border:1px solid #b6c2b0;
     border-radius:5px;
     background-color:#e0ebdf;
-    color:#5c677a;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     padding:5px 10px;
     text-transform:uppercase
@@ -4245,7 +4245,7 @@ code{
 }
 .not-signedin .wrapper-header .nav-pitch .action-signup:hover,.not-signedin .wrapper-header .nav-pitch .action-signup:focus,.view-util .wrapper-header .nav-pitch .action-signup:hover,.view-util .wrapper-header .nav-pitch .action-signup:focus{
     background-color:#E7F8C9;
-    color:#5c677a
+    color:#616161
 }
 .nav-item.is-current,body.howitworks .nav-not-signedin-hiw,body.dashboard .nav-account-dashboard,body.course.view-outline .nav-course-courseware .title,body.course.view-updates .nav-course-courseware .title,body.course.view-static-pages .nav-course-courseware .title,body.course.view-uploads .nav-course-courseware .title,body.course.view-textbooks .nav-course-courseware .title,body.course.view-video-uploads .nav-course-courseware .title,body.course.view-outline .nav-course-courseware-outline,body.course.view-updates .nav-course-courseware-updates,body.course.view-static-pages .nav-course-courseware-pages,body.course.view-uploads .nav-course-courseware-uploads,body.course.view-textbooks .nav-course-courseware-textbooks,body.course.view-video-uploads .nav-course-courseware-videos,body.course.schedule .nav-course-settings .title,body.course.grading .nav-course-settings .title,body.course.view-team .nav-course-settings .title,body.course.view-group-configurations .nav-course-settings .title,body.course.advanced .nav-course-settings .title,body.course.view-certificates .nav-course-settings .title,body.course.schedule .nav-course-settings-schedule,body.course.grading .nav-course-settings-grading,body.course.view-team .nav-course-settings-team,body.course.view-group-configurations .nav-course-settings-group-configurations,body.course.advanced .nav-course-settings-advanced,body.course.view-certificates .nav-course-settings-certificates,body.course.view-import .nav-course-tools .title,body.course.view-export .nav-course-tools .title,body.course.view-export-git .nav-course-tools .title,body.course.view-import .nav-course-tools-import,body.course.view-export .nav-course-tools-export,body.course.view-export-git .nav-course-tools-export-git,body.course.view-team .nav-library-settings .title,body.course.view-team .nav-library-settings-team,body.course.view-checklists .nav-course-tools .title,body.course.view-checklists .nav-course-tools-checklists{
     color:#219EBC
@@ -4608,8 +4608,8 @@ code{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .alert.warning .nav-actions .action-primary:hover,.alert.warning .nav-actions .action-primary:focus,.notification.warning .nav-actions .action-primary:hover,.notification.warning .nav-actions .action-primary:focus,.prompt.warning .nav-actions .action-primary:hover,.prompt.warning .nav-actions .action-primary:focus{
-    background-color:#ff7e12;
-    color:#4c4c4c
+    background-color:#A1021D;
+    color:#fff
 }
 .alert.warning .nav-actions .action-primary.disabled,.alert.warning .nav-actions .action-primary.is-disabled,.notification.warning .nav-actions .action-primary.disabled,.notification.warning .nav-actions .action-primary.is-disabled,.prompt.warning .nav-actions .action-primary.disabled,.prompt.warning .nav-actions .action-primary.is-disabled{
     border:1px solid #fecba1 !important;
@@ -4822,7 +4822,7 @@ code{
     display:inline-block;
     vertical-align:middle;
     width:350px;
-    border:4px solid #000;
+    border:4px solid #e5e5e5;
     text-align:left
 }
 .wrapper-prompt .prompt .copy{
@@ -5652,10 +5652,10 @@ body.error .back-button.disabled,body.error .back-button.is-disabled{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     margin-top:13px
 }
@@ -5674,8 +5674,8 @@ body.error .back-button.disabled,body.error .back-button.is-disabled{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .modal .close-button:hover,.modal .close-button:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 #lean_overlay{
     position:fixed;
@@ -5707,13 +5707,13 @@ body.modal-open{
 }
 .ui-datepicker .ui-datepicker-next.ui-state-hover,.ui-datepicker .ui-datepicker-prev.ui-state-hover{
     border-color:transparent;
-    background:#b0b6c2
+    background:#b6c2b0
 }
 .ui-datepicker .ui-datepicker-next.ui-state-hover .ui-icon-circle-triangle-e,.ui-datepicker .ui-datepicker-next.ui-state-hover .ui-icon-circle-triangle-w,.ui-datepicker .ui-datepicker-prev.ui-state-hover .ui-icon-circle-triangle-e,.ui-datepicker .ui-datepicker-prev.ui-state-hover .ui-icon-circle-triangle-w{
     background-image:url(../css/vendor/ui-lightness/images/ui-icons_ffffff_256x240.png)
 }
 .ui-datepicker .ui-state-default{
-    border-color:#b0b6c2;
+    border-color:#b6c2b0;
     color:#219EBC;
     transition:none
 }
@@ -7270,10 +7270,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     display:none;
     margin-bottom:100px
@@ -7293,8 +7293,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .view-uploads .upload-modal .copy-button:hover,.view-uploads .upload-modal .copy-button:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .view-updates .course-info-wrapper{
     display:table;
@@ -7307,7 +7307,7 @@ body.modal-open{
 }
 .view-updates .main-column{
     border-radius:3px 0 0 3px;
-    border-right-color:#b0b6c2
+    border-right-color:#b6c2b0
 }
 .view-updates .CodeMirror{
     border:1px solid #3c3c3c;
@@ -7461,7 +7461,7 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .course-updates .new-update-form .save-button:hover,.course-updates .new-update-form .save-button:focus,.course-updates .new-update-form .save-button:active{
-    background-color:#065683;
+    background-color:#5C8001;
     color:#fff
 }
 .course-updates .new-update-form .save-button.disabled,.course-updates .new-update-form .save-button.is-disabled{
@@ -7479,10 +7479,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     margin-top:0
 }
@@ -7501,8 +7501,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .course-updates .new-update-form .cancel-button:hover,.course-updates .new-update-form .cancel-button:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .course-updates .new-update-form textarea{
     height:180px
@@ -7519,10 +7519,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     float:left;
     padding:3px 10px 4px;
@@ -7543,8 +7543,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .course-updates .post-actions .edit-button:hover,.course-updates .post-actions .edit-button:focus,.course-updates .post-actions .delete-button:hover,.course-updates .post-actions .delete-button:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .course-updates .post-actions .edit-button .edit-icon,.course-updates .post-actions .edit-button .delete-icon,.course-updates .post-actions .delete-button .edit-icon,.course-updates .post-actions .delete-button .delete-icon{
     margin-right:4px
@@ -7580,10 +7580,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     float:right;
     padding:3px 10px 4px;
@@ -7604,8 +7604,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .course-handouts .edit-button:hover,.course-handouts .edit-button:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .course-handouts .edit-button .edit-icon,.course-handouts .edit-button .delete-icon{
     margin-right:4px
@@ -7690,10 +7690,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     margin-top:0
 }
@@ -7712,8 +7712,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .edit-handouts-form .cancel-button:hover,.edit-handouts-form .cancel-button:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .edit-handouts-form textarea{
     height:300px
@@ -8152,7 +8152,7 @@ body.modal-open{
     border:1px solid #b6c2b0;
     border-radius:5px;
     background-color:#e0ebdf;
-    color:#5c677a;
+    color:#616161;
 }
 .view-dashboard .create-course .new-course-cancel.disabled,.view-dashboard .create-course .new-course-cancel.is-disabled,.view-dashboard .create-library .new-course-cancel.disabled,.view-dashboard .create-library .new-course-cancel.is-disabled{
     border:1px solid #999 !important;
@@ -8170,7 +8170,7 @@ body.modal-open{
 }
 .view-dashboard .create-course .new-course-cancel:hover,.view-dashboard .create-course .new-course-cancel:focus,.view-dashboard .create-library .new-course-cancel:hover,.view-dashboard .create-library .new-course-cancel:focus{
     background-color:#E7F8C9;
-    color:#5c677a
+    color:#616161
 }
 .view-dashboard .create-course .item-details,.view-dashboard .create-library .item-details{
     padding-bottom:0
@@ -8734,10 +8734,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5)
 }
 .view-course-create .rerun-course .rerun-course-cancel.disabled,.view-course-create .rerun-course .rerun-course-cancel.is-disabled{
@@ -8755,8 +8755,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .view-course-create .rerun-course .rerun-course-cancel:hover,.view-course-create .rerun-course .rerun-course-cancel:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .view-course-create .rerun-course .item-details{
     padding-bottom:0
@@ -9129,10 +9129,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     padding:4px 20px 7px;
     color:#999
@@ -9152,8 +9152,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .view-outline .new-section-name-cancel:hover,.view-outline .new-section-name-cancel:focus,.view-outline .new-subsection-name-cancel:hover,.view-outline .new-subsection-name-cancel:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .view-outline .new-subsection-item,.view-outline .new-unit-item{
     width:100%;
@@ -9614,10 +9614,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5)
 }
 .view-settings .group-settings .remove-item.disabled,.view-settings .group-settings .remove-item.is-disabled{
@@ -9635,8 +9635,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .view-settings .group-settings .remove-item:hover,.view-settings .group-settings .remove-item:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .view-settings .group-settings .list-input .show-data .heading{
     border:1px solid #e0e0e0;
@@ -10354,7 +10354,7 @@ body.modal-open{
     background-image:-webkit-linear-gradient(#edf1f5,#fdfefe);
     background-image:linear-gradient(#edf1f5,#fdfefe);
     padding:5px 8px;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:2px;
     background-color:#edf1f5;
     font-family:"Bitstream Vera Sans Mono",Consolas,Courier,monospace;
@@ -10598,10 +10598,10 @@ body.modal-open{
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.6),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.6),rgba(255,255,255,0));
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:3px;
-    background-color:#dfe5eb;
-    color:#5c677a;
+    background-color:#e0ebdf;
+    color:#616161;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     margin-top:0
 }
@@ -10620,8 +10620,8 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .view-static-pages .unit-body .component-editor .cancel-button:hover,.view-static-pages .unit-body .component-editor .cancel-button:focus{
-    background-color:#deecf7;
-    color:#5c677a
+    background-color:#E7F8C9;
+    color:#616161
 }
 .view-static-pages .unit-body .component-editor .row{
     margin-bottom:0
@@ -10649,18 +10649,18 @@ body.modal-open{
 }
 .view-static-pages .component,.view-static-pages .course-nav-item{
     position:relative;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-top:none
 }
 .view-static-pages .component:first-child,.view-static-pages .course-nav-item:first-child{
-    border-top:1px solid #b0b6c2
+    border-top:1px solid #b6c2b0
 }
 .view-static-pages .component:hover,.view-static-pages .course-nav-item:hover{
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-top:none
 }
 .view-static-pages .component:hover:first-child,.view-static-pages .course-nav-item:hover:first-child{
-    border-top:1px solid #b0b6c2
+    border-top:1px solid #b6c2b0
 }
 .view-static-pages .component:hover .drag-handle,.view-static-pages .course-nav-item:hover .drag-handle{
     background:url("../images/drag-handles.png") center no-repeat #fff
@@ -10755,8 +10755,8 @@ body.modal-open{
     padding:2px
 }
 .view-static-pages .component.editing{
-    border-left:1px solid #b0b6c2;
-    border-right:1px solid #b0b6c2
+    border-left:1px solid #b6c2b0;
+    border-right:1px solid #b6c2b0
 }
 .view-static-pages .component.editing .xblock-student_view{
     display:none
@@ -10802,7 +10802,7 @@ body.modal-open{
     width:100%;
     height:360px;
     padding:15px;
-    border:1px solid #b0b6c2;
+    border:1px solid #b6c2b0;
     border-radius:2px;
     background-color:#edf1f5;
     box-shadow:0 1px 2px rgba(0,0,0,0.1) inset;
