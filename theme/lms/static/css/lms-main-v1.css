@@ -16162,7 +16162,7 @@ a.fade-cover {
     border-radius: 3px;
     display: block;
     float: left;
-    font: normal 1rem 'Poppins';
+    font: normal 1rem/1rem 'Poppins';
     letter-spacing: 1px;
     padding: 10px 0;
     text-align: center;
