@@ -4193,9 +4193,9 @@ code{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 0 0 transparent;
     display:inline-block;
     padding:4px 20px 5px;
-    border:1px solid #0075b4;
-    border-radius:3px;
-    background-color:#0075b4;
+    border:1px solid #5C8001;
+    border-radius:5px;
+    background-color:#5C8001;
     color:#fff;
     padding:5px 10px;
     text-transform:uppercase
@@ -4215,13 +4215,13 @@ code{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .not-signedin .wrapper-header .nav-pitch .action-signin:hover,.not-signedin .wrapper-header .nav-pitch .action-signin:focus,.not-signedin .wrapper-header .nav-pitch .action-signin:active,.view-util .wrapper-header .nav-pitch .action-signin:hover,.view-util .wrapper-header .nav-pitch .action-signin:focus,.view-util .wrapper-header .nav-pitch .action-signin:active{
-    background-color:#065683;
+    background-color:#629013;
     color:#fff
 }
 .not-signedin .wrapper-header .nav-pitch .action-signin.disabled,.not-signedin .wrapper-header .nav-pitch .action-signin.is-disabled,.view-util .wrapper-header .nav-pitch .action-signin.disabled,.view-util .wrapper-header .nav-pitch .action-signin.is-disabled{
     box-shadow:none;
-    border:1px solid #99c8e1 !important;
-    background:#99c8e1 !important;
+    border:1px solid #BEEC6F !important;
+    background:#BEEC6F !important;
     color:#fff !important
 }
 .not-signedin .wrapper-header .nav-pitch .action-signup,.view-util .wrapper-header .nav-pitch .action-signup{
@@ -4230,9 +4230,9 @@ code{
     display:inline-block;
     padding:4px 20px 5px;
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset;
-    border:1px solid #b0b6c2;
-    border-radius:3px;
-    background-color:#dfe5eb;
+    border:1px solid #b6c2b0;
+    border-radius:5px;
+    background-color:#e0ebdf;
     color:#5c677a;
     text-shadow:0 1px 0 rgba(255,255,255,0.5);
     padding:5px 10px;
@@ -4253,7 +4253,7 @@ code{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .not-signedin .wrapper-header .nav-pitch .action-signup:hover,.not-signedin .wrapper-header .nav-pitch .action-signup:focus,.view-util .wrapper-header .nav-pitch .action-signup:hover,.view-util .wrapper-header .nav-pitch .action-signup:focus{
-    background-color:#deecf7;
+    background-color:#E7F8C9;
     color:#5c677a
 }
 .nav-item.is-current,body.howitworks .nav-not-signedin-hiw,body.dashboard .nav-account-dashboard,body.course.view-outline .nav-course-courseware .title,body.course.view-updates .nav-course-courseware .title,body.course.view-static-pages .nav-course-courseware .title,body.course.view-uploads .nav-course-courseware .title,body.course.view-textbooks .nav-course-courseware .title,body.course.view-video-uploads .nav-course-courseware .title,body.course.view-outline .nav-course-courseware-outline,body.course.view-updates .nav-course-courseware-updates,body.course.view-static-pages .nav-course-courseware-pages,body.course.view-uploads .nav-course-courseware-uploads,body.course.view-textbooks .nav-course-courseware-textbooks,body.course.view-video-uploads .nav-course-courseware-videos,body.course.schedule .nav-course-settings .title,body.course.grading .nav-course-settings .title,body.course.view-team .nav-course-settings .title,body.course.view-group-configurations .nav-course-settings .title,body.course.advanced .nav-course-settings .title,body.course.view-certificates .nav-course-settings .title,body.course.schedule .nav-course-settings-schedule,body.course.grading .nav-course-settings-grading,body.course.view-team .nav-course-settings-team,body.course.view-group-configurations .nav-course-settings-group-configurations,body.course.advanced .nav-course-settings-advanced,body.course.view-certificates .nav-course-settings-certificates,body.course.view-import .nav-course-tools .title,body.course.view-export .nav-course-tools .title,body.course.view-export-git .nav-course-tools .title,body.course.view-import .nav-course-tools-import,body.course.view-export .nav-course-tools-export,body.course.view-export-git .nav-course-tools-export-git,body.course.view-team .nav-library-settings .title,body.course.view-team .nav-library-settings-team,body.course.view-checklists .nav-course-tools .title,body.course.view-checklists .nav-course-tools-checklists{
@@ -4292,10 +4292,10 @@ code{
     margin-right:14.28571%
 }
 .wrapper-footer footer.primary a{
-    color:#0075b4
+    color:#7CB518
 }
 .wrapper-footer footer.primary a:hover,.wrapper-footer footer.primary a:active{
-    color:#065683
+    color:#5C8001
 }
 .wrapper-footer footer.primary .nav-peripheral{
     width:48.93617%;
@@ -8434,7 +8434,7 @@ body.modal-open{
 }
 .view-howitworks.not-signedin .content-header .tagline{
     margin:0;
-    color:#99c8e1;
+    color:#fff;
     font-size: 2rem;
 }
 .view-howitworks.not-signedin .arrow_box{
@@ -8496,6 +8496,7 @@ body.modal-open{
     overflow:hidden;
     border:1px solid #ccc;
     padding:5px;
+    border-radius:5px;
     background:#fff
 }
 .view-howitworks.not-signedin .content-features .feature .img a .action-zoom{
@@ -8514,12 +8515,12 @@ body.modal-open{
     border-top-right-radius:3px;
     display:inline-block;
     padding:10px;
-    background:#0075b4;
+    background:#219EBC;
     color:#fff;
     text-align:center
 }
 .view-howitworks.not-signedin .content-features .feature .img a:hover{
-    border-color:#0075b4
+    border-color:#219EBC;
 }
 .view-howitworks.not-signedin .content-features .feature .img a:hover .action-zoom{
     opacity:1;
@@ -8572,11 +8573,11 @@ body.modal-open{
 }
 .view-howitworks.not-signedin .content-features .feature .copy .list-proofpoints .proofpoint:hover{
     box-shadow:0 1px 2px rgba(0,0,0,0.1);
-    background:#e6f1f8;
+    background:#f7ebd5;
     top:-4px
 }
 .view-howitworks.not-signedin .content-features .feature .copy .list-proofpoints .proofpoint:hover .title{
-    color:#00466c
+    color:#F09A05
 }
 .view-howitworks.not-signedin .content-features .feature .copy .list-proofpoints .proofpoint:last-child{
     margin-right:0
@@ -8634,12 +8635,10 @@ body.modal-open{
     transition:background-color 0.15s,box-shadow 0.15s;
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 0 0 transparent;
     display:inline-block;
-    padding:4px 20px 5px;
-    background-color:rgba(255,255,255,0.3);
     background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.3),rgba(255,255,255,0));
     background-image:linear-gradient(to bottom,rgba(255,255,255,0.3),rgba(255,255,255,0));
     border:1px solid #0075b4;
-    border-radius:3px;
+    border-radius:5px;
     background-color:#0075b4;
     color:#fff;
     padding:15px 10px;
@@ -8661,7 +8660,7 @@ body.modal-open{
     box-shadow:0 1px 0 rgba(255,255,255,0.3) inset,0 1px 1px rgba(0,0,0,0.15)
 }
 .view-howitworks.not-signedin .content-cta .list-actions .action.action-primary:hover,.view-howitworks.not-signedin .content-cta .list-actions .action.action-primary:focus,.view-howitworks.not-signedin .content-cta .list-actions .action.action-primary:active{
-    background-color:#065683;
+    background-color:#629013;
     color:#fff
 }
 .view-howitworks.not-signedin .content-cta .list-actions .action.action-primary.disabled,.view-howitworks.not-signedin .content-cta .list-actions .action.action-primary.is-disabled{
