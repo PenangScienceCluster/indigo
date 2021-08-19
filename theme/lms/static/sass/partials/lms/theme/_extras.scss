@@ -7597,11 +7597,11 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
     }
 }
 
-/* .animation-home-header-pop-up,.home>header .outer-wrapper {
-    animation: home-header-pop-up 1.15s ease-in-out;
-    animation-fill-mode: both;
-    animation-delay: 1s
-} */
+.animation-home-header-pop-up,.home>header .outer-wrapper {
+    animation: none;
+    animation-fill-mode: none;
+    animation-delay: unset
+}
 
 @-webkit-keyframes home-header-pop-up {
     0% {
