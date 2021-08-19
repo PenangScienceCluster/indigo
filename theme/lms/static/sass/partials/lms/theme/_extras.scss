@@ -3508,6 +3508,10 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
     outline: none
 }
 
+.btn {
+    text-shadow: none;
+}
+
 .btn-link {
     color: #7CB518
 }
@@ -16331,6 +16335,7 @@ a.fade-cover {
     border-radius: 5px;
     background-color: #f0f0f0;
     text-align: right;
+    text-decoration: none;
     color: #FBB02D
 }
 
@@ -16603,6 +16608,10 @@ a.fade-cover {
     float: left;
     margin: 0 10px 0 0;
     opacity: 0.6
+}
+
+.course-info .course-sidebar .important-dates li:hover .icon, .course-info .course-sidebar .important-dates li:focus .icon {
+    opacity: 0.6;
 }
 
 .course-info .course-sidebar .important-dates li .important-dates-item-text {
@@ -26267,8 +26276,9 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     }
 
     .global-header .nav-links .secondary .dropdown-user-menu {
-        position: absolute;
+        position: fixed;
         box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+        border: none;
         background-color: #fff;
         color: #313131;
         right: 30px;
@@ -26288,6 +26298,10 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
         cursor: pointer;
         overflow: hidden;
         padding: 0
+    }
+
+    .global-header .nav-links .secondary .dropdown-user-menu .dropdown-item:hover {
+        background-color: transparent;
     }
 
     .global-header .nav-links .secondary .dropdown-user-menu .dropdown-item:not(:last-child) {
@@ -27286,4 +27300,18 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
 .certificate-card.mode-professional .card-logo {
     background-image: url("/static/openedx_themes/images/certificates/red-certificate.3feb8341722d.png")
+}
+
+.course-outline .block-tree .section .section-name .section-title {
+    text-shadow: none;
+}
+
+.course-outline .block-tree .outline-button .fa {
+    color: #FBB02D;
+    text-shadow: none;
+}
+
+input[type="submit"]:active:not(:disabled), input[type="submit"]:focus:not(:disabled), input[type="button"]:active:not(:disabled), input[type="button"]:focus:not(:disabled), button:active:not(:disabled), button:focus:not(:disabled), .button:active:not(:disabled), .button:focus:not(:disabled) {
+    box-shadow: none;
+    outline: none;
 }
