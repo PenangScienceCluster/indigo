@@ -8251,6 +8251,11 @@ p a:not(.btn):hover:after,p a:visited:not(.btn):hover:after {
     transform: scaleX(1);
 }
 
+p a:not(.btn):hover, p a:not(.btn):focus, p a:visited:not(.btn):hover, p a:visited:not(.btn):focus{
+    color: #5C8001;
+    text-decoration: none;
+}
+
 a:not(.btn),a:visited:not(.btn) {
     color: #7CB518;
     font: inherit;
@@ -9791,6 +9796,10 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 .wrapper-footer footer#footer-openedx .nav-legal li:not(:first-child)::before {
     margin-right: 5px;
     content: "-"
+}
+
+.wrapper-footer footer#footer-openedx a:hover, .wrapper-footer footer#footer-openedx a:focus, .wrapper-footer footer#footer-openedx a:active {
+    border: none;
 }
 
 .wrapper-footer footer#footer-openedx .nav-social {
@@ -16024,6 +16033,7 @@ a.fade-cover {
     padding: 0px 50px;
     max-width: 1920px;
     position: relative;
+    border: none;
     z-index: 2
 }
 
@@ -16064,6 +16074,7 @@ a.fade-cover {
     box-shadow: 0 1px 0 0 rgba(255,255,255,0.6);
     margin-bottom: 20px;
     padding-bottom: 10px;
+    border: none;
     width: 100%
 }
 
@@ -16130,10 +16141,13 @@ a.fade-cover {
     font-size: inherit;
     font-weight: bold;
     background-color: #7CB518;
+    background-image: none;
+    border: none;
     border-radius: 3px;
     padding: 15px 0px;
     text-align: center;
     text-decoration: none;
+    text-shadow: none;
     box-sizing: border-box;
     display: block;
     font: normal 1.2rem/1.6rem 'Poppins';
@@ -16145,6 +16159,7 @@ a.fade-cover {
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta>a.find-courses:hover:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.register:hover:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.add-to-cart:hover:not(:disabled) {
     cursor: pointer;
     background-color: #5C8001;
+    background-image: none;
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta>a.find-courses:active:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta>a.find-courses:focus:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.register:active:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.register:focus:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.add-to-cart:active:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.add-to-cart:focus:not(:disabled) {
@@ -16170,14 +16185,13 @@ a.fade-cover {
 
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta strong {
     border: 1px solid #7CB518;
-    border-radius: 5px;
     color: #fff;
     display: inline-block;
     font-size: inherit;
     font-weight: bold;
     background-color: #7CB518;
-    padding: 7px 18px;
-    text-align: center;
+    background-image: none;
+    box-shadow: none;
     text-decoration: none;
     box-sizing: border-box;
     border-radius: 3px;
@@ -16194,6 +16208,7 @@ a.fade-cover {
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta strong:hover:not(:disabled) {
     cursor: pointer;
     background-color: #5C8001;
+    background-image: none;
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta strong:active:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta strong:focus:not(:disabled) {
@@ -16244,6 +16259,7 @@ a.fade-cover {
 }
 
 .course-info header.course-profile .intro-inner-wrapper .media .hero {
+    border: none;
     border-radius: 5px;
     height: 100%;
     overflow: hidden;
@@ -16540,6 +16556,7 @@ a.fade-cover {
     font-size: 1.75em;
     text-decoration: none;
     color: #219ebc;
+    opacity: 1;
     transition: all 0.15s linear 0s
 }
 
