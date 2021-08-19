@@ -15859,6 +15859,7 @@ a.fade-cover {
 .find-courses .search-facets.phone-menu {
     border: medium none;
     padding: 0;
+    z-index: 1;
     overflow: visible
 }
 
@@ -24319,8 +24320,14 @@ body.view-in-mfe .first-purchase-offer-banner {
     box-sizing: border-box;
     top: 5px;
     width: 100%;
-    border-radius: 4px;
-    background: #fff
+    border-radius: 5px 5px 0 0;
+    background: #f5f5f5
+}
+
+.search-bar .search-field:focus {
+    border: none;
+    border-bottom: 2px solid #5C8001;
+    box-shadow: none;
 }
 
 .search-bar .search-button,.search-bar .cancel-button,.search-bar .search-button:hover,.search-bar .cancel-button:hover {
@@ -24331,24 +24338,19 @@ body.view-in-mfe .first-purchase-offer-banner {
     top: 0;
     border: none;
     border-radius: 0;
-    -webkit-border-top-right-radius: 3px;
-    -moz-border-topright-radius: 3px;
-    border-top-right-radius: 3px;
-    -webkit-border-bottom-right-radius: 3px;
-    -moz-border-bottomright-radius: 3px;
-    border-bottom-right-radius: 3px;
-    background: #7CB518;
+    background: transparent;
     padding: 0 10px;
     height: 35px;
-    color: #fff;
+    color: #7CB518;
     box-shadow: none;
     line-height: 33px;
     text-shadow: none;
+    transition: 0.2s ease;
     text-transform: none
 }
 
 .search-bar .search-button:hover,.search-bar .search-button:focus,.search-bar .search-button:active,.search-bar .cancel-button:hover,.search-bar .cancel-button:focus,.search-bar .cancel-button:active,.search-bar .search-button:hover:hover,.search-bar .search-button:hover:focus,.search-bar .search-button:hover:active,.search-bar .cancel-button:hover:hover,.search-bar .cancel-button:hover:focus,.search-bar .cancel-button:hover:active {
-    background: #065683;
+    color: #5C8001;
     box-shadow: none;
     border: none
 }
@@ -24451,8 +24453,10 @@ body.view-in-mfe .first-purchase-offer-banner {
 }
 
 .dashboard-search-bar .search-field {
-    background: #fff;
-    box-shadow: 0 1px 0 0 #fff,inset 0 0 3px 0 rgba(0,0,0,0.05);
+    border: none;
+    border-bottom: 2px solid #313131;
+    background: #f5f5f5;
+    box-shadow: none;
     font-family: 'Poppins';
     font-style: normal
 }
