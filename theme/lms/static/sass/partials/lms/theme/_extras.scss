@@ -9714,7 +9714,8 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 }
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:hover,.wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:focus,.wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:active {
-    color: #7CB518
+    color: #7CB518;
+    border: none;
 }
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li:last-child {
@@ -11808,8 +11809,9 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     border: 2px solid #eee;
     border-radius: 5px;
     border-bottom: 4px solid #5c8001;
-    box-shadow: 0px 0 25px 0 rgb(0 0 0 / 20%);
+    box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.2);
     transform: translateY(-10px);
+    background-color: #fff;
 }
 
 .highlighted-courses .courses .course:hover .info,.highlighted-courses .courses .course:focus .info,.find-courses .courses .course:hover .info,.find-courses .courses .course:focus .info {
@@ -12469,6 +12471,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     margin: 0 auto;
     padding: 60px;
     background-color: #7CB518;
+    max-width: none;
 }
 
 .home>header .outer-wrapper:after {
@@ -12558,6 +12561,7 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     transition: all 0.2s linear 0s;
     text-align: center;
     opacity: 1;
+    display: block;
     padding-bottom: 20px
 }
 
@@ -26247,7 +26251,7 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
     .global-header .nav-links .secondary .dropdown-user-menu {
         position: absolute;
-        box-shadow: 0px 0px 30px rgb(127 137 161 / 25%);
+        box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
         background-color: #fff;
         color: #313131;
         right: 30px;
