@@ -1,4 +1,4 @@
-Indigo, a cool blue theme for Open edX
+Themes for Open EdX CMS & LMS (WIP)
 ======================================
 
 Indigo is an elegant, customizable theme for `Open edX <https://open.edx.org>`__.
@@ -17,11 +17,11 @@ Indigo was specially developed to be used with `Tutor <https://docs.overhang.io>
 
 Clone the theme repository::
 
-    git clone https://github.com/overhangio/indigo
+    git clone https://github.com/selsapingardi/indigo
 
 Render your theme::
 
-    tutor config render --extra-config ./indigo/config.yml ./indigo/theme "$(tutor config printroot)/env/build/openedx/themes/indigo"
+    tutor config render --extra-config ./selsa-indigo/config.yml ./selsa-indigo/theme "$(tutor config printroot)/env/build/openedx/themes/selsa-indigo"
 
 Rebuild the Openedx docker image::
 
@@ -33,7 +33,7 @@ Restart your platform::
 
 You will then have to enable the "indigo" theme, as per the `Tutor documentation <https://docs.tutor.overhang.io/local.html#setting-a-new-theme>`__::
 
-    tutor local settheme indigo $(tutor config printvalue LMS_HOST) $(tutor config printvalue CMS_HOST)
+    tutor local settheme selsa-indigo $(tutor config printvalue LMS_HOST) $(tutor config printvalue CMS_HOST)
 
 Upgrade
 -------

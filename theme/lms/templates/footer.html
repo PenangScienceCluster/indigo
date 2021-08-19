@@ -15,17 +15,39 @@
     <footer>
       <div class="row">
         <div class="col-md-9">
-          {% if INDIGO_FOOTER_NAV_LINKS %}
-          <nav class="navbar site-nav navbar-expand-sm" aria-label="${_('About')}">
-            <ul class="navbar-nav">
-              {% for link in INDIGO_FOOTER_NAV_LINKS %}
-                <li class="nav-item">
-                  <a class="nav-link" href="{{ link['url'] }}">{{ link['title'] }}</a>
+          <nav class="nav-colophon" aria-label="${_('About')}">
+            <ol>
+                <li class="nav-colophon-01">
+                <a id="about" href="${marketing_link('ABOUT')}">
+                    ${_("About")}
+                </a>
                 </li>
-              {% endfor %}
-            </ul>
+                %if marketing_link('JOBS') and marketing_link('JOBS') != '#':
+                  <li class="nav-colophon-02">
+                    <a id="jobs" href="${marketing_link('JOBS')}">
+                      ${_("Jobs")}
+                    </a>
+                  </li>
+                %endif
+                %if marketing_link('NEWS') and marketing_link('NEWS') != '#':
+                  <li class="nav-colophon-03">
+                    <a id="news" href="${marketing_link('NEWS')}">
+                      ${_("News")}
+                    </a>
+                  </li>
+                %endif
+                <li class="nav-colophon-04">
+                <a id="faq" href="${marketing_link('FAQ')}">
+                    ${_("FAQ")}
+                </a>
+                </li>
+                <li class="nav-colophon-05">
+                <a id="contact" href="${marketing_link('CONTACT')}">
+                    ${_("Contact")}
+                </a>
+                </li>
+            </ol>
           </nav>
-          {% endif %}
 
           ## Site operators: Please do not remove this paragraph! This attributes back to edX and makes your acknowledgement of edX's trademarks clear.
           <p class="copyright">${footer['copyright']}
@@ -37,17 +59,13 @@
               % endif
           </p>
 
-          {% if INDIGO_FOOTER_LEGAL_LINKS %}
           <nav class="navbar legal-nav navbar-expand-sm" aria-label="${_('Legal')}">
             <ul class="navbar-nav">
-              {% for link in INDIGO_FOOTER_LEGAL_LINKS %}
                 <li class="nav-item">
-                  <a class="nav-link" href="{{ link['url'] }}">{{ link['title'] }}</a>
+                  <a class="nav-link" href="https://github.com/selsapingardi/openedx_themes">OpenEdX theme by Selsa Pingardi</a>
                 </li>
-              {% endfor %}
             </ul>
           </nav>
-          {% endif %}
         </div>
         <div class="col-md-3">
           ## Please leave this link and use one of the logos provided
@@ -56,14 +74,12 @@
           ## which are not technically powered by Open edX.
           % if not hide_openedx_link:
             <div class="footer-about-openedx">
-              <p>
-                <a href="https://docs.tutor.overhang.io" rel="noopener" target="_blank">
-                  <img src="${static.url('images/tutor-logo.png')}" width="140" />
-                </a>
-                <a href="${footer['openedx_link']['url']}" rel="noopener" target="_blank">
-                  <img src="${static.url('images/openedx-logo.png')}" alt="${footer['openedx_link']['title']}" width="140" />
-                </a>
-              </p>
+              <a href="https://docs.tutor.overhang.io" rel="noopener" target="_blank">
+                <img src="${static.url('images/tutor-logo.png')}" width="140" />
+              </a>
+              <a href="${footer['openedx_link']['url']}" rel="noopener" target="_blank">
+                <img src="${static.url('images/openedx-logo.png')}" alt="${footer['openedx_link']['title']}" width="140" />
+              </a>
             </div>
           % endif
         </div>
@@ -81,34 +97,44 @@
       % endif
     >
       <div class="colophon">
-        {% if INDIGO_FOOTER_NAV_LINKS %}
         <nav class="nav-colophon" aria-label="${_('About')}">
           <ol>
-              {% for link in INDIGO_FOOTER_NAV_LINKS %}
-              <li>
-                <a href="{{ link['url'] }}">{{ link['title'] }}</a>
+              <li class="nav-colophon-01">
+              <a id="about" href="${marketing_link('ABOUT')}">
+                  ${_("About")}
+              </a>
               </li>
-              {% endfor %}
+              %if marketing_link('JOBS') and marketing_link('JOBS') != '#':
+                <li class="nav-colophon-02">
+                  <a id="jobs" href="${marketing_link('JOBS')}">
+                    ${_("Jobs")}
+                  </a>
+                </li>
+              %endif
+              %if marketing_link('NEWS') and marketing_link('NEWS') != '#':
+                <li class="nav-colophon-03">
+                  <a id="news" href="${marketing_link('NEWS')}">
+                    ${_("News")}
+                  </a>
+                </li>
+              %endif
+              <li class="nav-colophon-04">
+              <a id="faq" href="${marketing_link('FAQ')}">
+                  ${_("FAQ")}
+              </a>
+              </li>
+              <li class="nav-colophon-05">
+              <a id="contact" href="${marketing_link('CONTACT')}">
+                  ${_("Contact")}
+              </a>
+              </li>
           </ol>
         </nav>
-        {% endif %}
-        % if context.get('include_language_selector', footer_language_selector_is_enabled()):
-            <%include file="${static.get_template_path('widgets/footer-language-selector.html')}"/>
-        % endif
 
         <div class="wrapper-logo">
-          <p>
-            <a href="/">
-              ## The default logo is a placeholder.
-              ## You can either replace this link entirely or update
-              ## the FOOTER_ORGANIZATION_IMAGE in Django settings.
-              ## If you customize FOOTER_ORGANIZATION_IMAGE, then the image
-              ## can be included in the footer on other sites
-              ## (e.g. a blog or marketing front-end) to provide a consistent
-              ## user experience.  See the branding app for details.
-              <img alt="${_('organization logo')}" src="${footer['logo_image']}">
-            </a>
-          </p>
+          <a href="/">
+            <img alt="${_('organization logo')}" src="${footer['logo_image']}">
+          </a>
         </div>
 
         ## Site operators: Please do not remove this paragraph! This attributes back to edX and makes your acknowledgement of edX's trademarks clear.
@@ -121,17 +147,13 @@
               % endif
           </p>
 
-        {% if INDIGO_FOOTER_LEGAL_LINKS %}
         <nav class="nav-legal" aria-label="${_('Legal')}">
           <ul>
-            {% for link in INDIGO_FOOTER_LEGAL_LINKS %}
               <li>
-                <a href="{{ link['url'] }}">{{ link['title'] }}</a>
+                <a href="https://github.com/selsapingardi/openedx_themes">OpenEdX theme by Selsa Pingardi</a>
               </li>
-            {% endfor %}
           </ul>
         </nav>
-        {% endif %}
       </div>
 
       ## Please leave this link and use one of the logos provided
@@ -140,14 +162,12 @@
       ## which are not technically powered by OpenEdX.
       % if not hide_openedx_link:
       <div class="footer-about-openedx">
-        <p>
-          <a href="https://docs.tutor.overhang.io" rel="noopener" target="_blank">
-            <img src="${static.url('images/tutor-logo.png')}" height="42" />
-          </a>
-          <a href="${footer['openedx_link']['url']}" rel="noopener" target="_blank">
-            <img src="${static.url('images/openedx-logo.png')}" alt="${footer['openedx_link']['title']}" width="140" />
-          </a>
-        </p>
+        <a href="https://docs.tutor.overhang.io" rel="noopener" target="_blank">
+          <img src="${static.url('images/tutor-logo.png')}" height="42" />
+        </a>
+        <a href="${footer['openedx_link']['url']}" rel="noopener" target="_blank">
+          <img src="${static.url('images/openedx-logo.png')}" alt="${footer['openedx_link']['title']}" width="140" />
+        </a>
       </div>
       % endif
     </footer>

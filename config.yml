@@ -1,5 +1,5 @@
-INDIGO_WELCOME_MESSAGE: "The place for all your online learning"
-INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
+INDIGO_WELCOME_MESSAGE: "Selsa was here :)"
+INDIGO_PRIMARY_COLOR: "#7CB518" # green
 
 # Footer links are dictionaries with a "title" and "url"
 # To remove all links, write:
