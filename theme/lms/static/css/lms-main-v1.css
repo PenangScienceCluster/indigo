@@ -1,13 +1,3 @@
-// Extra rules needed for the LMS red theme
-//
-// The _extras.scss file is imported after all other rules by
-// the LMS Sass. For your own theme, you can override this file
-// to add any custom rules that you need. You can also import
-// partials directly into this file so that you can break your
-// rules into modular pieces.
-
-@import 'certificates';
-
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,600,700");
 @import url("https://fonts.googleapis.com/css?family=Inter:300,400,400i,500,600,700");
 /* @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700");
@@ -3506,10 +3496,6 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
 
 .sr-is-focusable,.sr-is-focusable:focus,.sr-is-focusable:active,.nav-utilities .action-toggle-notes,.home>header .title .course-search .search-input:focus,.find-courses .discovery-input:focus,.shopping-cart .user-data .data-input .three-col .col-2 .numbers-row .counter input[type="text"]:focus,.shopping-cart .user-data .data-input .three-col .col-2 .numbers-row button.inc,.shopping-cart .user-data .data-input .three-col .col-2 .numbers-row button.dec,.shopping-cart .user-data .data-input .three-col .col-2 .numbers-row .updateBtn:focus {
     outline: none
-}
-
-.btn {
-    text-shadow: none;
 }
 
 .btn-link {
@@ -7601,11 +7587,11 @@ footer#footer-edx-v3 .about-links li,footer#footer-edx-v3 .legal-links li,footer
     }
 }
 
-.animation-home-header-pop-up,.home>header .outer-wrapper {
-    animation: none;
-    animation-fill-mode: none;
-    animation-delay: unset
-}
+/* .animation-home-header-pop-up,.home>header .outer-wrapper {
+    animation: home-header-pop-up 1.15s ease-in-out;
+    animation-fill-mode: both;
+    animation-delay: 1s
+} */
 
 @-webkit-keyframes home-header-pop-up {
     0% {
@@ -8253,11 +8239,6 @@ p a:not(.btn):after,p a:visited:not(.btn):after {
 
 p a:not(.btn):hover:after,p a:visited:not(.btn):hover:after {
     transform: scaleX(1);
-}
-
-p a:not(.btn):hover, p a:not(.btn):focus, p a:visited:not(.btn):hover, p a:visited:not(.btn):focus{
-    color: #5C8001;
-    text-decoration: none;
 }
 
 a:not(.btn),a:visited:not(.btn) {
@@ -9723,8 +9704,7 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 }
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:hover,.wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:focus,.wrapper-footer footer#footer-openedx .colophon .nav-colophon li a:active {
-    color: #7CB518;
-    border: none;
+    color: #7CB518
 }
 
 .wrapper-footer footer#footer-openedx .colophon .nav-colophon li:last-child {
@@ -9800,10 +9780,6 @@ input[type="submit"]:disabled,input[type="submit"].is-disabled,input[type="submi
 .wrapper-footer footer#footer-openedx .nav-legal li:not(:first-child)::before {
     margin-right: 5px;
     content: "-"
-}
-
-.wrapper-footer footer#footer-openedx a:hover, .wrapper-footer footer#footer-openedx a:focus, .wrapper-footer footer#footer-openedx a:active {
-    border: none;
 }
 
 .wrapper-footer footer#footer-openedx .nav-social {
@@ -11822,9 +11798,8 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     border: 2px solid #eee;
     border-radius: 5px;
     border-bottom: 4px solid #5c8001;
-    box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0 25px 0 rgb(0 0 0 / 20%);
     transform: translateY(-10px);
-    background-color: #fff;
 }
 
 .highlighted-courses .courses .course:hover .info,.highlighted-courses .courses .course:focus .info,.find-courses .courses .course:hover .info,.find-courses .courses .course:focus .info {
@@ -12484,7 +12459,6 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     margin: 0 auto;
     padding: 60px;
     background-color: #7CB518;
-    max-width: none;
 }
 
 .home>header .outer-wrapper:after {
@@ -12574,7 +12548,6 @@ footer#footer-edx-v3 .select-lang-button:hover,footer#footer-edx-v3 .select-lang
     transition: all 0.2s linear 0s;
     text-align: center;
     opacity: 1;
-    display: block;
     padding-bottom: 20px
 }
 
@@ -15859,7 +15832,6 @@ a.fade-cover {
 .find-courses .search-facets.phone-menu {
     border: medium none;
     padding: 0;
-    z-index: 1;
     overflow: visible
 }
 
@@ -16038,7 +16010,6 @@ a.fade-cover {
     padding: 0px 50px;
     max-width: 1920px;
     position: relative;
-    border: none;
     z-index: 2
 }
 
@@ -16079,7 +16050,6 @@ a.fade-cover {
     box-shadow: 0 1px 0 0 rgba(255,255,255,0.6);
     margin-bottom: 20px;
     padding-bottom: 10px;
-    border: none;
     width: 100%
 }
 
@@ -16146,13 +16116,10 @@ a.fade-cover {
     font-size: inherit;
     font-weight: bold;
     background-color: #7CB518;
-    background-image: none;
-    border: none;
     border-radius: 3px;
     padding: 15px 0px;
     text-align: center;
     text-decoration: none;
-    text-shadow: none;
     box-sizing: border-box;
     display: block;
     font: normal 1.2rem/1.6rem 'Poppins';
@@ -16164,7 +16131,6 @@ a.fade-cover {
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta>a.find-courses:hover:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.register:hover:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.add-to-cart:hover:not(:disabled) {
     cursor: pointer;
     background-color: #5C8001;
-    background-image: none;
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta>a.find-courses:active:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta>a.find-courses:focus:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.register:active:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.register:focus:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.add-to-cart:active:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta a.add-to-cart:focus:not(:disabled) {
@@ -16190,13 +16156,14 @@ a.fade-cover {
 
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta strong {
     border: 1px solid #7CB518;
+    border-radius: 5px;
     color: #fff;
     display: inline-block;
     font-size: inherit;
     font-weight: bold;
     background-color: #7CB518;
-    background-image: none;
-    box-shadow: none;
+    padding: 7px 18px;
+    text-align: center;
     text-decoration: none;
     box-sizing: border-box;
     border-radius: 3px;
@@ -16213,7 +16180,6 @@ a.fade-cover {
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta strong:hover:not(:disabled) {
     cursor: pointer;
     background-color: #5C8001;
-    background-image: none;
 }
 
 .course-info header.course-profile .intro-inner-wrapper .intro .main-cta strong:active:not(:disabled),.course-info header.course-profile .intro-inner-wrapper .intro .main-cta strong:focus:not(:disabled) {
@@ -16264,7 +16230,6 @@ a.fade-cover {
 }
 
 .course-info header.course-profile .intro-inner-wrapper .media .hero {
-    border: none;
     border-radius: 5px;
     height: 100%;
     overflow: hidden;
@@ -16336,7 +16301,6 @@ a.fade-cover {
     border-radius: 5px;
     background-color: #f0f0f0;
     text-align: right;
-    text-decoration: none;
     color: #FBB02D
 }
 
@@ -16562,7 +16526,6 @@ a.fade-cover {
     font-size: 1.75em;
     text-decoration: none;
     color: #219ebc;
-    opacity: 1;
     transition: all 0.15s linear 0s
 }
 
@@ -16609,10 +16572,6 @@ a.fade-cover {
     float: left;
     margin: 0 10px 0 0;
     opacity: 0.6
-}
-
-.course-info .course-sidebar .important-dates li:hover .icon, .course-info .course-sidebar .important-dates li:focus .icon {
-    opacity: 0.6;
 }
 
 .course-info .course-sidebar .important-dates li .important-dates-item-text {
@@ -24320,14 +24279,8 @@ body.view-in-mfe .first-purchase-offer-banner {
     box-sizing: border-box;
     top: 5px;
     width: 100%;
-    border-radius: 5px 5px 0 0;
-    background: #f5f5f5
-}
-
-.search-bar .search-field:focus {
-    border: none;
-    border-bottom: 2px solid #5C8001;
-    box-shadow: none;
+    border-radius: 4px;
+    background: #fff
 }
 
 .search-bar .search-button,.search-bar .cancel-button,.search-bar .search-button:hover,.search-bar .cancel-button:hover {
@@ -24338,19 +24291,24 @@ body.view-in-mfe .first-purchase-offer-banner {
     top: 0;
     border: none;
     border-radius: 0;
-    background: transparent;
+    -webkit-border-top-right-radius: 3px;
+    -moz-border-topright-radius: 3px;
+    border-top-right-radius: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    -moz-border-bottomright-radius: 3px;
+    border-bottom-right-radius: 3px;
+    background: #7CB518;
     padding: 0 10px;
     height: 35px;
-    color: #7CB518;
+    color: #fff;
     box-shadow: none;
     line-height: 33px;
     text-shadow: none;
-    transition: 0.2s ease;
     text-transform: none
 }
 
 .search-bar .search-button:hover,.search-bar .search-button:focus,.search-bar .search-button:active,.search-bar .cancel-button:hover,.search-bar .cancel-button:focus,.search-bar .cancel-button:active,.search-bar .search-button:hover:hover,.search-bar .search-button:hover:focus,.search-bar .search-button:hover:active,.search-bar .cancel-button:hover:hover,.search-bar .cancel-button:hover:focus,.search-bar .cancel-button:hover:active {
-    color: #5C8001;
+    background: #065683;
     box-shadow: none;
     border: none
 }
@@ -24453,10 +24411,8 @@ body.view-in-mfe .first-purchase-offer-banner {
 }
 
 .dashboard-search-bar .search-field {
-    border: none;
-    border-bottom: 2px solid #313131;
-    background: #f5f5f5;
-    box-shadow: none;
+    background: #fff;
+    box-shadow: 0 1px 0 0 #fff,inset 0 0 3px 0 rgba(0,0,0,0.05);
     font-family: 'Poppins';
     font-style: normal
 }
@@ -26280,9 +26236,8 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
     }
 
     .global-header .nav-links .secondary .dropdown-user-menu {
-        position: fixed;
-        box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-        border: none;
+        position: absolute;
+        box-shadow: 0px 0px 30px rgb(127 137 161 / 25%);
         background-color: #fff;
         color: #313131;
         right: 30px;
@@ -26302,10 +26257,6 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
         cursor: pointer;
         overflow: hidden;
         padding: 0
-    }
-
-    .global-header .nav-links .secondary .dropdown-user-menu .dropdown-item:hover {
-        background-color: transparent;
     }
 
     .global-header .nav-links .secondary .dropdown-user-menu .dropdown-item:not(:last-child) {
@@ -27304,18 +27255,4 @@ body.error .back-button.disabled,body.error .back-button.is-disabled {
 
 .certificate-card.mode-professional .card-logo {
     background-image: url("/static/openedx_themes/images/certificates/red-certificate.3feb8341722d.png")
-}
-
-.course-outline .block-tree .section .section-name .section-title {
-    text-shadow: none;
-}
-
-.course-outline .block-tree .outline-button .fa {
-    color: #FBB02D;
-    text-shadow: none;
-}
-
-input[type="submit"]:active:not(:disabled), input[type="submit"]:focus:not(:disabled), input[type="button"]:active:not(:disabled), input[type="button"]:focus:not(:disabled), button:active:not(:disabled), button:focus:not(:disabled), .button:active:not(:disabled), .button:focus:not(:disabled) {
-    box-shadow: none;
-    outline: none;
 }
